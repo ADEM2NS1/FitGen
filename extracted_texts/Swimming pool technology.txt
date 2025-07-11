@@ -1,0 +1,1016 @@
+==Start of OCR for page 1==
+Swimming pool
+technology 2015
+The ultimate in water treatment
+ProMinentⓇ
+==End of OCR for page 1==
+
+==Start of OCR for page 3==
+1.1.2015
+Contents
+1
+1.1
+Swimming pool technology
+DULCODOS® Pool Swimming Pool Metering Systems
+DULCODOS® Pool Swimming Pool Metering Systems
+1
+1
+1.2 Metering System DULCODOS® Pool Soft
+3
+1.3
+1.4
+Metering System DULCODOS® Pool Basic
+Metering System DULCODOS® Pool Comfort
+5
+7
+1.5
+Metering System DULCODOS® Pool Professional
+9
+1.6
+Maintenance Kits
+12
+1.6.1
+Maintenance Kits for Metering Pumps
+12
+1.6.2
+Maintenance Kits for Measured Variables
+12
+1.6.3
+Buffer Solutions
+12
+1.7
+Test Equipment
+13
+1.7.1 Photometer
+13
+1.8
+Swimming Pool Metering Systems DSMa for Swimming Pools with
+Several Pools
+15
+1.9
+Configuration Examples
+16
+1.9.1 Configuration Example A: 2-Pool System
+16
+1.9.2
+Configuration example B: Multi-pool system
+18
+1.9.3
+Configuration example C: Multi-pool system with metering
+sets for 5 pools
+21
+2
+2.1
+Metering Sets
+Metering Sets for pH Value Adjustment and Disinfection
+23
+23
+2.1.1
+pH or Chlorine Metering Design with Peristaltic Pump
+DULCO®flex DF2a
+23
+2.1.2
+pH or Chlorine Metering Design with Peristaltic Pump
+DULCO®flex DF4a
+23
+2.1.3
+2.1.4
+pH or Chlorine Version (DULCO®flex DF4a, CANopen)
+pH or Chlorine Metering Design with Solenoid Metering
+Pump Beta®
+24
+24
+2.1.5
+pH or Chlorine Metering Design with Solenoid Metering
+Pump Beta®, CANopen
+24
+2.2
+Metering Sets for Metering of Flocculants
+25
+2.2.1
+Flocculant Design With Peristaltic Pump DULCO®flex DF4a
+2.2.2 Flocculant Design with Peristaltic Pump DULCO®flex DF4a,
+25
+CANopen
+25
+2.2.3
+Flocculant Designs With Solenoid Metering Pump Beta®
+26
+2.3
+Metering Sets for Metering Fragrances
+27
+2.3.1 Fragrance Metering Design with Peristaltic Pump
+DULCO®flex DF3a
+27
+2.4
+Options
+27
+3
+Ozone Systems
+29
+3.1
+Ozone for Swimming Pool Water
+29
+3.2
+Ozone System OZONFILT®OZVa
+29
+3.2.1
+Ozone System OZONFILT®OZVa
+29
+3.2.2
+OZONFILT® OZVa 1-4 Ozone Production Systems
+(Operating Gas - Air)
+30
+3.3
+Compressors, Accessories
+32
+3.3.1
+Compressors for OZONFILT® OZVa 1-4
+32
+3.3.2 PVC or Stainless Steel Static Helical Mixer
+33
+3.4
+Ozone System OZONFILT® Compact OMVa
+34
+3.4.1 Ozone System OZONFILT® Compact OMVa
+34
+3.5
+Accessories and Spare Parts for Ozone Systems
+36
+3.5.1
+Bleed Valves
+36
+3.5.2
+Residual Ozone Gas Destructor
+36
+3.6
+Ozone System OZONFILT® OZMa
+37
+3.6.1
+Ozone Generation Systems OZONFILT® OZMa 1-6 A
+(Operating Gas - Air)
+38
+3.6.2 Ozone Generation Systems OZONFILT® OZMa 1-6 O
+(Operating Gas - Oxygen)
+41
+3.6.3 Order Information for OZONFILT® OZMa Systems
+44
+3.7
+Safety Accessories for Ozone Systems
+45
+3.7.1
+Room Air Monitor
+45
+3.7.2
+Personal Protection Needs
+46
+ProMinentⓇ
+==End of OCR for page 3==
+
+==Start of OCR for page 4==
+ProMinentⓇ
+Contents
+Swimming pool technology
+4
+Disinfection and Oxidation Process
+47
+4.1
+CHLORINSITU® Electrolysis Systems
+47
+4.2
+Membrane Electrolysis Systems CHLORINSITU® III - IV compact
+48
+4.3
+Gas Warning Device for Monitoring Chlorine Gas
+50
+4.4
+Accessories
+50
+4.5
+Electrolysis System CHLORINSITU® II
+51
+4.6
+Electrolysis System CHLORINSITU® III
+52
+4.7
+Electrolysis System CHLORINSITU® V
+54
+4.8
+Electrolysis System CHLORINSITU® V Plus
+56
+4.9
+Dulcodes UV Treatment Systems
+58
+4.10
+UV System Dulcodes S for Chloramine Reduction in Pool Water
+60
+4.11
+Chlorine Dioxide System Bello Zon® CDLb
+62
+4.11.1 Accessories and Maintenance Sets for Chlorine Dioxide
+Systems Bello Zon® CDLb
+63
+4.12
+Chlorine Dioxide System Bello Zon® CDVc
+67
+4.12.1 Identity Code Ordering System for CDVc Systems
+4.12.2 Maintenance Sets for Bello Zon® CDV Chlorine Dioxide
+69
+Systems
+70
+5
+Individual Devices and Accessories
+71
+5.1
+Peristaltic Pumps
+71
+5.1.1 Peristaltic Pump DULCO®flex DF2a
+71
+5.1.2
+Identity Code Ordering System
+72
+5.1.3
+Peristaltic Pump DULCO®flex DF4a
+73
+5.1.4
+Identity Code Ordering System
+74
+5.2
+Metering Pumps
+75
+5.2.1 Solenoid Driven Metering Pump Beta®
+75
+5.2.2 Identity Code Ordering System
+77
+5.2.3
+Beta® 4a Diaphragm Metering Pumps with CAN bus Interface 79
+5.2.4
+Solenoid Diaphragm Metering Pump gamma/X
+80
+5.2.5
+Identity Code Ordering System
+82
+5.2.6 Solenoid Driven Metering Pump delta®
+83
+5.2.7
+Identity Code Ordering System
+85
+5.2.8
+Motor Driven Metering Pump Sigma/ 1 (Basic type)
+86
+5.3
+Accessories for Metering Pumps
+88
+5.3.1
+Accessories, Suction Side
+88
+5.3.2
+Accessories for Metering End
+90
+5.3.3 General Accessories
+92
+5.4
+Measuring and Control Equipment
+94
+5.4.1
+Multi-Channel Multi-Parameter Measuring and Control System
+DULCOMARIN® II
+94
+5.4.2
+Multi-Channel Multi-Parameter Measuring and Control System
+DULCOMARIN® II
+96
+5.4.3
+Technical Data for the DULCOMARIN® II Multi-Channel
+Measuring and Control System
+97
+5.4.4
+Identity Code Ordering System DULCOMARIN® II
+98
+5.4.5
+Multi-Channel Multi-Parameter Measuring and Control System
+DULCOMARIN® II
+100
+5.4.6
+Central Unit
+101
+5.4.7
+Measuring Module (M module)
+102
+5.4.8
+Control Module (A module)
+103
+5.4.9 Power Supply Module (N module)
+104
+5.4.10 Combination Module DF2a CAN SET
+105
+5.4.11 Current Input Module (I module)
+106
+5.4.12 Control Module for Chlorine Gas Metering Devices (R module) 107
+5.4.13 Current Input Module (I module)
+108
+5.4.14 Functional Module (F Module)
+109
+5.4.15 Identity Code Ordering System Multi-Channel Multi-Parameter
+Measuring and Control System DULCOMARIN® II
+(Central Unit and Combination Module)
+110
+5.4.16 Identity Code Ordering System for CANopen Modules
+111
+5.4.17 Accessories for the DULCOMARIN® II Measuring and
+Control System
+112
+1.1.2015
+==End of OCR for page 4==
+
+==Start of OCR for page 5==
+Contents
+Swimming pool technology
+5.5
+Sensors
+116
+5.5.1
+Sensors for Chlorine, Bromine, Chlorine dioxide and Chlorite 116
+5.5.2
+Sensors for pH Value
+121
+5.5.3
+Sensors for ORP Value
+122
+5.5.4
+Sensors for Temperature
+123
+5.5.5
+Sensors for Inorganic Chlorine
+123
+5.5.6
+Organic Chlorine (Total Available Chlorine)
+124
+5.5.7 Assembly Set
+124
+5.6
+Accessories for Sensors
+125
+5.6.1
+Measuring Transducer 4...20 mA (Two Wire)
+125
+5.6.2 von Taine® Solenoid-coupled Rotary Pumps for
+Application = Water Sampling
+129
+5.7
+Test Devices
+130
+5.7.1
+Portamess Portable Meters Measured Variable, Conductivity 130
+5.7.2
+Photometer
+131
+5.7.3
+Manual Measuring Device for pH/ORP/Temperature
+133
+5.8
+Compensating Tank (Surge Water Tank)
+133
+6
+General Information on Water Treatment
+135
+6.1
+Swimming Pool Water Treatment
+135
+6.2
+Measuring and Control System Diagram
+137
+6.2.1
+Configuration Example: 2-Pool System
+137
+6.2.2
+DXCa Function Extensions for Hotel and Private Pools
+(F Module)
+139
+6.3
+Metering Station
+140
+6.4
+"Reduction/Energy Saving" Application Solution
+141
+6.5
+"WLAN Remote Display" Application Solution
+142
+6.6
+"Immersion Tank" Application Solution
+143
+7
+ProMinent® Chemical Resistance List
+145
+Resistance of Materials Used in Liquid Ends to the Chemicals Most
+Frequently Used
+145
+Pump Specification Data
+154
+Editor:
+ProMinent GmbH
+Im Schuhmachergewann 5-11
+69123 Heidelberg Germany
++49 6221 842-0
+info@prominent.com
+www.prominent.de
+Technical changes reserved.
+You can view our general terms and conditions on our home page.
+1.1.2015
+ProMinentⓇ
+==End of OCR for page 5==
+
+==Start of OCR for page 7==
+1
+1.1
+DULCODOS® Pool Swimming Pool Metering Systems
+DULCODOS® Pool Swimming Pool Metering Systems
+The metering systems DULCODOS® Pool ensure the best water quality. The systems are available
+in four different designs. It is easy to work out which type is best suited to your requirements.
+Chlorine or active oxygen?
+Historically, swimming pool water has always been treated with chlorine. Because it is an effective
+disinfectant and is highly oxidising, chlorine is also the chemical of choice for public pools. Clear and
+hygienically safe water is guaranteed.
+The metering systems DULCODOS® Pool reliably keep the operating parameters in an optimum range and
+unpleasant side-effects, such as the smell of chlorine or burning eyes, are very rare.
+Active oxygen is less effective than chlorine. It can be used for very gentle and environmentally-sound
+water treatment in pools with fewer users.
+■ Soft
+DULCODOS® Pool Soft is especially suited to private pools used by a small number of people. It works with
+active oxygen substances, which are less effective than chlorine. Water treatment with active oxygen is a
+good alternative for ecologically-minded pool owners or if users are allergic to chlorine. DULCODOS® Pool
+Soft uses no chlorine chemicals.
+■ Basic
+DULCODOS® Pool Basic regulates the pH and chlorine content using the redox potential. This is the direct
+measurement of effective oxidation in the water and is therefore an indication of the disinfectant effect and
+concentration of the metered chlorine. The concentration of chlorine cannot be determined with accuracy
+with this process. ORP measurements allow a particular range of chlorine to be set. DULCODOS® Pool
+Basic is robust and requires little maintenance.
+■ Comfort
+DULCODOS®Pool Comfort uses highly specific chlorine sensors to measure the chlorine content. The
+concentration of chlorine in the water can be determined and set with accuracy. The effectiveness of the
+pool filter is boosted by an integrated feeder assembly for flocculant, resulting in crystal-clear water!
+Numerous features to enhance operating convenience, such as measured values being mapped by a
+screen plotter or remote control from your PC, iPad or other tablet device using an integrated web server,
+make the metering system very popular with customers.
+■ Professional
+In addition to the features described above, DULCODOS®Pool Professional also measures the combined
+chlorine. This is an important parameter in public pools. It can be incorporated in the building management
+system via OPC and KNX and alarm messages can be sent by text or e-mail. Eco!Mode operating mode
+reduces the energy consumption of the filter pumps. The integrated soft PLC control can be used to operate
+several peripheral devices and functions. The swimming pool controller becomes the central control unit
+for all the swimming pool technology.
+1.1.2015
+Swimming pool technology 2015
+1
+ProMinentⓇ
+==End of OCR for page 7==
+
+==Start of OCR for page 8==
+ProMinentⓇ
+1
+DULCODOS® Pool Swimming Pool Metering Systems
+Choice of pumps
+The metering systems DULCODOS®Pool allow you to choose which metering pump to fit on your complete
+system. The choice of pump depends entirely on the size of your pool and how often it is used.
+■ Peristaltic pumps DULCO®flex are suited to applications requiring few chemicals, such as small
+pools or those used infrequently. The pump reliably eliminates bubbles of gas formed during periods of
+non-use. Depending on the amount of use, the metering hose has to be replaced once or twice a year.
+■ Motor-driven metering pumps alpha have a higher capacity and longer maintenance intervals. Like
+peristaltic pumps, they are silent.
+■ Solenoid metering pumps Beta® are not controlled by switching them on and off, like DULCO®flex or
+alpha, instead, their metering frequency is adjusted continuously, enabling the pump to have an
+extremely precise control action.
+■ Pumps with CAN bus systemcan be used in the DULCODOS® Pool Professional series. They
+communicate all operating messages, such as two-stage monitoring of the chemical reservoir, to the
+control.
+■Accessories
+Whether you are looking for collecting pans for chemical tanks or portable test devices for measurement
+parameters - or even software for digital control: optional accessories make it even easier for you to
+operate the system.
+Service
+Installation, commissioning, training in how the system works, operation and maintenance: When you buy
+a DULCODOS®Pool system, it comes with service you can rely on – even if your pool is already quite old.
+2
+Swimming pool technology 2015
+1.1.2015
+==End of OCR for page 8==
+
+==Start of OCR for page 9==
+1
+DULCODOS® Pool Swimming Pool Metering Systems
+1.2
+P_DD_0042_SW1
+ProMinent.
+Metering System DULCODOS® Pool Soft
+Ecologically convincing: chlorine-free water treatment with active oxygen in private swimming pools - fully
+automatically and correctly.
+For swimming pools with volumes up to 100 m³
+Chlorine-free water treatment system for environmentally operated private pools. Safe water disinfection
+with active oxygen as a turnkey complete solution.
+Complete system DULCODOS® Pool Soft for pH adjustment and chlorine-free disinfection with active
+oxygen. To prevent any germs in the pool from building up resistance to active oxygen, it is not metered
+continuously, but injected at intervals controlled by a timer.
+Peristaltic pumps of the product range DULCO®flex, motor-driven metering pumps type alpha or solenoid
+metering pumps type Beta® are used, depending on demand and the circulation volume.
+Sensors, controllers and metering pumps form a unit with the chemical storage tanks, which can get to work
+without a lot of installation effort on your part.
+The control device performs numerous functions to enhance operating convenience, such as mapping
+measured values using a screen plotter and an SD memory card or remote access via the integral WEB
+server and LAN interface (optional).
+Your benefits
+Simple, quick assembly
+Simple, menu-driven operation
+Chlorine-free
+Constantly good water quality
+Versatile monitoring functions
+Technical details
+■2-channel controller DULCOMETER® diaLog DACa with measurement/control of the pH value and
+metering of active oxygen using an integrated timer function, mounted on a wall plate ready for use.
+■In-line probe housing with sample water monitoring, sample water filter and measuring probe for pH
+value
+Monitoring of the chemical reservoir
+Dosing monitor to protect against over-metering
+Screen plotter for graphic mapping of measured values, data logger with SD card
+Embedded web server with LAN interface (optional)
+Metering pumps alpha, DULCO®flex or Beta® to control the pH value and active oxygen content.
+Connector for point of injection: Injection valves with 1/2" screw thread
+Connectors for metering pumps/points of injection: PVC hose 10 x 4 mm
+Sample water connector: PE hose 8 x 5 mm
+Digital pause input
+Alarm relay output
+Electrical connection: 230 VAC, 50/60 Hz
+Dimensions with metering pumps alpha or Beta®:
+595 x 745 x 150 mm (W x H x D) mounting plate for measuring technology
+595 x 400 x 150 mm (W x H x D) mounting plate for pumps
+Dimensions with metering pumps DULCO®flex: 595 x 745 x 150 mm (W x H x D)
+Weight: approx. 10 kg or 6 kg (without pumps)
+Field of application
+■ Private swimming pool
+1.1.2015
+Swimming pool technology 2015
+3
+ProMinentⓇ
+==End of OCR for page 9==
+
+==Start of OCR for page 10==
+ProMinentⓇ
+1
+DULCODOS® Pool Swimming Pool Metering Systems
+DSPa Measured variable
+DO2 pH/Timer control H2O2
+Identity Code Ordering System for DULCODOS® Pool Soft
+Hardware-additional functions
+Software-additional functions
+0
+Standard
+1
+Screen plotter with measured data backup including SD card
+Communication interfaces
+0
+none
+5
+230 V, 50/60 Hz, European standard plug
+B
+0
+Embedded web server, LAN (available from mid-2015)
+Electrical connection
+A
+230 V, 50/60 Hz, Swiss plug
+Sensor equipment
+with sensors
+1
+without sensors
+Version
+0
+1
+with ProMinent® logo
+without ProMinent® Logo
+Language
+ADEFGINPRS
+Swedish
+German
+English
+French
+Czech
+Italian
+Dutch
+Polish
+Russian
+Spanish
+Metering pumps for acids/alkalis
+0 without metering pumps
+1
+0.8 l/h (DULCO®flex DF2a 0208)
+23
+2
+1.6 l/h (DULCO®flex DF2a 0216)
+4
+567
+2.4 l/h (DULCO®flex DF2a 0224)
+1.8 l/h (alpha ALPc 1002 PVT)
+3.5 l/h (alpha ALPc 1004 PVT)
+1.5 l/h (Beta® BT4b 0401 PVT)
+7
+2.8 l/h (Beta® BT4b 0402 PVT)
+8
+4.5 l/h (Beta® BT4b 0404 PVT)
+0
+1
+Multifunctional valve for acid/alkali pump
+without
+with MFV (only for alpha and Beta®)
+Metering pumps for disinfection
+0
+without metering pumps
+1
+0.8 l/h (DULCO®flex DF2a for 0208) for pools up to a volume of 20 m³
+2
+1.6 l/h (DULCO®flex DF2a for 0216) for pools up to a volume of 40 m³
+34
+5
+678
+2.4 l/h (DULCO®flex DF2a for 0224) for pools up to a volume of 60 m³
+1.8 l/h (alpha ALPc 1002 PVT) for pools up to a volume of 45 m³
+3.5 l/h (alpha ALPc 1004 PVT) for pools up to a volume of 90 m³
+1.5 l/h (Beta® BT4b 0401 PVT) for pools up to a volume of 25 m³
+2.8 l/h (Beta® BT4b 0402 PVT) for pools up to a volume of 50 m³
+4.5 l/h (Beta® BT4b 0404 PVT) for pools up to a volume of 100 m³
+Multifunctional valve for disinfection pump
+I without
+with MFV (only for alpha and Beta®)
+Installation
+0
+1
+0
+1
+0
+supplied loose without mounting plate
+assembled on a base plate
+Approvals
+with CE certification
+DSPa DO2 01
+0
+A
+00D
+2
+0
+2
+0
+1
+0
+Identity code as a representative example
+4
+Swimming pool technology 2015
+1.1.2015
+==End of OCR for page 10==
+
+==Start of OCR for page 11==
+1.1.2015
+pk_7_100_SW1
+1
+1.3
+ProMinent.
+DULCODOS® Pool Swimming Pool Metering Systems
+Metering System DULCODOS® Pool Basic
+Convenient and simple: pure water in private swimming pools - fully automatically and correctly.
+For swimming pools with a circulation capacity of up to 200 m³/h
+The chlorine metering system DULCODOS® Pool Basic is a complete solution for private swimming pools
+where the chlorine content is controlled using the low-maintenance measurement of the redox potential.
+Complete system for the fully automatic adjustment of pH and chlorine content (using the measured
+variable redox potential) in swimming pool water. Peristaltic pumps of the product range DULCO®flex or
+motor-driven metering pumps type alpha are used, depending on demand and the circulation volume.
+Sensors, controllers and metering pumps form a single perfectly coordinated unit with the chemical storage
+tanks, which can reliably get to work without a lot of installation effort on your part.
+Your benefits
+Simple, quick assembly
+Simple, menu-driven operation
+Constantly good water quality
+Versatile monitoring functions
+Technical details
+■2-channel swimming pool controller Splash Control PPCa with measurement, control and metering
+functions for pH and redox potential (chlorine metering)
+■In-line probe housing with sample water monitoring, sample water filter and measuring probe for pH
+value and redox potential, fitted on a wall panel.
+2 metering pumps alpha or DULCO®flex
+Monitoring of the chemical reservoir
+Dosing monitor to protect against over-metering
+Connectors for points of injection: Injection valves with 1/2" screw thread
+Connectors for metering pumps/points of injection: PVC hose 10 x 4 mm
+Sample water connector: PE hose 8 x 5 mm
+Digital pause input
+Alarm relay output
+Electrical connection: 230 VAC, 50/60 Hz
+Dimensions: 595 x 745 x 150 mm (W x H x D)
+Weight: approx. 10 kg or 6 kg (without pumps)
+Field of application
+■ Private swimming pool
+Swimming pool technology 2015
+5
+ProMinentⓇ
+==End of OCR for page 11==
+
+==Start of OCR for page 12==
+ProMinentⓇ
+1
+DULCODOS® Pool Swimming Pool Metering Systems
+PRO
+pH/ORP
+0
+DSPa Measured variable
+Identity Code Ordering System for DULCODOS® Pool Basic
+Hardware-additional functions
+Software-additional functions
+Communication interfaces
+none
+Electrical connection
+none
+0
+A
+230 V, 50/60 Hz, European standard plug
+B
+230 V, 50/60 Hz, Swiss plug
+Sensor equipment
+0
+with sensors
+A
+without sensors
+Version
+0
+1
+with ProMinent® logo
+without ProMinent® Logo
+Language
+D
+German
+EFGINRS
+English
+French
+Czech
+Italian
+Dutch
+Russian
+Spanish
+Metering pumps for acids/alkalis
+0 without metering pumps
+1
+0,8 l/h (DULCO®flex DF2a 0208)
+2
+1,6 l/h (DULCO®flex DF2a 0216)
+3
+2,4 l/h (DULCO®flex DF2a 0224)
+45
+1,8 l/h (alpha ALPc 1002 PVT)
+5
+0
+without
+1
+0
+3,5 l/h (alpha ALPc 1004 PVT)
+Multifunctional valve for acid/alkali pump
+with MFV (alpha only)
+Metering pumps for disinfection
+without metering pumps
+1
+0.8 l/h DULCO®flex for up to 45/10 m³/h circulation HB/FB*
+2
+1.6 l/h DULCO®flex for up to 90/20 m³/h circulation HB/FB*
+3
+2.4 l/h DULCO®flex for up to 140/30 m³/h circulation HB/FB*
+45
+4
+1.8 l/h alpha for up to 100/20 m³/h circulation HB/FB*
+3.5 l/h alpha for up to 200/40 m³/h circulation HB/FB*
+Multifunctional valve for disinfection pump
+0
+without
+0
+with MFV (alpha only)
+Installation
+0
+1
+supplied loose without mounting plate
+assembled on a base plate
+Approvals
+0
+with CE certification
+DSPa PRO 0
+0
+0
+A
+0 0 D
+2 0
+2
+0
+1
+0
+Identity code as a representative example
+6
+Swimming pool technology 2015
+1.1.2015
+==End of OCR for page 12==
+
+==Start of OCR for page 13==
+P_DD_0045_SW1
+P_DD_0037_SW1
+1.4
+1
+ProMinent.
+DULCODOS® Pool Swimming Pool Metering Systems
+Metering System DULCODOS® Pool Comfort
+Convenient and simple: crystal-clear water in private swimming pools - fully automatically and correctly.
+For swimming pools with a circulation capacity of up to 225 m³/h
+The chlorine metering system DULCODOS® Pool Comfort is the convenient solution for pH adjustment and
+disinfection of swimming pools with liquid chlorine products. Remote access is possible via LAN interface.
+Your benefits
+Complete system DULCODOS® Pool Comfort for pH adjustment and disinfection with liquid chlorine
+products. Peristaltic pumps of the product range DULCO®flex, motor-driven metering pumps type alpha or
+solenoid metering pumps type Beta® are used, depending on demand and the circulation volume.
+An integrated flocculant metering station (optional) ensures crystal-clear water.
+Sensors, controllers and metering pumps form a unit with the chemical storage tanks, which can get to work
+without a lot of installation effort on your part.
+The control device performs numerous functions to enhance operating convenience, such as mapping
+measured values using a screen plotter and an SD memory card or remote access via the integral WEB
+server and LAN interface (optional).
+Simple, quick assembly
+Simple, menu-driven operation
+Brilliant water quality
+Versatile monitoring functions
+Technical details
+■2-channel controller DULCOMETER® diaLog DACa with measurement/control and metering functions
+for pH and chlorine concentration, mounted on a wall plate ready for use
+Integrated flocculant metering station (optional)
+In-line probe housing with sample water monitoring, sample water filter and measuring probes for pH
+and chlorine content (DC2 for free chlorine, DC4 for free chlorine in the presence of isocyanuric acid
+stabiliser)
+Monitoring of the chemical reservoir
+Dosing monitor to protect against over-metering
+Screen plotter for graphic mapping of measured values, data logger with SD card
+Embedded web server with LAN interface (optional)
+Metering pumps alpha, DULCO®flex or Beta® to control the pH value and chlorine content,
+DULCO®flex for metering flocculant (optional).
+Connector for point of injection: Injection valves with 1/2" screw thread
+Connectors for metering pumps/points of injection: PVC hose 10 x 4 mm
+Sample water connector: PE hose 8 x 5 mm
+Digital pause input
+Alarm relay output
+Electrical connection: 230 VAC, 50/60 Hz
+Dimensions with metering pumps alpha or Beta® and/or with "flocculant metering" option:
+595 x 745 x 150 mm (W x H x D) mounting plate for measuring technology
+595 x 400 x 150 mm (W x H x D) mounting plate for pumps
+Dimensions with metering pumps DULCO®flex: 595 x 745 x 150 mm (W x H x D)
+Weight: approx. 10 kg or 6 kg (without pumps)
+Field of application
+■High-end private pool
+ProMinent.
+1.1.2015
+Swimming pool technology 2015
+7
+ProMinentⓇ
+==End of OCR for page 13==
+
+==Start of OCR for page 14==
+8
+ProMinentⓇ
+1
+DULCODOS® Pool Swimming Pool Metering Systems
+DSPa Measured variable
+Identity Code Ordering System for DULCODOS® Pool Comfort
+DC2 pH/free chlorine (chlorine sensor CLE 3-mA-2ppm)
+DC4 pH/free chlorine in the presence of the stabiliser isocyanuric acid (chlorine sensor CGE 2-mA-2ppm)
+Hardware-additional functions
+0
+Standard
+Software-additional functions
+1
+Screen plotter with measured data backup including SD card
+Communication interfaces
+0
+none
+5
+Embedded web server, LAN (available from mid-2015)
+Electrical connection
+A
+230 V, 50/60 Hz, European standard plug
+B
+230 V, 50/60 Hz, Swiss plug
+Sensor equipment
+0
+with sensors
+B
+C
+Measured variable DC2 without sensors
+Measured variable DC4 without sensors
+Version
+0
+with ProMinent® logo
+1
+without ProMinent® Logo
+Language
+ADEF
+Swedish
+German
+English
+French
+G
+Czech
+Italian
+INPRS
+Dutch
+Polish
+Russian
+Spanish
+Metering pumps for acids/alkalis
+0
+without metering pumps
+1
+0,8 l/h (DULCO®flex DF2a 0208)
+2
+1,6 l/h (DULCO®flex DF2a 0216)
+345678
+2,4 l/h (DULCO®flex DF2a 0224)
+1,8 l/h (alpha ALPc 1002 PVT)
+8
+0
+1
+0
+1
+3,5 l/h (alpha ALPc 1004 PVT)
+1,5 l/h (Beta® BT4b 0401 PVT)
+2,8 l/h (Beta® BT4b 0402 PVT)
+4,5 l/h (Beta® BT4b 0404 PVT)
+Multifunctional valve for acid/alkali pump
+without
+with MFV (only for alpha and Beta®)
+Metering pumps for disinfection
+without metering pumps
+0.8 l/h DULCO®flex for up to 45/10 m³/h circulation HB/FB*
+2
+1.6 l/h DULCO®flex for up to 90/20 m³/h circulation HB/FB*
+3
+2.4 l/h DULCO®flex for up to 140/30 m³/h circulation HB/FB*
+4
+1.8 l/h alpha for up to 100/20 m³/h circulation HB/FB*
+5
+3.5 l/h alpha for up to 200/40 m³/h circulation HB/FB*
+6
+1.5 l/h Beta® for up to 85/20 m³/h circulation HB/FB*
+7
+2.8 l/h Beta® for up to 160/35 m³/h circulation HB/FB*
+8
+4.5 l/h Beta® for up to 260/55 m³/h circulation HB/FB*
+0
+without
+1
+Multifunctional valve for disinfection pump
+with MFV (only for alpha and Beta®)
+Installation
+0
+supplied loose without mounting plate
+1
+assembled on a base plate
+B
+Base plate with flocculant pump DF4a fitted
+Approvals
+0
+with CE certification
+DSPa DC4 0
+1
+0
+A
+0 0 D
+2 0
+2
+0
+1
+0
+Identity code as a representative example
+*
+Calculated for 12 percent sodium-calcium hypochlorite
+HB = Indoor swimming pool
+FB = Outdoor swimming pool
+Swimming pool technology 2015
+1.1.2015
+==End of OCR for page 14==
+
+==Start of OCR for page 15==
+pk_7_105_SW1
+1.1.2015
+P_DD_0035_SW1
+ProMinent.
+1
+1.5
+DULCODOS® Pool Swimming Pool Metering Systems
+ProMinent.
+Metering System DULCODOS® Pool Professional
+Professional and demanding: crystal-clear water in public swimming pools - fully automatically and
+correctly, with minimal energy consumption, thanks to Eco!Mode.
+For swimming pools with a circulation capacity of up to 1,130 m³/h
+Chlorine metering system for individual adjustment and monitoring of all common hygiene auxiliary
+parameters in public pools. DULCODOS® Pool Professional ensures crystal-clear water quality and lowers
+operating costs thanks to Eco!Mode.
+Complete system DULCODOS® Pool Professional for individual adjustment and monitoring of all common
+hygiene auxiliary parameters in public pools, such as pH, redox potential and free and combined chlorine.
+Peristaltic pumps of the product range DULCO®flex, motor-driven metering pumps type alpha or solenoid
+metering pumps type Beta® are used, depending on demand and the circulation volume.
+An integrated flocculant metering station (optional) ensures crystal-

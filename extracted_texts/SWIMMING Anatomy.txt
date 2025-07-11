@@ -1,0 +1,654 @@
+SWIMMING
+Anatomy
+IAN MCLEOD
+Your illustrated guide
+for swimming strength,
+speed, and endurance
+
+
+Table of Contents
+Title Page
+Copyright Page
+CHAPTER 1 - THE SWIMMER IN MOTION
+Freestyle
+Butterfly
+Backstroke
+Breaststroke
+Dryland Training Programs
+Dryland Training for Young Swimmers
+CHAPTER 2 - ARMS
+Standing Double-Arm Triceps Pushdown
+Dumbbell Kickback
+Close-Grip Push-Up
+Close-Grip Bench Press
+Medicine Ball Chest Pass
+Tate Press
+Barbell Biceps Curl
+Dumbbell Biceps Curl
+Concentration Curl
+CHAPTER 3 - SHOULDERS
+Forward Dumbbell Deltoid Raise
+Lateral Dumbbell Deltoid Raise
+T Exercise
+Dumbbell Shoulder Press
+Bent-Over Reverse Dumbbell Fly
+Prone T, Y, A (Blackburn)
+Scapular Push-Up
+Scapular Dip
+Internal Rotation With Tubing
+External Rotation With Tubing
+Crabwalk
+Overhead Single-Arm Bounce
+CHAPTER 4 - CHEST
+Push-Up
+Feet-Elevated Push-Up
+Medicine Ball Push-Up
+Barbell Flat Bench Press
+Dumbbell Physioball Bench Press
+Barbell Incline Bench Press
+Dip (Chest Version)
+Standing Double-Arm Medicine Ball Throw Down
+Supine Medicine Ball Partner Pass and Catch
+Wheelbarrow
+CHAPTER 5 - ABDOMEN
+Hollow Hold
+Watch TV
+V-Up
+Flutter Kicks
+Physioball Crunch
+Cable Crunch
+Seated Physioball Abdominal Hold
+Russian Twist
+Kneeling Chop
+Physioball Prayer Roll
+Physioball Upper-Trunk Rotation
+Physioball Jackknife
+CHAPTER 6 - BACK
+Chin-Up
+Pull-Up
+Lat Pull-Down
+Standing Straight-Arm Pull-Down
+Double-Arm Seated Machine Row
+Bent-Over Single-Arm Row
+Standing Zeus
+Lumbar Extension
+Physioball Back Extension
+Physioball Prone Superman Progression
+Physioball Prone Streamline
+Physioball Bridge
+CHAPTER 7 - LEGS
+Back Squat
+Single-Leg Squat
+Dumbbell Step-Up
+Lunge
+Standing Hip Internal Rotation
+Standing Hip External Rotation
+Romanian Deadlifts (RDLs)
+Physioball Hamstring Curl
+Leg Curl
+Leg Extension
+Band Lateral Shuffle
+Standing Hip Adduction
+Inversion and Eversion Ankle Band Strengthening
+CHAPTER 8 - WHOLE-BODY TRAINING
+Single-Arm Lawn Mower
+Burpee
+Block Jump Start Into Streamlined Position
+Band-Resisted Start
+Box Jump
+Diagonal Cable Column Lift
+EXERCISE FINDER
+ABOUT THE AUTHOR
+
+SWIMMING
+ΑΝΑΤΟMY
+Ian McLeod
+Human Kinetics
+
+Library of Congress Cataloging-in-Publication Data
+McLeod, Ian.
+Swimming anatomy / Ian McLeod.
+p. cm.
+ISBN-13: 978-0-7360-7571-8 (soft cover) ISBN-10: 978-0-736-09385-9 (soft cover)
+1. Swimming--Training. 2. Swimming--Physiological aspects. 3. Aquatic sports injuries. I. Title.
+GV837.7.M37 2010
+797.2'1--dc22
+2009016094
+ISBN-10: 978-0-736-09385-9 (print)
+ISBN-10: 0-7360-8627-7 (Adobe PDF)
+ISBN-13: 978-0-7360-7571-8 (print)
+ISBN-13: 978-0-7360-8627-1 (Adobe PDF)
+Copyright © 2010 by Ian A. McLeod
+All rights reserved. Except for use in a review, the reproduction or utilization of this work in any form or by
+any electronic, mechanical, or other means, now known or hereafter invented, including xerography,
+photocopying, and recording, and in any information storage and retrieval system, is forbidden without the
+written permission of the publisher.
+This publication is written and published to provide accurate and authoritative information relevant to the
+subject matter presented. It is published and sold with the understanding that the author and publisher are
+not engaged in rendering legal, medical, or other professional services by reason of their authorship or
+publication of this work. If medical or other expert assistance is required, the services of a competent
+professional person should be sought.
+Acquisitions Editor:Tom Heine; Developmental Editor:Leigh Keylock; Assistant Editor:Laura
+Podeschi; Copyeditor:Bob Replinger; Permission Manager:Martha Gullo; Graphic Designer:Fred
+Starbird; Graphic Artist: Tara Welsch; Cover Designer: Keith Blomberg; Photographer (for illustration
+references): Neil Bernstein; Photo Asset Manager:Laura Fitch; Visual Production Assistant:Joyce
+Brumfield; Art Manager:Kelly Hendren; Associate Art Manager: Alan L. Wilborn; Illustrator
+(cover):Jennifer Gibas; Illustrators (interior):Jennifer Gibas and Becky Oles; Printer:United Graphics
+Human Kinetics books are available at special discounts for bulk purchase. Special editions or book
+excerpts can also be created to specification. For details, contact the Special Sales Manager at Human
+Kinetics.
+Printed in the United States of America 10 9 8 7 6 5 4 3 2 1
+The paper in this book is certified under a sustainable forestry program.
+Human Kinetics
+Web site: www.HumanKinetics.com
+United States: Human Kinetics
+P.O. Box 5076
+Champaign, IL 61825-5076
+800-747-4457
+e-mail: humank@hkusa.com
+Canada:Human Kinetics
+475 Devonshire Road Unit 100
+Windsor, ON N8Y 2L5
+800-465-7301 (in Canada only)
+e-mail: info@hkcanada.com
+Europe:Human Kinetics
+107 Bradford Road
+Stanningley
+Leeds LS28 6AT, United Kingdom
++44 (0) 113 255 5665
+e-mail: hk@hkeurope.com
+Australia:Human Kinetics
+57A Price Avenue
+Lower Mitcham, South Australia 5062
+08 8372 0999
+e-mail: info@hkaustralia.com
+New Zealand: Human Kinetics
+Division of Sports Distributors NZ Ltd.
+P.O. Box 300 226 Albany
+North Shore City
+Auckland
+0064 9 448 1207
+e-mail: info@humankinetics.co.nz
+E4563
+
+CHAPTER 1
+THE SWIMMER IN MOTION
+Swimming Anatomy is both a visual guide to the role of the musculoskeletal
+system in the four competitive swim strokes and a catalog of swimming-oriented
+dryland and weight-room exercises. The exercises in the text will help you
+maximize your performance and gain a competitive edge. Specific examples will
+help you choose exercises that target the most-used muscles for each stroke,
+starts, and turns to ensure that you are getting the best results from your
+program. Included are exercises that may help you prevent injuries by
+strengthening key stabilizing muscles and decreasing muscle imbalances. To
+help you understand how these exercises enhance performance, descriptions of
+the roles that various muscles play in propelling a swimmer through the water
+and guidance in using selected exercises to target those muscles are included.
+This chapter features an overview of the primary muscles used in the kicking
+motions and during the pull-through and recovery phases of freestyle, butterfly,
+backstroke, and breaststroke. The chapter also addresses some strength and
+conditioning principles and how they relate to designing a swimming-specific
+dryland program. Chapters 2 through 8, organized according to major body
+parts, each contain exercises with accompanying illustrations and easy-to-follow
+descriptions and instructions. The anatomical illustrations that accompany the
+exercises are color-coded to indicate the primary and secondary muscles and
+connective tissues featured in each exercise and swimming-specific movement.
+
+Primary muscles
+Secondary muscles
+...
+Connective tissues
+Swimmers face several unique challenges that athletes in most land-based
+sports do not encounter. The first challenge is the total-body nature of all four
+competitive strokes, which involve movements of both the upper and lower
+extremities. A coordinated effort of the musculoskeletal system is required to
+keep each body part moving correctly to maximize efficiency of movement
+through the water. To visualize this coordinated effort, think of the body as a
+long chain and each body segment as a link in the chain. Because all the
+segments are linked together, movement in one segment affects all the other
+segments. This linkage, commonly referred to as the kinetic chain, allows the
+power generated by the arms to be transferred through the torso to the legs. But
+if a link in the chain is weak, a loss of power transfer can occur, bodily
+movements can become uncoordinated, and the risk of injury can increase.
+Another unique demand of swimming is that swimmers are required to create
+their own base of support. Unlike land-based athletes, who have a stable surface
+to push off from, you have to generate your own base of support, because most
+training takes place in a fluid environment. The key to linking the movement of
+the upper and lower extremities in the water, and at the same time generating a
+firm base of support, is a strong and stable core. The core is best thought of as
+the foundation on which the muscles of the upper and lower body are built. Even
+a strong and well-designed house will eventually deteriorate if the foundation is
+weak.
+Without a doubt, swimming itself is the most effective way to become a better
+and faster swimmer, but several components outside the water play an important
+role in how you develop as a swimmer. One of those is a well-designed dryland
+program based on an appreciation of the relationship between the body's
+muscular framework and stroke mechanics. While engaged in swimming,
+muscles primarily function as either the mover of a body segment or a stabilizer
+of a body segment. An example of a muscle functioning as a mover is the
+latissimus dorsi, commonly known as the lats, moving the arm through the water
+during the propulsive phase of all four competitive strokes. The near-constant
+activity of the core abdominal musculature is a prime example of a group of
+muscles functioning as a stabilizing mechanism. Both functions are vital to
+proper stroke mechanics and efficient movement through the water. Descriptions
+of the muscle recruitment patterns for each of the four strokes are categorized as
+those that are active during the propulsive phase, the recovery phase, and
+kicking.
+Throughout the exercise descriptions in the subsequent chapters you will see a
+series of five icons, one for each of the strokes and one for starts and turns. The
+purpose of these icons is to identify the exercises that are particularly well suited
+to a specific stroke or starts and turns.
+
+freestyle
+backstroke
+breaststroke
+butterfly
+starts and turns
+Freestyle
+As the hand enters into the water, the wrist and elbow follow and the arm is
+extended to the starting position of the propulsive phase. Upward rotation of the
+shoulder blade allows the swimmer to reach an elongated position in the water.
+From this elongated position, the first part of the propulsive phase begins with
+the catch. The initial movements are first generated by the clavicular portion of
+the pectoralis major. The latissimus dorsi quickly joins in to assist the pectoralis
+major. These two muscles generate a majority of the force during the underwater
+pull, mostly during the second half of the pull. The wrist flexors act to hold the
+wrist in a position of slight flexion for the entire duration of the propulsive
+phase. At the elbow, the elbow flexors (biceps brachii and brachialis) begin to
+contract at the start of the catch phase, gradually taking the elbow from full
+extension into approximately 30 degrees of flexion. During the final portion of
+the propulsive phase the triceps brachii acts to extend the elbow, which brings
+the hand backward and upward toward the surface of the water, thus ending the
+propulsive phase. The total amount of extension taking place depends on your
+specific stroke mechanics and the point at which you initiate your recovery. The
+deltoid and rotator cuff (supraspinatus, infraspinatus, teres minor, and
+subscapularis) are the primary muscles active during the recovery phase,
+functioning to bring the arm and hand out of the water near the hips and return
+them to an overhead position for reentry into the water. The arm movements
+during freestyle are reciprocal in nature, meaning that while one arm is engaged
+in propulsion, the other is in the recovery process.
+Several muscle groups function as stabilizers during both the propulsive phase
+and the recovery phase. One of the key groups is the shoulder blade stabilizers
+(pectoralis minor, rhomboid, levator scapula, middle and lower trapezius, and the
+serratus anterior), which as the name implies serve to anchor or stabilize the
+shoulder blade. Proper functioning of this muscle group is important because all
+the propulsive forces generated by the arm and hand rely on the scapula's having
+a firm base of support. Additionally, the shoulder blade stabilizers work with the
+deltoid and rotator cuff to reposition the arm during the recovery phase. The core
+stabilizers (transversus abdominis, rectus abdominis, internal oblique, external
+oblique, and erector spinae) are also integral to efficient stroke mechanics
+because they serve as a link between the movements of the upper and lower
+extremities. This link is central to coordination of the body roll that takes place
+during freestyle swimming.
+
+Like the arm movements, the kicking movements can be categorized as a
+propulsive phase and a recovery phase; these are also referred to as the downbeat
+and the upbeat. The propulsive phase (downbeat) begins at the hips by activation
+of the iliopsoas and rectus femoris muscles. The rectus femoris also initiates
+extension of the knee, which follows shortly after hip flexion begins. The
+quadriceps (vastus lateralis, vastus intermedius, and vastus medialis) join the
+rectus femoris to help generate more forceful extension of the knee. Like the
+propulsive phase, the recovery phase starts at the hips with contraction of the
+gluteal muscles (primarily gluteus maximus and medius) and is quickly followed
+by contraction of the hamstrings (biceps femoris, semitendinosus, and
+semimembranosus). Both muscle groups function as hip extensors. Throughout
+the entire kicking motion the foot is maintained in a plantarflexed position
+secondary to activation of the gastrocnemius and soleus and pressure exerted by
+the water during the downbeat portion of the kick.
+
+Butterfly
+The primary difference between freestyle and butterfly is that the arms move in
+unison during butterfly whereas reciprocal movements take place with freestyle.
+Because butterfly and freestyle have the same underwater pull pattern, the
+muscle recruitment patterns are almost identical. As with freestyle, the
+swimmer's arms in butterfly are in an elongated position when they initiate the
+propulsive underwater portion of the stroke. Muscles active during the entire
+propulsive phase are the pectoralis major and latissimus dorsi, which function as
+the primary movers, and the wrist flexors, which act to maintain the wrist in a
+neutral to slightly flexed position. The biceps brachii and brachialis are active as
+the elbow moves from being fully extended at the initiation of the catch to
+approximately 40 degrees of flexion during the midpart of the pull. Unlike in
+freestyle, a forceful extension of the elbow is emphasized during the final
+portion of the pull, resulting in greater demands being placed on the triceps
+brachii. As in the freestyle stroke, both the rotator cuff and deltoid are
+responsible for moving the arm during the recovery phase, but the mechanics are
+somewhat different. Butterfly lacks the body roll that aids the recovery process
+during freestyle; instead, an undulating movement of the torso occurs, which
+brings the entire upper torso out of the water to aid in the recovery process.
+Again, the shoulder blade stabilizing muscles are extremely important,
+because they function to provide a firm anchor point for the propulsive forces
+generated by the arms and help reposition the arms during the recovery phase of
+the stroke. Although butterfly lacks the body roll present in freestyle, the core
+stabilizers are still important in linking the movements of the upper and lower
+extremities and have an important role in creating the undulating motion that
+allows the swimmer to get the upper torso and arms out of the water during the
+recovery process. The undulating movement is initiated with contraction of the
+paraspinal muscles that run in multiple groups from the lower portion of the
+back to the base of the skull. This contraction results in an arching of the back, at
+which time the arms are moving through the recovery process. Contraction of
+the abdominal muscles quickly follows, which prepares the upper body to follow
+the entry of the hands into the water to initiate the propulsive phase of the stroke.
+As with the arms, the muscles used in generating the kicking movements
+during the butterfly kick are identical to those used during the freestyle kick; the
+only difference in kick mechanics is that the legs move in unison. The propulsive
+downbeat begins with contraction of the iliopsoas and rectus femoris, acting as
+hip flexors. The rectus femoris also initiates knee extension, and associated
+firing of the quadriceps muscle group further aids in extension of the knee. The
+gluteal muscle group drives the recovery phase of the kick. Concomitant
+contraction of the hamstring muscles also works to extend the hip. The foot is
+maintained in a plantarflexed position through a combination of the resistance
+from the water and activation of the gastrocnemius and soleus, acting as
+plantarflexors. The dolphin kick that is used at the start of the race and off each
+turn wall recruits a larger group of muscles than the smaller, more isolated kick
+tied into the arm movements. Besides the movements generated at the hips and
+knee, the dolphin kick ties in the undulating movements of the torso through
+activation of the core stabilizers and the paraspinal musculature.
+
+Backstroke
+Although backstroke is unique in body positioning among the competitive
+strokes, the stroke phases can still be divided into a propulsive phase that
+consists of hand entry into the water, a catch component, a finishing component,
+and a recovery phase. Rotation at the shoulder puts the hands in a position in
+which the little finger is the first to enter the water. Combined with extension of
+the elbow, the swimmer is in an elongated position to begin the underwater
+propulsion phase of the stroke. A difference between backstroke and freestyle or
+butterfly is that the initial catch component is dominated by the latissimus dorsi.
+The pectoralis major makes a smaller contribution. Despite these differences the
+latissimus dorsi and the pectoralis major are still the prime movers and are active
+to some degree throughout the entire propulsive phase. Although the wrist
+flexors are still an integral part of the entire propulsion phase, the wrist is
+maintained in a neutral to slightly extended position. Through a combination of
+pressure forces from the water and activation of the biceps brachii and
+brachialis, the elbow transitions into approximately 45 degrees of flexion at the
+start of the catch. By the end of the catch the elbow may be flexed as much as 90
+degrees just before transitioning into the finishing component. As with the
+finishing component in butterfly, more emphasis is placed on forceful extension
+of the elbow, placing high demand on the triceps brachii during the final portion
+of the propulsive phase.
+
+The role of the stabilizing musculature during backstroke is similar to the role
+that it plays in freestyle, largely because of the similar reciprocal arm movement
+and the integration of body roll into both strokes.
+The kicking motion seen in backstroke is a combination of movements that we
+have seen in freestyle and butterfly kicking mechanics. Like freestyle,
+backstroke uses reciprocal kicking movements. The major difference is that the
+position of the swimmer causes most of the force to be generated during the
+upbeat portion of the kick as opposed to the downbeat in freestyle. Backstroke
+also uses the dolphin kick off the start of a race and off each wall. The muscle
+recruitment patterns are the same in each case; the only change is in the direction
+because of the swimmer's body position.
+
+Breaststroke
+As with the other strokes the arm movements that take place during breaststroke
+are categorized as a propulsive phase and a recovery phase. The propulsive
+phase begins with the shoulders and arms in an elongated overhead position. The
+first half of the underwater pull is similar to that used in freestyle and butterfly.
+The clavicular portion of the pectoralis major starts the movement, and the
+latissimus dorsi quickly joins in. During the second half of the pull, forceful
+contractions of the pectoralis major and latissimus dorsi pull the arms and hands
+into the midline of the body to finish the pull. The forces generated during the
+final phase are directed toward forward propulsion of the swimmer in the water
+and upward propulsion of the swimmer's torso, which is aided by contraction of
+the paraspinal muscles. This movement brings the swimmer's head and
+shoulders out of the water. Flexion and rotation at the elbow bring the hands to
+the midline of the body and mark the conversion into the recovery phase. To
+return the hands to the starting position, the arms must be returned from their
+position under the chest. This motion is carried out by recruitment of the
+pectoralis major, anterior deltoid, and the long head of the biceps brachii, which
+all function to flex the shoulder joint. At the same time, extension of the elbow
+by the triceps brachii results in completion of the recovery phase, and the arms
+return to their extended and elongated position.
+As with the other strokes, the shoulder blade stabilizing musculature is crucial
+to creating a firm base of support for the movements and forces generated by the
+arms. Like the butterfly stroke, the breaststroke lacks a body roll component.
+Even so, the core-stabilizing musculature is important in ensuring an efficient
+linkage between the movement patterns of the upper and lower extremities.
+
+Like the arm movements, the kicking mechanics can be divided into a
+propulsive phase, consisting of outsweep and insweep components, and a
+recovery phase. The propulsive phase begins with the feet hip-width apart and
+the knees and hips in a flexed position. The outsweep is initiated with outward
+rotation of the feet, which is accomplished by a combination of movements at
+the hip, knee, and ankle. After the foot has been turned outward, the outer
+sweeping motion is continued by extension of the hip and knee. The gluteal
+musculature and the hamstrings function to extend the hip, and the rectus
+femoris and quadriceps act to straighten the knee. At the transition from the
+outsweep to the insweep, the knees and hip are still not completely extended, so
+the respective muscle groups continue their action into the insweep component
+until the knees and hip are fully extended. At the start of the insweep the legs are
+in an abducted position, generating an opportunity for force production through
+rapid adduction of the legs. The legs are brought back together by contraction of
+the adductor muscles that run along the upper portion of the inner thigh. To
+minimize drag during the final portion of the insweep, the calf muscles are
+activated to bring the foot and ankle into a pointed position. Recovery is
+accomplished by recruitment of the rectus femoris and iliopsoas, which serve to
+flex the hip, and recruitment of the hamstrings, which serve to flex the knee.
+
+Dryland Training Programs
+Although this book is not intended to give full program design details and
+guidelines, it does provide you with an understanding of how each exercise can
+directly benefit you as a swimmer, which in turn can help you make better
+decisions when choosing exercises for a specific program design. For example,
+if your program calls for an exercise that targets the triceps, you have many to
+choose from in chapter 2. We will, however, lay out some general principles and
+ideas for training programs here.
+You should be aware of several considerations when designing a dryland
+program. The repetitive nature of swimming predisposes swimmers to
+developing muscle imbalances. Muscles such as the latissimus dorsi and
+pectoralis major become overdeveloped in relation to the smaller muscles that
+make up the scapular stabilizers (particularly the middle and lower trapezius and
+the rhomboids). In the lower extremity the quadriceps and hip flexors often
+become dominant over weaker hamstrings and gluteal muscles. These muscle
+imbalances not only lead to strength imbalances but also may create flexibility
+and postural imbalances that can predispose you to injury and inhibit optimal
+performance. So when designing a dryland program you should include a
+flexibility component. Recent findings in the realm of flexibility training are that
+dynamic stretches and movement patterns are an effective way to prepare for an
+exercise session. Dynamic movements and stretches can be designed to
+incorporate whole-body movements that can serve as an effective low-intensity
+warm-up while also addressing areas of inflexibility. Further attention can be
+given to tight muscle groups through static stretching at the conclusion of the
+dryland program.
+Careful consideration needs to be given to selecting the proper exercises. Two
+concepts that can help guide exercise choice are transference and isolation.
+Transference is the ability of an exercise to strengthen muscles in a manner that
+will benefit a certain skill or task, in this case swimming. Transference can be
+further divided into direct and indirect forms. Direct transference involves
+choosing an exercise because the associated movements are directly related to a
+certain component of one of the major strokes. An example would be using the
+physioball prone streamline exercise (see page 136), because it directly mimics
+the streamlined position that swimmers hold off their starts and walls. Indirect
+transference involves choosing a certain exercise because the targeted muscle
+groups are similar to those used during a phase of one of the major strokes or
+choosing a certain exercise because it can transfer to a certain stroke component.
+An example would be selecting the lat pull-down exercise (see page 120)
+because it targets the latissimus dorsi muscle, which is a prime mover of the
+arms in each of the major strokes. Isolation involves choosing an exercise that
+emphasizes a certain muscle or muscle group with the goal of strengthening an
+area that (1) may be underdeveloped because of muscle imbalances, (2) is
+important for injury prevention, or (3) has been identified as an area of weakness
+by something in the swimmer's stroke profile.
+Another choice concerns which model of dryland training to use—a
+traditional weight-training program or a circuit-based program. Traditional
+weight-training programs involve performing a certain number of sets and
+repetitions of one or two exercises at a time and then moving on to the next set
+of exercises. These programs are better reserved for swimmers near college age
+and older. In contrast, circuit-training programs involve a series of exercises
+performed one after another. After performing one set of an exercise, the person
+moves on to the next. Circuit programs are ideal when (1) the dryland program is
+being performed on a pool deck, (2) a large group of swimmers is participating
+in the program at the same time, or (3) a younger group of swimmers is training.
+An additional advantage of circuit programs is that they are time efficient,
+allowing a large number of exercises to be completed in a short time.
+To maximize your gains when performing a traditional or circuit dryland
+program, give careful attention to the order in which you perform the exercises.
+All programs should begin with a 10-minute warm-up period consisting of
+dynamic flexibility exercises and low-intensity aerobics. Following the warm-
+up, you should incorporate several injury prevention and core stabilization
+exercises (choose from those in chapter 5). You should begin with total-body
+exercises that combine movements of the upper and lower extremities and
+progress to multijoint exercises and then isolation exercises. For example, when
+training the upper extremity and shoulder girdle, you could begin with a single-
+arm lawn mower (page 176), follow with a barbell flat bench press (page 70),
+and end with a dumbbell biceps curl (page 28). The underlying concept is to
+avoid performing the biceps curl first, which would fatigue the biceps brachii
+and decrease the overall weight that you could lift with the single-arm lawn
+mower exercise. A swimming analogy would be to avoid performing an
+exhaustive kick set before you perform your main quality freestyle set during a
+workout, because fatiguing your legs would limit your ability to get the full
+benefit from the freestyle set. Following completion of the main exercises, you
+can spend time on additional core stabilization exercises and static stretching and
+flexibility. Note that your final program should consist of more than three
+exercises; the limited number used in this case serve only as an example.
+Another concept to consider is that of pushing and pulling exercises. Pushing
+exercises such as push-ups and bench presses primarily work the pectoral
+muscles and the triceps, whereas pulling exercises such as pull-ups and seated
+rows primarily work the lats and biceps. Because these types of exercises mirror
+each other in the muscle groups that they target, doing one after the other is often
+beneficial in a dryland program because the alternating nature of exercises
+allows one group to recover while the other is being exercised.
+The next question to address is how many sets and repetitions of each exercise
+you should perform. The number of repetitions is dictated by the inverse
+relationship between volume and intensity. Exercise volume is equal to the total
+number of repetitions performed, and intensity is a measure of the effort being
+exerted when performing a given exercise. What this means is that as you
+increase the number of repetitions of a given exercise, the overall intensity at
+which you will be able to perform that exercise will decrease. For example, you
+may be able to perform 15 dumbbell kickbacks with 25 pounds (11 kg), but if
+you were to pick up a 40-pound (18 kg) dumbbell, you might be able to perform
+only 8 repetitions. This relationship becomes important, depending on your
+training goal. If you are trying to improve muscular endurance, you should
+choose a weight that allows you to perform 15 to 20 repetitions. If your goal is to
+build strength, you should use a weight that allows you to perform only 5 to 8
+repetitions. Generally, when performing more repetitions (15 to 20) you should
+perform two sets, whereas when you are doing fewer repetitions (5 to 8) you
+should perform four or five sets. Your combination of sets and repetitions is
+probably appropriate for a given exercise if the targeted muscles feel fatigued
+during the last 2 to 3 repetitions of the final set. With circuit-training programs,
+the number of repetitions can be either predetermined or time dependent. For
+example, at one station you might perform 30 sit-ups (set number of reps) or as
+many sit-ups as you can in one minute (time dependent).
+Your training goal in regard to endurance versus strength will depend on
+where you are in the season. The principle of periodization comes into play here.
+Periodization involves breaking the season into various phases, each with a
+different training goal. The underlying purpose is to prevent overtraining and
+maximize performance.
+
+Dryland Training for Young Swimmers
+An important consideration in training is the age of the swimmer. Not too long
+ago, strength, or resistance, training was considered inappropriate and potentially
+dangerous to the young athlete. Participation in resistance training was thought
+to increase the risk of injury to the growth plate, which could have negative
+consequences to the child's growth. But the safety and effectiveness of resistance
+training in youth is now well documented and supported by position or policy
+statements from the American College of Sports Medicine (ACSM), American
+Academy of Pediatrics (AAP), American Orthopaedic Society for Sports
+Medicine (AOSSM), and the National Strength and Conditioning Association
+(NSCA).
+Resistance training helps young swimmers develop an enjoyable and positive
+outlook by increasing their chance of success through improved performance
+and decreasing their risk of injury. With a focus on fundamental fitness ability,
+resistance training also prepares them for the demands of in-water practices.
+Specific benefits may include improvements in muscular power, muscular
+endurance, total body strength, stability around joints, body composition, and
+bone mineral density, all of which can improve sport performance.
+The research indicates that training-induced strength gains during
+preadolescence are possible if the training program is of sufficient duration,
+intensity, and volume. Current recommendations are that to produce strength
+gains, young athletes should perform two or three sets of 13 to 15 repetitions for
+each exercise. Training sessions should take place two to three days per week on
+nonconsecutive days. Note that these gains often result from adaptations in
+neuromuscular factors such as motor unit activation, recruitment, and
+coordination rather than increased muscle size (hypertrophy). Younger athletes
+do not have enough muscle-building hormones to cause muscle hypertrophy, but
+following puberty, training-induced gains in males and females are associated
+with increased muscle mass because of hormonal influences. Resistance training
+will not lead to increases in height, but no data indicate that training will stunt
+skeletal growth.
+Before a young swimmer begins a resistance program, he or she should have
+sufficient emotional maturity to accept and follow directions. The athlete should
+also be able to understand the benefits and risks associated with a resistance-
+training program and specific exercises. When selecting exercises keep in mind
+that swimmers in a given age range can vary significantly in strength and
+coordination. Exercises should be selected on an individual basis and modified if
+necessary. Guidelines are provided throughout the text about exercises that may
+not be suitable for young swimmers, and examples are offered about how to
+modify exercises to make them more age appropriate.
+When designing resistance-training programs for young athletes, a progressive
+and stepwise approach in exercise prescription is recommended. This approach
+stresses proper form and technique, adequate supervision of all training sessions,
+and a slow, stepwise progression of exercises. Kraemer and Fleck (2005)
+illustrate the importance of proper exercise selection and considerations for
+athletes of various ages (table 1.1).
+
+Table 1.1 Age-Related Resistance-Training Considerations
+Ages
+7 and younger
+8-10
+Considerations
+Introduce child to basic exercises with little or no weight;
+develop the concept of a training session; teach technique;
+progress from bodyweight calisthenics, partner exercises, and
+light resistance; keep volume low.
+Gradually increase the number of exercises; practice technique
+on all lifts; start gradual progressive loading; keep exercises
+simple; gradually increase volume; carefully monitor toleration
+to exercise stress.
+11-13
+Teach all basic exercise techniques; continue progressive
+loading of each exercise; emphasize technique; introduce more
+advanced exercises with little or no resistance; increase volume.
+14-15
+Progress to more advanced youth programs in resistance
+exercise; add sport-specific components; emphasize techniques;
+increase volume.
+16 and older
+Move child to entry-level adult programs after all background
+knowledge has been mastered and a basic level of training
+experience has been gained.
+Adapted, by permission, from W.J. Kraemer and S.J. Fleck, 2005, Strength training for young athletes, 2nd ed. (Champaign, IL:
+Human Kinetics), 13.
+
+CHAPTER 2
+ARMS
+The arms are extremely important in swimming because they are the link
+between the primary force-generating muscles of the upper extremity, the
+latissimus dorsi and pectoralis major, and the hands and forearms, which are the
+anchor points that propel the swimmer through the water. Chapter 1 compared
+the body to a chain that starts at the hands and extends all the way down to the
+feet. The main point was that, as a swimmer moves through the water,
+movements and forces are transmitted along the chain and that the chain is only
+as strong as its weakest link. Of course, the arm muscles also aid in generating
+the forces that propel you through the water. Those reasons should help you
+understand the importance of targeting the arm muscles with a dryland program.
+The elbow divides the arm into an upper and lower component. The elbow is a
+hinge joint restricted to two movements, extension and flexion. Elbow extension
+occurs when you straighten your arm, moving the forearm away from the upper
+arm. Elbow flexion is the opposite, involving bending the forearm toward the
+upper arm. The structural framework of the upper arm is the humerus. The lower
+arm, typically called the forearm (figure 2.1, a-b), is supported by the radius and
+ulna. These three bones are the major attachment sites and levers upon which the
+muscles of the arm and forearm originate and act on. The two primary muscle
+groups in the arms that are the target of the strengthening exercises in this
+chapter are the elbow extensors and elbow flexors. Both contribute to the
+maintenance of proper arm position and propulsion during each of the four
+competitive strokes.
+Figure 2.1 Forearm: (a)front and (b)back.
+
+a
+Pronator
+teres
+Palmaris
+longus
+Flexor carpi
+radialis
+Flexor carpi
+ulnaris
+Anconeus
+Brachioradialis
+Extensor carpi
+radialis longus
+Extensor carpi
+radialis brevis
+Extensor
+digitorum

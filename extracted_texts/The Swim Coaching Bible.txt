@@ -1,0 +1,690 @@
+The
+Swim Coaching
+Bible
+Dick Hannula
+Nort Thornton
+Editors
+저
+Human Kinetics
+Library of Congress Cataloging-in-Publication Data
+The swim coaching bible / Dick Hannula, Nort Thornton, editors.
+p. cm.
+Includes bibliographical references.
+ISBN 0-7360-3646-6
+1. Swimming—Coaching. I. Hannula, Dick, 1928– II. Thornton, Nort, 1933–
+GV837.65.S95 2001
+797.2'1—dc21
+ISBN-10 (Print): 0-7360-3646-6
+ISBN-13 (Print): 978-0-7360-3646-7
+ISBN-10 (Adobe PDF): 0-7360-8156-9
+ISBN-13 (Adobe PDF): 978-0-7360-8156-6
+Copyright ©2001 by Human Kinetics, Inc.
+00-054241
+All rights reserved. Except for use in a review, the reproduction or utilization of this work in any form or
+by any electronic, mechanical, or other means, now known or hereafter invented, including xerography,
+photocopying, and recording, and in any information storage and retrieval system, is forbidden without
+the written permission of the publisher.
+Developmental Editor: Julie Rhoda; Assistant Editor and Copyeditor: Carla Zych; Proofreader:
+Bob Replinger; Graphic Designer: Robert Reuther; Graphic Artists: Kimberly Maxey and Brian
+McElwain; Photo Manipulation; Brian McElwain; Photo Manager: Clark Brooks; Cover Designer:
+Keith Blomberg; Photographer (cover): ©SportsChrome East/West; Photographer (interior): Please
+see page viii for credits; Art Manager: Craig Newsom; Illustrator: Roberto Sabas; Printer: United
+Graphics
+Human Kinetics books are available at special discounts for bulk purchase. Special editions or book excerpts
+can also be created to specification. For details, contact the Special Sales Manager at Human Kinetics.
+Printed in the United States of America
+Human Kinetics
+Web site: www.Human Kinetics.com
+United States: Human Kinetics
+P.O. Box 5076
+Champaign, IL 61825-5076
+800-747-4457
+e-mail: humank@hkusa.com
+Canada: Human Kinetics
+475 Devonshire Road Unit 100
+Windsor, ON N8Y 2L5
+800-465-7301 (in Canada only)
+e-mail: orders@hkcanada.com
+Europe: Human Kinetics
+207 Bradford Road
+Stanningley
+Leeds LS28 6AT, United Kingdom
++44 (0) 113 255 5665
+e-mail: hk@hkeurope.com
+10 9 8 7 6
+Australia: Human Kinetics
+57A Price Avenue
+Lower Mitcham, South Australia 5062
+08 8277 1555
+e-mail: liaw@hkaustralia.com
+New Zealand: Human Kinetics
+Division of Sports Distributors NZ Ltd.
+P.O. Box 300 226 Albany
+North Shore City
+Auckland
+0064 9 448 1207
+e-mail: info@humankinetics.co.nz
+THE SWIM COACHING BIBLE
+Dick Hannula and Nort Thornton, Editors
+Endorsed by the World Swimming Coaches Association
+WSCA
+WOALSWING ASSOCIATION
+CONTENTS
+Acknowledgments vii
+Introduction ix
+Dick Hannula and Nort Thornton
+Establishing Priorities and Principles
+PART I
+1
+Chapter 1
+Believing in Belief
+3
+Richard Quick
+Chapter 2
+Putting Fun Into the Swimming Experience
+9
+Jean Freeman
+Chapter 3
+Coaching With Integrity
+23
+Peter Daland
+PART II
+Directing a Program to Its Full Potential
+33
+Chapter 4
+Tailoring Your Approach to Specific Competition Levels
+35
+John Leonard
+Chapter 5
+Administering and Marketing a Winning Program
+51
+Jack Bauerle
+Chapter 6
+Developing a Successful Team
+65
+Skip Kenney
+Chapter 7
+Maximizing a Swimmer's Talent Development
+71
+Bill Sweetenham
+PART III
+Creating Effective Practice Sessions
+97
+Chapter 8
+Long- and Short-Range Planning
+99
+Jill Sterkel
+Chapter 9
+Putting Science Into Practice
+111
+Bruce R. Mason
+Chapter 10 Applying the Art of Coaching
+121
+Deryk Snelling
+PART IV Teaching Stroke Techniques
+133
+Chapter 11
+Freestyle Technique
+135
+Rick DeMont
+Chapter 12 Backstroke Technique
+151
+Dick Hannula
+Chapter 13 Butterfly Technique
+163
+Pablo Morales
+Chapter 14 Breaststroke Technique
+179
+David Salo
+Chapter 15 Starts, Turns, and Finishes
+189
+John Trembley
+PART V
+Training for Optimal Performance
+207
+Chapter 16
+Freestyle Sprint Training
+209
+Michael Bottom
+Chapter 17 Freestyle Middle-Distance Training
+221
+Doug Frost
+Chapter 18 Freestyle Distance Training
+239
+Dick Jochums
+Chapter 19 Backstroke and Butterfly Sprint Training
+269
+Eddie Reese
+Chapter 20 Backstroke and Butterfly 200-Meter Training
+283
+Bill Rose
+Chapter 21 Breaststroke Training
+297
+Jon Urbanchek
+Chapter 22 Individual Medley Training
+309
+Dick Shoulberg
+Chapter 23 Relay Training
+319
+David Marsh
+Chapter 24 Power Training
+327
+Randy Reese
+Chapter 25 Preparing to Excel in Competition
+335
+Don Gambril
+About the Editors 349
+About the Contributors 350
+ACKNOWLEDGMENTS
+Dick Hannula and Nort Thornton would like to acknowledge and thank
+all the chapter authors of The Swim Coaching Bible for contributing their
+great knowledge and experience. All of them were willing to share their
+talents and to give back to the entire swimming community. Their time
+and effort made this book a success.
+vii
+PHOTO CREDITS
+All photos provided by contributors unless otherwise noted.
+Pages 3 and 356 (Richard Quick) © David Gonzales
+Pages 9 and 352 (Jean Freeman) © Eric Miller, Women's Athletics, Uni-
+versity of Minnesota Athletic Department
+Pages 23 (Peter Daland) and 35 (Doc Counsilman) Courtesy of Interna-
+tional Swimming Hall of Fame
+Pages 51 and 350 (Jack Bauerle) Courtesy of University of Georgia Ath-
+letic Department
+Pages 99 and 359 (Jill Sterkel) and 269 and 357 (Eddie Reese) Courtesy
+of University of Texas Athletic Department
+Pages 111 and 355 (Bruce Mason, PhD) Courtesy of Australian Sports
+Commission
+Pages 163 and 356 (Pablo Morales) Courtesy of San Jose State University
+Sports Information Office
+Page 179 (David Salo) Courtesy of Dan Albano/Orange County Regis-
+ter
+Pages 189 and 360 (John Trembley) Courtesy of University of Tennessee
+Athletic Department
+Pages 209 and 350 (Michael Bottom) © Scott Greenwood
+Pages 221and 352 (Doug Frost) Courtesy of World Swim Coaches As-
+sociation
+Pages 297 and 361 (Jon Urbanchek) Courtesy of University of Michigan
+Athletic Department
+Pages 319 and 355 (David Marsh) Courtesy of Auburn University Ath-
+letic Department
+Page 351 (Peter Daland) Courtesy of American Swim Coaches Associa-
+tion
+Page 358 (Dick Shoulberg) © Gabrielle Russomagno
+viii
+INTRODUCTION
+Dick Hannula and Nort Thornton
+What has brought the greatest change in swim coaching over the past 50
+years or so? It would have to be the increase in knowledge made avail-
+able through various reference sources for swim coaches.
+We can remember being fascinated, as young swimmers and then as
+young coaches, by what the more famous American swimming coach-
+es—Bob Kiphuth of Yale, Matt Mann of Michigan, Mike Peppe of Ohio
+State, and many others—had to say about swimming and training. We
+would read and listen to everything we could find about the training
+philosophies of the great coaches—George Haines, Peter Daland, Don
+Gambril, and Doc Counsilman—and could hardly wait for Swimming
+World magazine to arrive each month so we could read the "How They
+Train" columns. One of us even corresponded with the great Australian
+coach Forbes Carlile at his Ryde Club in Australia, in an effort to soak
+up every bit of swimming knowledge possible.
+Books, clinics, and magazine articles have always been great sources
+for cutting-edge coaching information. In swimming, there is a great
+willingness on the part of coaches to share information. Coaches in all
+the leading swimming nations have the attitude that as each swimmer
+gets faster the expectation level of all swimmers is raised, that in this
+way all of swimming will get faster. This attitude was apparent when we
+approached potential contributors to this book and asked each to write a
+specific chapter. Every coach accepted on the first request. The advance-
+ment of the quality of coaching was their primary consideration.
+When we began to talk about the possibility of putting this book to-
+gether, we were very excited at the prospect of having the top coaches
+of today write a chapter on the topic that they are best known for. Each
+of the coaches who contributed to this book is tremendously successful
+in his or her own right; each does many things well and could easily
+put out an entire book filled with knowledge gained from his or her ex-
+periences. The beauty of this book is that it features an all-star cast—a
+smorgasbord of superstars.
+The Swim Coaching Bible is a compilation of the best written material
+ix
+INTRODUCTION
+of some of the world's most successful swim coaches into a one-source
+reference book. We have gathered the best available writing on topics
+of importance to produce a work that we hope will serve as a guidepost
+for swim coaches around the world as well as an invaluable source
+for swimmers and parents who want to know more about competitive
+swimming.
+The coach-contributors were given free rein within their assigned
+topics. They were free to develop that topic in whatever way they felt
+necessary to attain the best results. The overlap of some of the contribu-
+tors' information was considered a necessary consequence of allowing
+many coaches to share their roads to success. There is a tremendous
+amount of individual and collective knowledge in this book. If you use
+this book as a reference, we are certain that you will find what you are
+looking for today and will revisit the book many times in the future for
+information and opinions on totally different topics.
+The contributors we've selected offer a diverse assortment of views,
+experiences, and nationalities. Most of the chapter authors coach in the
+United States. Three contributors—Bill Sweetenham (chapter 7), Bruce
+Mason (chapter 9), and Doug Frost (chapter 17)—hail from Australia.
+Deryk Snelling (chapter 10) has coaching roots in both Canada and Great
+Britain.
+The wisdom and experience of the contributors has been proven by the
+success of their swimmers. Almost all the authors have either coached
+Olympic gold medalists or have acquired gold medals themselves as
+swimmers. Richard Quick, Mike Bottom, Doug Frost, and Jon Urbanchek
+have coached individual Olympic champions as recently as the Sydney
+Olympics.
+We've organized The Swim Coaching Bible into five sections. Part I
+establishes priorities and principles necessary for the foundation of any
+swimming program. Richard Quick leads off in chapter 1 with “Believing
+in Belief." One of the most successful coaches in the world, the Stanford
+University women's coach and many time US Olympic coach gives his
+distinct insight on the necessity of belief in order to succeed. We've
+watched Richard work his coaching magic as a manager of an Olympic
+team and as a Pan-Pacific assistant coach. This is a must-read chapter
+for every coach and swimmer.
+Jean Freeman, the women's coach at the University of Minnesota, is
+one of the most successful coaches in the Big Ten Conference. She is
+well known for her ability to make the swimming experience fun and
+to instill a lifelong love of the sport in her swimmers. Her philosophy
+and methods are the subject of chapter 2.
+X
+INTRODUCTION
+Peter Daland, retired coach of the University of Southern California
+and two-time US Olympic head coach, is one of the most respected
+men in swimming. Dick Hannula knows this firsthand, as two of his
+sons swam for Peter at USC. He is well qualified to speak on coaching
+with integrity, and his work on the drug committee of the World Swim
+Coaches' Association has contributed greatly to the control of perfor-
+mance-enhancing drugs in swimming.
+Part II includes five chapters about directing a program to its full po-
+tential. In chapter 4 John Leonard, swim coach and executive director of
+the American Swim Coaches' Association, discusses how to adapt your
+coaching approach to meet the needs of the entire spectrum of swimmers.
+He specifically addresses differences in age, ability, and gender as well
+as the particular concerns of high school and college teams.
+Jack Bauerle coaches at the University of Georgia and was a US Olym-
+pic team coach in 2000. He provides many insights into administering
+and marketing a successful program in chapter 5.
+Chapter 6 deals with developing a successful team. Skip Kenney,
+coach at Stanford University and US Olympic head coach in 1996, gets
+to the very heart of this subject. Skip's college teams have won the NCAA
+Championship title many times. His Pac 10 Championship meet titles
+extend over 20 consecutive years, surpassing John Wooden's consecu-
+tive Pac 10 Championship record in basketball at UCLA. This is one of
+the most phenomenal records in collegiate swimming.
+Chapter 7 is written by legendary Australian swim coach Bill Sweet-
+enham. Having served many times as the Australian Olympic coach and
+having spent the past several years as the National Youth Development
+Coach in Australia, he is now taking over the position of National Team
+Coach for Great Britain. Bill's experience and knowledge of swimming
+is unsurpassed, and he covers the subject of maximizing swim talent
+clearly and specifically in his chapter.
+Creating an effective practice session and season is the subject of part
+III, and the three related chapters cover this topic comprehensively. Jill
+Sterkel covers long- and short-range planning in chapter 8. As a former
+world-record holder, four-time Olympic swimmer, and the current
+women's coach at the University of Texas, Jill brings great experience
+to her chapter.
+In chapter 9, Dr. Bruce Mason discusses putting science—biomechan-
+ics, physiotherapy, altitude training, and more—into practice. He is one
+of the most qualified swimming biomechanists in the world and serves
+the Australian Institute of Sport, the Australian Olympic team, and (as
+a director) the International Society of Biomechanics in Sports.
+xi
+INTRODUCTION
+Deryk Snelling writes on the art of coaching in chapter 10. He has
+coached successfully internationally for decades. Dick first knew Deryk
+as the coach of the Vancouver Canadian Dolphins; Deryk had then, as
+he does now, an uncanny ability to get more out of his swimmers than
+their obvious talent might indicate. His insights on the art of coaching
+are highly valued.
+Part IV concentrates on teaching stroke technique, including starts,
+turns, and finishes. Each chapter in this section is written by coaches
+who have brought something unique and special to the teaching of
+technique. Rick Demont, former world-record holder in the 400 meter
+and 1,500-meter freestyle, covers two different freestyle techniques in
+chapter 11.
+Dick Hannula discusses the finer points of backstroke technique in
+chapter 12. Dick focuses on the 3 R's of backstroke and looks closely at
+the unique style of Lenny Krayzelburg.
+Pablo Morales is a former world-record holder and gold medalist in
+the 100-meter butterfly who now coaches at San Jose State. He has writ-
+ten clearly and with great feeling about sharpening technique for better
+butterfly in chapter 13.
+Dave Salo has had phenomenal success with breaststrokers as a club
+coach and was an assistant coach for the United States at the Sydney
+Olympics. His greatest breaststroke success thus far has been Amanda
+Beard's performance at the Atlanta Olympics. At the Northwest Swim
+Coaches' Clinic a few years ago Dave gave an exceptionally comprehen-
+sive and understandable presentation on breaststroke technique. His
+chapter 14 covers the same topic in similar fashion.
+John Trembley has continued the tradition of great racing starts and
+turns that the University of Tennessee is known for. He is unquestionably
+the best clinic speaker and writer on the technical aspects of starts and
+turns in swimming today. He was a natural choice to write chapter 15
+on starts, turns, and finishes.
+The final section, part V, covers the training necessary to achieve
+optimal performance. The list of coach-contributors is once again most
+impressive in terms of the success they've had with their swimmers.
+Mike Bottom, who swam at USC and now coaches with Nort Thornton
+at the University of California at Berkeley, specializes in sprint training
+(chapter 16). Mike's training program for sprinters is highly specific and
+very unique. His unconventional program has been very successful,
+producing NCAA champions and three of the five fastest swimmers in
+the world in 2000—including the two 50-meter freestyle gold medalists
+in Sydney, Gary Hall Jr. and Anthony Ervin.
+xii
+INTRODUCTION
+Doug Frost coaches the great Ian Thorpe of Australia. In chapter 17,
+on middle-distance training, Doug details his philosophy and training
+methods. We are very proud to have him as one of the contributors to
+this book.
+Dick Jochums is an innovator as well as a practical coach who has
+always believed in specificity over yardage. His swimmers have achieved
+great success, including Olympic gold. He shares his philosophy on
+freestyle distance training in chapter 18.
+Eddie Reese, who wrote chapter 19 on backstroke and butterfly sprint
+training, is one of the great communicators in coaching. Eddie has that
+rare ability to make a difference. A great storyteller and a great leader,
+he continues to stay at or near the top of the collegiate championship
+scene.
+Bill Rose has coached in both Canada and the United States, and is
+presently coaching the Mission Viejo Swim Club. Author of chapter
+20 on backstroke and butterfly 200-meter training, he has coached top-
+ranked back and butterfly swimmers in the 200 event for many years. He
+continues to be one of the more successful elite coaches in the United
+States today.
+Jon Urbanchek is known for his down-to-earth style and his ability to
+identify with his swimmers. His program at the University of Michigan is
+responsible for a steady stream of Olympic champions, including world-
+record holder Mike Barrowman in the 200-meter breaststroke. While
+he writes about breaststroke training in chapter 21, he could have also
+written on the 200 butterfly, the event his athlete Tom Malchow won in
+Sydney; the 400 IM, the event in which Tom Dolan, a former University
+of Michigan swimmer, has twice been Olympic champion; or distance
+freestyle, in which another of his athletes, Chris Thompson, won the
+bronze medal in the 1,500 meters at Sydney. We are very pleased that Jon
+has provided this excellent chapter on training for the breaststroke.
+Dick Shoulberg is a walking bundle of enthusiasm. He loves swim-
+ming and the swimmers who are willing to do the work to be successful.
+After 31 years at the Germantown Academy, Dick continues to turn out
+Olympians. In chapter 22, he writes about individual medley training, a
+topic with which he is quite familiar. His successes in the IM include a
+world-record holder as well as several Olympians and medal winners.
+David Marsh has been quite successful at Auburn University, having
+won national championship titles in both men's and women's swim-
+ming. He served as an assistant coach for the 2000 US Olympic team.
+His Auburn relay teams have been awesome, and he was a great choice
+for chapter 23 on relay training.
+xiii
+INTRODUCTION
+One of the great innovators in swimming, Randy Reese has always
+been willing to try new approaches. His unique ideas of developing
+strength and power while in the water have been most successful. When
+Randy speaks, as he does in chapter 24 on power training, smart coaches
+listen.
+Our final chapter (25) on preparing to excel in competitions is written
+by legendary coach Don Gambril. Don coached five US Olympic teams
+and produced world-record holders almost from the start of his career.
+He is one of the most successful swimming coaches ever; he knows what
+it takes to excel and can talk effectively and convincingly to swimmers.
+As a coach, he could tell swimmers what the world record was, what it
+would take to break that record, and that he believed that the swimmer
+could do it. We think you'll find that Don closes this book on a positive,
+inspiring note.
+As we put this material together, we found it fascinating reading and
+could not wait to use the information in our coaching. We believe this
+is exactly the way you will feel when you delve into the chapters we
+have collected here. Whether you are actively coaching or swimming,
+or are simply taken with the sport of swimming, you have many hours
+of interesting reading ahead. We urge coaches and swimmers to read
+The Swim Coaching Bible and then to keep it handy for future reference
+and motivation.
+xiv
+PART
+I
+Establishing
+Priorities and
+Principles
+CHAPTER ONE
+Believing in
+Belief
+Richard Quick
+Quick
+How could Dara Torres—at age 33 and having been out of swimming for
+seven years—return to the sport in 2000 after only 14 months of train-
+ing and swim significantly faster than ever before in each of her events,
+setting two American records and taking five Olympic medals (two of
+them gold on world-record relays)?
+How could American 200-meter butterflyer Misty Hyman drop from
+2:09.2 (her lifetime best) at the 2000 Olympic trials to 2:05.88 just 30
+days later to beat world-record holder and defending Olympic cham-
+pion Susie O'Neill, breaking O'Neill's six-year winning streak in the
+200 butterfly?
+How do several women, and thousands of men and boys, now swim
+the 200-meter freestyle faster than Don Schollander ever did? Recog-
+nized as one of the most talented swimmers ever to put on a Speedo,
+Don was the first man to break 2:00 in the 200-meter freestyle. He had a
+perfect stroke and swam in the best swimming environment possible in
+the 1960s, the Santa Clara Swim Club. He was coached by the greatest
+coach of all time, George Haines, who coached more Olympians, more
+gold medalists, and more world-record holders than any coach in his-
+tory. How is it that today, swimming in less than perfect environments,
+guided by coaches less proficient than Haines, so many swimmers can
+achieve faster times than Don Schollander did?
+The common denominator among Dara Torres, Misty Hyman, and all
+the swimmers who swim faster than Don Schollander is a deep core be-
+lief that they can accomplish what at one time appeared to most people
+to be impossible.
+Belief Makes the Extraordinary Ordinary
+Have you ever noticed that once something extraordinary is accom-
+plished it becomes more ordinary? Why is that? When one human
+being, believing that he or she will be successful, prepares to achieve
+and then accomplishes the extraordinary, it seems to give the rest of us
+permission to believe we might be able to accomplish (or surpass) the
+same goal. The feat becomes feasible, attainable, and therefore more
+ordinary. Our belief system is expanded beyond the previous limits we
+may have placed on it.
+Thirteen months before Misty Hyman's extraordinary upset of Susie
+O'Neill in the 2000 Olympic 200-meter butterfly event, Misty finished
+a very disappointing third in the 200 fly at the Pan-Pacific Champion-
+ships in the Olympic pool in Sydney. Susie O'Neill dominated that
+race, nearly breaking Mary T. Meagher's long-standing world record,
+4
+Believing in Belief
+and beating Misty by at least four seconds. Misty was discouraged and
+began to doubt that she had what it takes to be successful.
+I met Misty in the long hallway on the way to the warm-down pool.
+(This is the same place I would meet her to celebrate her great Olympic
+victory 13 months later.) I put my arm around her, and as we walked to
+the warm-down pool I told her she was the only swimmer in the world
+who could beat Susie in the 200 fly in the Olympic Games. I said that al-
+though it might seem impossible after such a poor performance I believed
+she could win the Olympic gold medal in 2000. Then I told Misty that it
+didn't matter what I believed she could do if she did not believe she could
+do it. At that moment Misty began to believe. She began to believe that if
+she swam the ideal race at the ideal time, she'd have a chance.
+Over the next 12 months as she prepared for the Olympic trials, did
+doubts ever creep in? Absolutely, but she knew that her belief in her
+ability and in the possibility of putting together the ideal race at the ideal
+time could lead to the extraordinary. Did she have setbacks? Absolutely;
+she was beaten in the NCAA Championships in the 200 fly, she suffered
+continuously from allergies that resulted in a chronic lack of energy, and
+she dealt with a few illnesses that year. But Misty's belief system kept
+giving her hope. Believe in belief. Belief in yourself and in your goals
+is the basis for extraordinary performance.
+Belief Brings Commitment
+Belief in yourself and in your goals facilitates the attitude that you will
+do whatever it takes. Belief allows you to commit to your goal as if you
+cannot fail. Dara Torres had a belief that she could make the Olympic
+team as an alternate on the 400 freestyle relay when she called me to ask
+if I would be willing to coach her. My first question to her was, “Will you
+do whatever it takes to be successful?” Her answer was yes. From that
+moment on, Dara's belief in herself and in her goals encouraged her to
+pack three years of training into 13 months. Her training included up to
+eight hours a day of water training, weight training, spinning, running,
+Tae Bo, resistive stretching, dryland exercises, cutting edge nutrition
+and supplementation, deep-tissue massage, and becoming familiar with
+“awareness thinking.” Dara's belief system allowed her to train and to
+commit to her goals as if she could not fail.
+Believe in belief. Belief in yourself and in your goals allows you to set
+new goals as you approach or accomplish your previous goals. At first
+Dara believed that she could only make the relay; as she improved she
+began to believe that she could make it in an individual event, then in
+5
+Believing in Belief
+more than one individual event. Eventually she began to believe that she
+could win an individual Olympic medal. Finally she came to believe that
+she could win an individual gold medal. Dara's growing belief in herself
+led to five medals in the 2000 Olympic Games, more than any other swim-
+mer. She won three bronze medals, the first individual Olympic medals
+in her storied, four-time U.S. Olympic team member career. Believe in
+yourself and in your goals; grow and act as if you cannot fail.
+True goals are products of an individual's belief system. A true goal
+can only exist if an individual believes it is possible. A true goal is
+something that you absolutely believe you can and will accomplish. It
+is more than something you write down, something you hope you can
+reach, or something a coach or a parent wants you to do. A true goal is
+something you know you will accomplish.
+A true goal is so much a part of your core belief system that it affects
+every activity you do that is even remotely related to that goal. It keeps
+you from doing anything that might hinder your success. It allows you
+to act, to train, and to compete as if you cannot fail. Your belief system
+cannot conceive of failure; it will not let you fall short of your goal. A
+true goal is not just a wish or a hope. A true goal will be accomplished.
+Believe in belief.
+Most people sell themselves short. Most people need permission to
+accomplish something. Most of the swimmers who now swim faster
+than Don Schollander swam in the 1960s are not considered the most
+talented swimmers around, and most are not as well trained or as well
+coached as Don was. Most of these swimmers would not have been able
+to swim that fast in the 1960s even if they'd had the expert coaching and
+the modern, scientific training available today. Why? They would not
+have believed it was possible. Until Don Schollander broke the barrier,
+no one thought a human could swim that fast.
+Belief Gives Permission Beyond Limits
+Most of us have to wait for someone else to prove to us that something
+can be accomplished. We need permission. The greatest athletes, and
+for that matter, the greatest innovators in any field, say, "This will surely
+be done in the future; why can't I be the one to do it now?” They do
+not need permission to accomplish feats that others think are unbeliev-
+able or impossible. Their belief systems are so strong that what seems
+extraordinary to most people seems attainable to them.
+By far, the most important thing to believe in is yourself. True belief
+in yourself allows you to act as if you cannot fail. However, sometimes
+6
+Believing in Belief
+circumstances beyond your control will prevent you from accomplishing
+your goals, no matter how much you believe in them. This is disappoint-
+ing, but not devastating. True belief in yourself means that your self-worth
+is not dependent upon your accomplishments or your possessions.
+Jenny Thompson is one of the greatest swimmers in the world. She
+broke the world record in the 100-meter freestyle in 1992 and in the
+100-meter butterfly in 1999. Throughout her career, she has won many
+world championships, national championships, and Olympic medals,
+including eight gold medals in relays. In fact, Jenny has more gold med-
+als than any other female swimmer in history, but none of her golds are
+in individual events. Jenny's goal was to win an individual gold medal
+in her final Olympic Games appearance in Sydney. She did not accom-
+plish that goal. Certainly she was disappointed, but her belief in herself
+does not allow her to measure herself by whether or not she received an
+individual gold medal in the Olympic Games. While Jenny celebrates
+her accomplishments in swimming, her many awards, her degree from
+Stanford, and her acceptance to Columbia University Medical School,
+her self-worth is not measured by those things either. Jenny has a deeply
+rooted belief in herself as a human being that transcends what she has
+or has not done and what she does or does not have.
+Belief in yourself and in the possibility of success is the most important
+requirement for living an extraordinary life. Believe in belief. Believe
+in yourself and the best of the world will come to you and like Dara,
+Misty, and Jenny, you will be prepared to receive it. Don't sell yourself
+short. You do not require permission to do the extraordinary.
+Summary
+• Extraordinary swimmers have a core belief that they can accomplish
+what others believe to be impossible.
+• Belief will carry you through difficulties and setbacks.
+• Belief allows you to commit to your goals.
+• Act as if you cannot fail.
+7
+CHAPTER TWO
+Putting Fun Into
+the Swimming
+Experience
+Jean Freeman
+Freeman
+Remember why you joined your first swim team? Most likely you en-
+joyed being in the water and thought swimming was a fun way to be
+with friends. I began swimming because the kids in my neighborhood
+were swimmers and said it was fun. I joined my first team at age eight
+and have been involved with competitive swimming ever since—for
+over 40 years. I am still enjoying the sport, possibly more now than ever.
+Many things have made the sport fun for me. I hope that as I share some
+of my ideas on swimming you will discover some ways to add fun and
+enthusiasm for the sport to your coaching and your program.
+As I look back on what led me to become a swim coach, I realize that
+I have wanted to teach ever since I was a young child. Teaching and
+coaching have much in common; in many ways coaches are teachers,
+too. In the course of my development as a coach, I have watched teachers
+interact with their classes and have tried to understand how they achieve
+rapport with their students. I have found that the best teacher-student
+relationships come from an understanding based on trust and respect,
+an understanding that takes time and consistency to build. The same
+is true of coach-athlete relationships. The best coaches nurture small
+successes every day and celebrate them along the way. This positive
+reinforcement goes a long way toward building trust and respect; other
+swimmers on the team notice that attention and encouragement are given
+to those who strive to improve and to do well. Success may be built on
+good attendance, learning key technique or competition concepts from
+a disappointment, making a new friend, or swimming faster. Coaches
+must be aware of the physical, mental, and emotional development level
+of each age group they work with, as well as any pertinent economic
+factors affecting their swimmers, so that they can tailor their approach
+accordingly.
+The swim coach is in a great situation. Most people who join teams
+expect the coach to be in charge. They expect the coach to help them
+become better swimmers. The key is to figure out how to get swimmers
+from where they are to the next level of development—in technique,
+conditioning, discipline, social skills—as well as teaching them appro-
+priate competitive attitudes, how to deal with failures, how to strive for
+success, and how to celebrate. I am thankful for my education major in
+college because of what it taught me about planning. It was drilled into
+me that each session should have a clear purpose and a clear plan. The
+importance of continually evaluating and attempting to improve the
+purpose and plan was also emphasized.
+Another important concept that I learned through my training as an
+educator is the necessity of establishing clear communication. Com-
+10
+Putting Fun Into the Swimming Experience
+munication among coaches, swimmers, and parents is critical for any
+swim coach. Whether it is accomplished through monthly newsletters,
+web pages, e-mail, or seasonal parent meetings, this communication not
+only serves to keep everyone involved in the program informed, it also
+helps coaches find out what their swimmers think is fun and what they
+are passionate about. This kind of communication helps swimmers want
+to come to practice rather than feeling they have to come to practice.
+The following are some observations I have made that I apply to my
+everyday coaching to ensure that my athletes have a fun, rewarding swim-
+ming experience that allows them to continue to grow. These observations
+relate to five basic responsibilities of a coach: building confidence, nur-
+turing self-esteem, learning from competition, developing team leaders,
+and planning for growth. Throughout this chapter I will expand on each
+of these responsibilities and offer ways to approach them.
+Make Swimming Fun!
+Fun is necessary in all worthwhile activities.
+Swimmers will stay in the sport if they continue to have fun.
+Athletes perform their best when they are having fun.
+Champions go fast because they are having fun.
+Self-esteem and self-confidence are the two most important gifts we can nurture in oth-
+ers and ourselves.
+Welcome everyone to your program, wherever they are in life's journey.
+Help your swimmers discover their passion and “go for it.”
+Enthusiasm is important on a daily basis.
+Maintain a positive attitude toward everything you do.
+Forgiveness is necessary everyday.
+Listen to swimmers, to staff, and to parents.
+Fear of failure is natural. Learn from it and move on.
+Celebrate success and give thanks for it along the way.
+In order to reach your goals, you must begin with the end in mind.
+Building Confidence

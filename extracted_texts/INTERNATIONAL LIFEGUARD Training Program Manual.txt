@@ -1,0 +1,895 @@
+TEA
+ELLISEDUCATION
+SERVICES
+SUPERVISOR
+GUARD
+RNATIONAL
+FEGUARD TRAINING
+ELLIS & ASSOCIATES
+INTERNATIONAL
+LIFEGUARD
+Training Program Manual
+5th Edition
+Meets ECC, MAHC, and OSHA Guidelines
+Ellis & Associates, Inc.
+5979 Vineland Rd. Suite 105
+Orlando, FL 32819
+www.jellis.com
+800-742-8720
+Copyright © 2020 by Ellis & Associates, Inc.
+All rights reserved.
+Unless otherwise indicated in writing by Ellis & Associates, the recipient of this manual is granted the limited
+right to download, print, photocopy, and use the electronic materials to fulfill Ellis & Associates lifeguard courses,
+subject to the following restrictions:
+• The recipient is prohibited from downloading the materials for use on their own website.
+• The recipient cannot sell electronic versions of the materials.
+• The recipient cannot revise, alter, adapt, or modify the materials.
+• The recipient cannot create derivative works incorporating, in part or in whole, any content of
+the materials.
+For permission requests, write to Ellis & Associates, addressed “Attention: Permissions Coordinator,” at the
+address above.
+Disclaimer:
+The procedures and protocols presented in this manual and the course are based on the most current
+recommendations of responsible medical sources, including the International Liaison Committee on Resuscitation
+(ILCOR) Consensus Guidelines for CPR, Emergency Cardiovascular Care (ECC) and First Aid, the Occupational Safety
+and Health Administration (OSHA) standards 1910.151, and the Model Aquatic Health Code (MAHC).
+The materials have been reviewed by internal and external field experts and verified to be consistent with the most
+current guidelines and standards. Ellis & Associates, however, make no guarantee as to, and assume no responsibility
+for, the correctness, sufficiency, or completeness of such recommendations or information. Additional procedures
+may be required under particular circumstances. Ellis & Associates disclaims all liability for damages of any kind
+arising from the use of, reference to, reliance on, or performance based on such information.
+ISBN 978-0-9961108-7-7
+Library of Congress Cataloging-in-Publication Data Not Available at Time of Printing
+Unless otherwise indicated on the Credits Page, all photographs and illustrations are copyright protected by
+Ellis & Associates.
+CONTENTS
+Acknowledgements
+i
+Welcome
+ii
+Continuing Education
+iv
+Part One: Professionalism and Safety
+Chapter 1 Introduction to Lifeguarding
+1
+• Why Lifeguards?
+2
+• History of Lifeguarding
+2
+• Drowning: A Global Crisis
+3
+• Ellis and Associates Lifeguards
+4
+• Get the Most From Your E&A Lifeguard Training
+5
+• On-Going Training
+7
+• Primary Responsibilities of Lifeguards
+8
+• Secondary Responsibilities of Lifeguards
+9
+• Being Held Accountable
+11
+• Legal Concepts That Apply to Lifeguards
+12
+• Standard of Care
+14
+• Lifeguard Liability
+14
+• For Your Review
+16
+Chapter 2 Professional Image and Action
+17
+• Lifeguard Appearance and Behavior
+18
+• Lifeguard Uniform
+20
+• Lifeguard Equipment
+20
+• Positive Guest Interactions
+23
+• Rule Enforcement
+24
+• For Your Review
+26
+Chapter 3 Environmental Safety
+27
+• General Environmental Safety
+28
+• Weather Conditions
+28
+• Hydration
+31
+• Chemical Safety
+31
+• Recreational Waterborne Illnesses
+33
+• For Your Review
+35
+Chapter 4 Preventing Disease Transmission
+36
+• Bloodborne and Airborne Pathogens
+37
+• How Diseases are Transmitted
+39
+• OSHA Protection Standards
+39
+• Disease Prevention Practices
+40
+• If an Exposure Occurs
+43
+• For Your Review
+45
+Chapter 5 Guest Safety
+46
+• Health Codes, Laws and Standards
+47
+• Rule Enforcement
+48
+• Shallow Water Blackout
+49
+• Secondary Drowning
+50
+• Life Jackets
+50
+• For Your Review
+52
+Part Two: Vigilance and Teamwork
+Chapter 6 Zone Protection
+53
+• The 10/20 Protection Standard
+54
+• Lifeguard Zones
+54
+• Zone Documentation and Training
+56
+• For Your Review
+57
+Chapter 7 Surveillance
+58
+• Introduction
+59
+• Recognizing a Guest in Distress
+59
+• Recognizing Risk Factors
+60
+• The Drowning Process
+61
+• Proactive Scanning Strategies
+63
+• For Your Review
+66
+Chapter 8 Maintaining Vigilance
+67
+• Vigilance
+68
+• Lifeguard Station Rotations
+68
+• Challenges to Vigilance
+71
+• Avoiding Distractions
+73
+• Improving Performance
+74
+• For Your Review
+76
+Chapter 9 The Emergency Action Plan (EAP)
+77
+• Emergency Action Plans
+78
+• Multiple Rescuer Facilities
+79
+• Single Rescuer Facilities
+79
+• Communication Devices and Standards
+80
+• Contacting EMS
+85
+• For Your Review
+86
+Part Three: Providing Quality Basic Life Support (BLS)
+Chapter 10 Basic Life Support: Respiratory Emergencies
+87
+• The Respiratory System
+88
+• Causes of Respiratory Emergencies
+88
+• Respiratory Distress
+89
+• Respiratory Arrest
+89
+• Scene Survey
+90
+• Primary Check
+90
+• Secondary Check
+91
+• Rescue Breathing
+91
+• Special Situations
+94
+• Airway Obstruction (Choking)
+95
+• For Your Review
+98
+Chapter 11 Basic Life Support: Cardiac Emergencies
+99
+• The Circulatory System
+100
+• Cardiovascular Disease
+100
+• Cardiac Arrest
+101
+• Cardiopulmonary Resuscitation (CPR)
+102
+• Automated External Defibrillation (AED)
+107
+• For Your Review
+112
+Chapter 12 Supplemental Oxygen Support
+114
+• Drowning and the Need for Supplemental Oxygen
+115
+• Supplemental Oxygen Systems (SOS)
+115
+• Supplemental Oxygen Delivery Devices
+117
+• Care and Maintenance of Supplemental Oxygen Systems
+121
+• For Your Review
+123
+Part Four: First Responder Care
+Chapter 13 Caring for Injuries
+124
+• Introduction
+125
+• Scene Safety
+125
+• Assessing Injured Guests
+125
+• Wounds
+126
+• External Bleeding
+127
+• Internal Bleeding
+129
+• Burns
+130
+• Head Injuries
+132
+• Spinal Injuries
+137
+• Pelvic and Hip Injuries
+138
+• Chest Injuries
+138
+• Abdomen Injuries
+139
+• Joint, Bone, and Muscle Injuries
+140
+• Shock
+142
+• Emergency Moves
+143
+• Triage
+144
+• For Your Review
+145
+Chapter 14 Caring for Sudden Illnesses
+147
+• Allergic Reactions
+148
+• Breathing Emergencies
+151
+• Cold Emergencies
+152
+• Diabetic Emergencies
+153
+• Drug Emergencies
+154
+• Fainting
+157
+• Heart Attack
+158
+• Heat Emergencies
+158
+• Poisoning
+160
+• Pregnancy Complications
+167
+• Seizure
+167
+• Stroke
+168
+• For Your Review
+172
+Part Five: Water Rescues
+Chapter 15 Water Rescues for Responsive Guests
+174
+• Introduction
+175
+• Assists
+175
+• Water Entries
+176
+• Approach Strokes
+177
+• General Water Rescue Procedures
+178
+• Responsive Guests on the Surface
+179
+• Responsive Guests Beneath the Surface
+181
+• Challenging Rescue Situations
+183
+• For Your Review
+185
+Chapter 16 Water Rescues for Unresponsive Guests
+186
+• Unresponsive Guests in Distress
+187
+• Unresponsive Guest Rescues
+187
+• Caring for an Unresponsive Guest in the Water
+191
+• Rapid Extrication of an Unresponsive Guest
+192
+• Care After Extrication
+194
+• For Your Review
+196
+Chapter 17 Suspected Spinal Injuries
+197
+• About the Spine
+198
+• Recognizing Spinal Injuries
+198
+• Caring for Spinal Injuries in the Water
+199
+• Backboarding and Extrication
+204
+• Special Situations
+208
+• For Your Review
+209
+Part Six: Open Water Lifeguarding
+Chapter 18 Open Water Lifeguarding
+210
+• Introduction to Open Water Lifeguarding
+211
+• The Designated Swimming Area
+211
+• Managing Guest Safety
+213
+• Equipment for Open Water Lifeguarding
+215
+• Open Water Rescues
+217
+• Missing Guest Search
+220
+• For Your Review
+222
+Appendices
+Appendix A Sample First Aid Kit
+224
+Appendix B Sample BBP Exposure Control Plan
+225
+Index
+231
+ACKNOWLEDGEMENTS
+In Memory of Louise Priest
+This edition of the International Lifeguard Training Program is dedicated to Louise Priest, a tireless aquatics
+educator, author, and leader. Louise held leadership positions with the American Red Cross NHQ, Ellis &
+Associates, and the Council for the National Cooperation in Aquatics. Louise was one of those select few
+"larger than life” individuals who put others ahead of herself, exemplifying the very best of humankind. While
+she will be missed, her legacy remains infinitely timeless.
+Contributors
+Many individuals, agencies, and organizations contributed to the tasks of designing, advising, writing, editing,
+reviewing, piloting, and producing this 5th edition of the International Lifeguard Training Program manual
+Jeff Ellis & Associates and Jeff Ellis Management National Staff
+Benjamin Strong
+Darlene Reese-Sittig
+Dr. Larry Newell
+Dr. Peter Goldberg
+Jeffrey Ellis
+Jem Hughes
+Jennifer Barber
+Jeremy Stiles
+Jerica Cyr
+Joe Stefanyak
+Juan Richards
+Landon Reed
+Luke Martinez
+Melanie Woods
+Richard Carroll
+Steve Miller
+Travis Reed
+Vinson Needler
+External Contributors
+Cedar Fair / Cedar Point, OH
+City of Tempe Parks and Recreation, AZ
+Erin Clancy, Stanfordville, NY
+Deric Clinton, YMCA of Delaware
+Brandon Cook, Online Design Club, FL
+Englewood Parks and Recreation, CO
+Megan Hartman, Great Wolf Lodge Resorts
+Keith Herrmann, Aurora University, IL
+Highlands Ranch Community Association, CO
+Hilton Anatole Dallas, TX
+Nick Licastro, Great Wolf Lodge Resorts
+Katherine Martinez, KP Facilitation, CO
+Oakland County Parks, MI
+Oostman Aquatics Safety Consulting, Inc, MA
+Barbara Phillips, Tell a Story Creative, FL
+Plainfield Township, MI
+Jose Salazar, Loudoun County Fire & EMS, VA
+Ryan Phillips, Safety Skills Training
+Six Flags America, MD
+Village of Grayslake Aquatic Center, IL
+Water Safety Products, Inc. FL
+Waukegan Park District, IL
+i
+ii
+WELCOME
+Introduction
+Congratulations on your decision to become an Ellis & Associates (E&A) lifeguard. Following successful
+completion of your course, you will join a select group of aquatic professionals who apply proven state-of-the-
+art aquatic injury prevention practices to reduce the number of emergency incidents, and when necessary, to
+respond rapidly and effectively to any emergency. As a result of E&A's emphasis on prevention, professionalism,
+accountability, and proactive risk management, our safety record is unsurpassed in the aquatic industry.
+E&A - A History of Leadership and Innovation
+In 1983 our program was created to address waterpark safety issues. Due to the great demand for this quality
+program, it quickly expanded to pools, open-water environments, and resorts. Over a period spanning four
+decades, E&A has been credited for revolutionizing the safety standards of the aquatic recreational and
+amusement industry. Here are but a few E&A industry “firsts”:
+• Elevating professional lifeguard standards through operational safety audits for lifeguard accountability
+• Developing, implementing, and advocating for industry benchmarks and proactive risk management
+standards such as our 10/20 Protection™ and 10/3 Protection™ standards, Vigilance Awareness Training®
+(VAT®), and Zone Validation® system
+• Developing equipment-based rescues that are safer and more effective than body contact rescues
+• Incorporating bloodborne pathogens training into lifeguard training classes
+• Introducing supplemental oxygen support (SOS), resuscitation masks, bag valve masks, manual suction devices,
+and automated external defibrillators (AEDs) to enhance resuscitation efforts provided by aquatic staff to enhance
+lifeguard resuscitation efforts
+• Establishing a national database for aquatic injuries and injury prevention
+• Offering the first blended e-learning lifeguarding program in the world
+Our Educational Philosophy
+The emphasis of our lifeguarding curriculum is on preventing aquatic emergencies by consistently monitoring
+guests, enforcing rules, and identifying and correcting potential dangers. Should an emergency occur our
+lifeguards are prepared to work individually and as members of a team to respond rapidly and professionally.
+We do not focus on executing textbook-perfect rescues, as such situations seldom occur in real-life. It is more
+important for lifeguards to think critically, rationally, and overcome adverse rescue situations.
+To achieve these learning outcomes E&A lifeguard candidates are immersed in the job of the lifeguard while
+completing the course. They participate in hands-on lifeguarding activities including proactively scanning zones
+as apprentice lifeguards. Through the design and delivery of our curriculum lifeguards exit our program with the
+necessary knowledge, skills, and attitude to conduct themselves professionally and confidently.
+iii
+CONTINUING EDUCATION
+Continuing education is a broad term used to recognize forms of post-secondary school learning activities often
+associated with job training, maintaining professional certification/licensure, and personal enrichment courses.
+Ellis & Associates is pleased to be able to provide Continuing Education Units (CEUs) to those who desire such
+upon successful completion of our courses. Health care specialists, aquatic/recreation leaders, educators,
+childcare providers, and other professionals can attain CEUs through our approved courses.
+As an International Association of Continuing Education (IACET) Accredited Provider, Ellis & Associates offers
+CEUs for its programs that qualify under the ANSI/IACET Standard. This prestigious accreditation demonstrates
+our commitment to provide high-quality lifelong learning and high standards for all of our programs. We are
+proud of our education programs, which reach aquatic safety, supervisory, and healthcare professionals each
+year, helping to broaden their skills so that they remain on the cutting edge of education.
+ACCREDITED
+IACET
+PROVIDER
+Introduction to Lifeguarding
+Chapter 1
+INTRODUCTION TO
+LIFEGUARDING
+ELLIS GUAP
+EXEITUNE
+Learning Outcomes
+1
+After reading this chapter and completing the related course work,
+you should be able to:
+• Understand the global problem of drowning
+• Explain how lifeguards can help address the drowning problem
+• Describe how to be a preventive lifeguard
+• List responsibilities of a lifeguard
+• Understand legal terms related to lifeguarding
+• Relate lifeguard accountability to the standard of care
+• Define lifeguard liability
+Chapter Overview
+Why Lifeguards? (pg 2)
+History of Lifeguarding (pg 2)
+Drowning: A Global Crisis (pg 3)
+Ellis and Associates Lifeguards (pg 4)
+Get the Most From Your E&A Lifeguard Training (pg 5)
+On-Going Training (pg 7)
+Primary Responsibilities of Lifeguards (pg 8)
+→ Secondary Responsibilities of Lifeguards (pg 9)
+Being Held Accountable (pg 11)
+Legal Concepts That Apply to Lifeguards (pg 12)
+Standard of Care (pg 14)
+Lifeguard Liability (pg 14)
+For Your Review (pg 16)
+Introduction to Lifeguarding
+Why Lifeguards?
+Around the world, people of all ages happily swim in aquatic facilities, resort and hotel pools, and on beaches
+without worry knowing that lifeguards are on duty providing pro-active surveillance. Facility guests put
+their trust and safety in the hands of these well-trained individuals capable of performing water rescues and
+emergency care including CPR. If a guest becomes fatigued, injured or at risk for other reasons, the lifeguard
+enters the water and helps return the guest to safety. This is the responsibility you agree to take on as an Ellis
+and Associates (E&A) trained lifeguard.
+History Of Lifeguarding
+Some of the earliest, documented cases of lifeguarding can be traced to the 1700s. These early lifeguarding
+efforts were primarily designed to aid those serving in battle or traveling the waterways. Comprised of military
+and coast guard personnel, these early lifeguards were dedicated to eliminating or minimizing loss of life and
+providing rescue and recovery services.
+The first of these organizations was China's Chinkiang Association for the Saving of Life, which offered money
+and prizes for significant rescues.
+Towards the mid-1800s, swimming became a popular pastime and recreational activity. In the United States,
+oceanfront hotels and resorts began to dot the landscape in places like Atlantic City, New Jersey, The emerging
+railroads would transport thousands of people to Atlantic City during the summer months to enjoy the beaches.
+This brought an increased risk for drowning and other incidents. Demand for swimmer protection grew.
+In 1855, a town in New Jersey took the first steps towards providing swimmer protection with the first
+volunteer lifeguard team for beach patrol called the “Constables of the surf.” The Constables were police
+officers tasked with responding to any beach emergency involving swimmers in the water. In the early 1900s
+California instituted its first beach lifeguards (Fig 1.1).
+Through the years, efforts to protect facility guests continued as more and more organizations looked to
+ensure safety, developing training protocols, innovative rescue operations, and improved teaching materials
+to better prepare lifeguards for the important task of preventing drownings. Today's professional lifeguard is
+better trained, and more equipped than ever before to protect lives in and around the water (Fig 1.2).
+2
+CALIFOR
+0977
+ELLIS GUARD
+SG
+3
+Figure 1.1 The lifeguarding profession has a decorated history.
+Drowning: A Global Crisis
+Figure 1.2 Today's professional lifeguards
+Drowning is the third leading cause of unintentional injury and death worldwide. It is the fifth cause of
+death globally for children ages one-14 years old, impacting an estimated 360,000 children annually. Death
+by drowning occurs in all regions of the world and in all types of economies. Deaths are especially prevalent
+in lower and middle-income countries, regions of Africa, and in the Western Pacific and Southeast Asia,
+accounting for half of the world's drownings.
+Higher risks for drowning include a number of additional factors:
+• Alcohol use near the water
+• Medical conditions such as seizure disorders
+• Tourists unfamiliar with local features and risks
+• Unsupervised and unattended children
+The main risk factors for drowning involve:
+• Lack of swimming ability
+• Lack of barriers to prevent unsupervised access
+• Children unsupervised
+• Failure to wear life jackets
+• Alcohol use
+• Seizure disorders
+U.S. Statistics on Drowning
+Drowning is a significant problem in the United States, ranking fifth among the causes of unintentional injury
+deaths. Everyday about ten people die from unintentional drowning. About one in five people who die from
+drowning are children 14 years of age or younger. For every child who dies from drowning, another five
+receive emergency department care for serious, nonfatal submersion injuries.
+Did You Know?
+• Worldwide drowning is the third leading cause of unintentional injury death.
+• In the U.S. more than 3600 people die from unintentional drowning annually; about two in 10 are
+children 14 years old and younger.
+Ellis & Associates (E&A) Lifeguards
+Having a lifeguard is the only consistently proven
+means of preventing drownings and other tragic
+incidents, in and around water. The best lifeguards
+are those who are highly trained, professional, and
+most of all, accountable (Figure 1.3).
+In 1983, Ellis & Associates was founded to create the
+best lifeguards in the aquatic industry to meet the needs
+of an emerging industry - water parks. E&A lifeguards
+have a mission to prevent submersion incidents and
+potential loss of life and are held accountable to a high
+standard of care. As an E&A trained lifeguard, your goal
+is zero drownings annually.
+LIFECARD
+ARD
+Figure 1.3 Professional lifeguards are highly trained
+and accountable for their actions.
+E&A's International Lifeguard Training Program (ILTP®) stresses values that include safety, consistency, and integrity.
+• Safety - Guests and employees of aquatics facilities trust you with their personal safety. You are
+responsible for providing a safe environment for them and yourself. To accomplish this, you must pro-
+actively identify and manage risk.
+• Consistency - To uphold the E&A Standard, you will consistently represent the E&A Philosophy and
+effectively meet the skill and knowledge competencies of this program.
+• Integrity - Being an E&A lifeguard requires a passion for aquatic safety. You will sincerely care about the
+lives and well-being of those you protect. You will feel a sense of commitment and hold yourself personally
+accountable to the swimmers you protect, the E&A training program, and your fellow lifeguards.
+As a result of our collective emphasis on lifeguard professionalism, prevention, accountability, and
+proactive risk management, E&A's safety record is unmatched in the aquatic industry.
+The vigilance of E&A lifeguards along with their commitment to E&A training standards has been proven
+effective in preventing drownings and providing quality care in the event of an emergency.
+4
+E&A Lifeguard Results
+• E&A lifeguards protect more than 70 million guests annually at many of the world's most complex
+aquatic facilities.
+• E&A lifeguards make approximately 35,000 rescues each year, in which no further care is necessary.
+Get The Most From Your E&A
+Lifeguard Training
+As an E&A lifeguard candidate participating in this course, you can achieve one of four different certifications
+as noted below.
+You will be required to take prerequisite screening tests to assess general swimming skills. Table 1.1 describes
+the necessary skill requirements for each of the different certifications.
+Table 1.1 Prerequisite Tests
+Certification
+Swim Distance
+Dive Brick Depth Retrieval
+Shallow water
+50 yards/meters
+5 feet (1.5 m) and underwater
+swim of 10 feet.
+Pool
+100 yards/meters
+8 feet (2.4 m) or deepest
+facility depth designated
+Special Facilities
+with Wave Pool
+200 yards/meters
+8 feet (2.4 m) or deepest
+facility depth designated
+Special Facilities
+200 yards/meters
+with Open Water
+8 feet (2.4 m) or deepest
+facility depth designated
+Treading Water
+No requirement
+Tread without use of arms &
+hands for 1 minute
+Tread without use of arms &
+hands for 2 minutes
+Tread without use of arms &
+hands for 2 minutes
+All levels: The ability to exit standard pools unassisted from pool edge, without use of ladder or stairs.
+General Course Rules
+Before you arrive:
+• Review the course syllabus and any other supportive documentation issued prior to the first scheduled
+class for specific course pre-requisites, course completion evaluation standards and any other general
+course information
+5
+During your course:
+• Be on time for all sessions
+• Use sun protection such as a hat, sunglasses, and sunscreen when outdoors
+• Enter the water feet first
+• Only enter the pool after someone has been designated as the lifeguard on duty
+• Be professional, have a proper attitude, act maturely, and use good judgment
+If you fail to pass or meet all the course requirements, you will be requested to repeat the course until the
+learning outcomes are achieved to be eligible for an E&A lifeguard credential.
+Course Completion
+To successfully complete lifeguard training, you will be required to:
+• Attend all scheduled classes
+• Follow all course rules
+• Meet all course requirements
+• Perform skills to test-ready levels. This includes all water rescue lifesaving technique skills,
+cardiopulmonary resuscitation (CPR), AED, first aid, and supplemental oxygen support (SOS)
+• Pass the written examination with a minimum score of 80%
+Credentials
+E&A lifeguard credentials are valid for one (1) year and only in the aquatic environments specified by the
+certification type. Credentials must be renewed each year.
+• Shallow water lifeguard training – appropriate at facilities with aquatic attractions with a maximum
+water depth is 5 feet (1.5 meters), excluding wave pool and open water environments
+• Pool lifeguard training – appropriate at facilities with aquatic attractions of various depths, excluding
+wave pools and open water environments
+• Special facilities with wave pool lifeguard training – appropriate at facilities that operate a wave pool
+and other aquatic attractions of various depths, excluding open water environments
+• Special facilities with open water lifeguard training – appropriate at facilities that operate a designated
+swimming area in an open water environment
+6
+Your training often continues after your lifeguard course is completed. Your aquatic facility is likely to
+provide you with the additional training you need to effectively perform at your specific job location. Those
+requirements will be made clear by your employer. Additional training may be provided:
+• Pre-service training – what takes place before you start working
+• In-service training/meetings – Training completed after the lifeguard course but before you officially
+begin working as a lifeguard
+• Operational drills/audits – periodic testing to ensure you remain “test ready"
+Pre-Service Training
+Pre-service training may review how the concepts learned in a lifeguarding class apply at a specific site.
+Additional information may be provided such as:
+• How the Emergency Action Plan (EAP) is applied at specific locations
+• Reviewing skills for operating in specific facility locations
+• Reviewing the standard operating procedures for the facility/attraction
+In-Service Training
+In-service training is intended to serve as an
+ongoing practice session for you to maintain and
+enhance your skills learned during the original
+lifeguard class. In-service training can also be an
+opportunity for feedback on skill performance.
+In-service is also an excellent time to have
+lifeguard team meetings to review skill concepts.
+Your supervisor and company are responsible for
+scheduling and delivering your in-service training
+sessions. It is important that you attend these
+sessions as they contribute to your professionalism
+and help keep your skills sharp (Figure 1.4).
+Operational Drills/Audits
+Figure 1.4 In-service training helps to keep your skills
+sharp.
+Operational drills and audits are conducted by some facilities throughout the operating day. These operational
+drills and audits may include lifeguard evaluations that can include the use of people, manikins or silhouette dolls
+to monitor your vigilance. Some drills may also involve scenarios where rescue skills are performed. As an E&A
+lifeguard, you should embrace all opportunities to both improve and demonstrate your lifeguarding abilities.
+7
+E&A lifeguards are professional first responders. Your primary job function is to prevent aquatic emergencies.
+But not all incidents are foreseeable and preventable. In such cases you must also know how to recognize,
+respond, and render appropriate care.
+Preventive Lifeguarding
+Preventive lifeguarding is a critical and demanding
+part of your lifeguarding job. A lifeguard must
+remain alert and work to prevent emergencies.
+As a lifeguard, people rely on you to prevent
+catastrophic incidents. This job requires your
+undivided attention. If you allow yourself to
+become distracted while lifeguarding, it could
+result in a loss of life. It is a difficult job, but it is
+very rewarding (Figure 1.5).
+Preventive lifeguarding involves items such as:
+• Being alert
+• Enforcing facility rules
+Figure 1.5 Lifeguarding is a demanding job that
+requires you to remain alert at all times.
+• Answering swimmer's questions while continuing to effectively scan your zone
+• Warning guests of potential hazards
+• Following your training
+• Notifying your supervisor when you cannot see all your assigned area
+• Communicating with other lifeguards about hazards in the water
+Expect the Unexpected
+Guests can be unpredictable. They may enter water depths or elements that may cause them to get into
+trouble. The water conditions may become too challenging for a swimmer to manage on their own and require
+a rescue. They may suffer a medical emergency in or out of the water.
+It is your job as a lifeguard to recognize when a swimmer is in trouble and to quickly react to render care.
+Recognizing an emergency means you must maintain a high level of vigilance, effectively scanning your
+assigned zone. Managing an aquatic emergency means reacting as trained, in a safe and effective manner
+(Figure 1.6).
+8
+Secondary
+Responsibilities
+Of Lifeguards
+As a lifeguard you will have numerous secondary
+responsibilities such as:
+• Inspecting the facility
+• Documentation
+• Cleaning the facility
+• Testing water chemistry
+• Crowd control
+• Providing guest services
+ELLIS GUARD
+9
+Figure 1.6 When a guest is in trouble you must recognize
+the emergency and respond promptly.
+Inspecting the Facility
+You may be required to inspect your facility before opening it for daily guests. This inspection will attest
+to the facility being in appropriate operating condition. This includes having a means of calling 9-1-1, and
+appropriately operating safety and response equipment.
+Documentation
+Your facility may require you to maintain accurate documentation. Each facility is likely to have records and
+reports specific to its unique operation such as:
+• Daily sign-in sheets
+• Facility inspection checklists
+• Attendance records
+• Lifeguard rotation logs
+• Facility maintenance records
+• Equipment inspection forms
+• Rescue reports
+• Incident and witness reports
+• Daily work schedules
+• Water chemistry logs
+• Weather condition reports
+• In-service training records
+• Attraction downtime records
+Rescue reports and Incident/Witness statement reports are among the most important paperwork you will
+complete. The documentation must be completed as soon as the incident or rescue has been resolved. Make
+sure to fill in each section completely. These forms may become legal records in the future, and adequate
+documentation will minimize problems at that time.
+Cleaning the Facility
+You may be required to clean your facility area and visitor seating areas daily, and collect debris or rubbish in the
+area, potentially preventing it from blowing in the pool and contaminating the water. You may also be expected to
+vacuum the pools, skim the top of the pool to remove debris, and clean pool walls, patio areas, and other areas
+of the facility. These tasks are part of preventive lifeguarding which removes hazards and potential risks that could
+cause problems later. A lifeguard who removes puddles from the pool patio area can help eliminate a potential
+algae hazard that causes a slippery surface. As a professional lifeguard, it is your task to keep your facility and
+area clean eliminating potential risks and hazards
+(Figure 1.7).
+Testing Water Chemistry
+Some facilities may require that you test and
+monitor the water chemistry of the swimming pool
+before opening the pool and throughout the day to
+ensure that it matches the requirements based on
+the guidelines listed in your local codes and/or the
+MAHC recommendations. If your facility requires
+you to test the water chemicals as a part of your job
+responsibility, your facility should provide you with
+additional training for this task. If you are responsible
+for adding chemicals and managing the pumps, you
+may be required to take a separate course to become
+trained as a Certified Pool Operator (CPO), Aquatic
+Facility Operator (AFO) or complete a unique
+facility requirement training course (Figure 1.8).
+10
+Figure 1.7 Secondary tasks include keeping your
+facility clean.
+Kiefer
+DANGER
+KEEP OFF
+Figure 1.8 You may have to test water chemistry as
+part of your job responsibilities.
+Crowd Control
+During an emergency, crowds may gather around the scene and you will be tasked with controlling the
+situation. Know your facility's emergency action plan (EAP) to be prepared for any incident requiring crowd
+control. Crowd control might be necessary during guests altercations, special events, severe weather
+conditions, rescues with resuscitation efforts, chemical leaks, and terrorism threats. Become familiar with all
+the access and exit points in case an area needs to be evacuated in the facility or a path needs to open so that
+emergency medical services (EMS) personnel can access a scene to render care and/or support.
+When you need to control a crowd:
+• Remain calm
+• Speak loudly and with authority
+• Give clear, precise and simple instructions
+Providing Guest Services
+Lifeguards are the employees of the facility most noticeable to guests. You are likely to encounter guests asking
+questions about the attractions, directions to various points in the facility, advise on caring for sunburn, and
+many others. You will be interacting with guests to make certain they understand and comply with the rules of
+the facility. Be professional in all your interactions with guests, determine their needs, and resolve any guest
+issues in a cordial manner. If you are uncertain about how to help a guest, contact a supervisor.
+11
+Being Held Accountable
+As a lifeguard you are expected to anticipate, recognize, and manage aquatic emergencies. Your training does
+not end after the course. Your skills need to be maintained at a test-ready level throughout your credential
+validity period. As an E&A lifeguard you are accountable to:
+• Facility guests - Provide a safe environment for guests, while minimizing hazardous situations whenever
+possible and responding appropriately to emergency situations.
+• Your employer - Perform the duties outlined and taught to you when you were hired. Show dedication
+in your work, commitment to your job, and perform at or above expectations. While at work, you can
+expect to be evaluated on your performance on a regular basis.
+• Yourself - Believe in your abilities to perform the tasks of the job. Practice your skills so that you are
+capable and confident in your abilities. Seek clarification from a supervisor or lifeguard instructor if you
+do not understand something. Know that you are responsible for human lives each day you show up
+for work. Evaluate your own performance on a continuous basis. A professional lifeguard accepts the
+responsibility of protecting the lives of others.
+Accountability Through Audits
+Lifeguards can be held accountable through
+performance evaluations that include audits. Audits
+verify that lifeguards are still maintaining their test-
+ready commitment to their lifeguard training. Some
+lifeguards are audited solely by their employer
+while others may be audited by E&A auditors.
+E&A conducts audits that evaluate lifeguard
+accountability and skills performance (Figure 1.9).
+Audits typically measure a lifeguard's ability to:
+• Act professionally
+• Remain vigilant
+• Provide proactive surveillance of the assigned
+Zone of Protection, and the ability to recognize
+and react to a distressed guest
+Figure 1.9 Professional lifeguards embrace
+operational drills and audits.
+• Appropriate scan an assigned Zone of Protection, demonstrating recognition of a guest in distress
+• Respond and manage simulated aquatic emergencies
+• Protect oneself from the environment
+• Demonstrate rescue readiness
+• Function within your aquatic facility's emergency action plan
+Professional lifeguards embrace audit accountability as an opportunity to demonstrate all aspects of their
+job. The auditing process helps you and your fellow lifeguards to prevent, recognize, and respond to aquatic
+emergencies. Lifeguard accountability saves lives!
+12
+Legal Concepts That Apply
+To Lifeguards
+There are legal concepts that apply to you as a professional lifeguard. It is important that you understand how
+these concepts apply to your job:
+Abandonment – When you begin to render care, it must be continued until emergency medical services (EMS)
+personnel or someone with equal or greater training arrives and takes over. You can be held legally responsible for
+abandoning a person who requires ongoing care if they leave the scene or stop providing care.
+Confidentiality - While rendering care to a guest, you may learn something about the injured or ill person, such as
+personal information about medical conditions, physical problems and medications taken. This person has a right
+to privacy and is protected by laws that require you to keep information confidential. The media, investigators,
+law enforcement, attorneys and even insurance companies, may ask questions following an incident. This
+information should not be shared with anyone except EMS personnel directly associated with the person's care.
+Sharing someone's personal medical information with individuals not directly associated with the care of the
+injured person may constitute a breach of the victim's privacy and could cause legal problems.
+Consent - Permission to render appropriate first aid emergency care. Verbally seek consent to provide care to
+a responsive (conscious) guests in distress who needs first aid. The guest's consent is referred to as informed
+consent. This does not apply to guests who are unresponsive (unconscious) or confused. In such cases it is implied
+(implied consent) that the guest would give approval to receive care if he or she were able to do so.
+Documentation - Properly documenting injuries and incidents is critical. If legal action occurs later, your facility
+records and reports can provide a legal record of what happened. It is important to compete any required witness
+and incident forms as soon as possible after

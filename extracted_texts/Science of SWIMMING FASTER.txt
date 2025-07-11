@@ -1,0 +1,633 @@
+Science of
+SWIMMING
+FASTER
+
+The training, technology,
+and evolution of
+extraordinary performance
+
+Scott Riewald, PhD
+Scott Rodeo, MD
+Editors
+
+Science of
+Swimming
+Faster
+
+Scott Riewald, PhD
+Scott Rodeo, MD
+Editors
+
+Human Kinetics
+
+Library of Congress Cataloging-in-Publication Data
+Science of swimming faster / Scott Riewald, PhD, Scott Rodeo, MD, editors.
+pages cm
+Includes bibliographical references and index.
+1. Swimming--Training. 2. Swimming--Physiological aspects. 3. Sports sciences--Juvenile literature.
+I. Riewald, Scott A., 1970- II. Rodeo, Scott.
+GV838.67.T73S45 2015
+797.2'1071--dc23
+2014045348
+ISBN: 978-0-7360-9571-6 (print)
+Copyright © 2015 by Scott Riewald and Scott Rodeo
+All rights reserved. Except for use in a review, the reproduction or utilization of this work in any
+form or by any electronic, mechanical, or other means, now known or hereafter invented, including
+xerography, photocopying, and recording, and in any information storage and retrieval system, is
+forbidden without the written permission of the publisher.
+This publication is written and published to provide accurate and authoritative information relevant
+to the subject matter presented. It is published and sold with the understanding that the author and
+publisher are not engaged in rendering legal, medical, or other professional services by reason of
+their authorship or publication of this work. If medical or other expert assistance is required, the
+services of a competent professional person should be sought.
+The web addresses cited in this text were current as of March 2015, unless otherwise noted.
+Acquisitions Editor: Tom Heine; Developmental Editor: Cynthia McEntire; Managing Editor:
+Elizabeth Evans; Proofreader: Sarah Wiseman; Copyeditor: Bob Replinger; Indexer: Nan N. Badgett;
+Permissions Manager: Martha Gullo; Graphic Designer: Kim McFarland; Cover Designer: Keith
+Blomberg; Photograph (cover): Zuma Press/Icon SMI; Photographs (interior): Photos provided
+by the authors, unless otherwise noted; chapter 20 photos © Human Kinetics; Visual Production
+Assistant: Joyce Brumfield; Photo Production Manager: Jason Allen; Art Manager: Kelly Hendren;
+Associate Art Manager: Alan L. Wilborn; Illustrations: © Human Kinetics; Printer: Sheridan Books
+Human Kinetics books are available at special discounts for bulk purchase. Special editions or book
+excerpts can also be created to specification. For details, contact the Special Sales Manager at Human
+Kinetics.
+Printed in the United States of America
+10 9 8 7 6 5 4 3 2 1
+The paper in this book is certified under a sustainable forestry program.
+Human Kinetics
+Website: www.Human Kinetics.com
+United States: Human Kinetics
+P.O. Box 5076
+Champaign, IL 61825-5076
+800-747-4457
+e-mail: humank@hkusa.com
+Canada: Human Kinetics
+475 Devonshire Road Unit 100
+Windsor, ON N8Y 2L5
+800-465-7301 (in Canada only)
+e-mail: info@hkcanada.com
+Europe: Human Kinetics
+107 Bradford Road
+Stanningley
+Leeds LS28 6AT, United Kingdom
++44 (0) 113 255 5665
+e-mail: hk@hkeurope.com
+Australia: Human Kinetics
+57A Price Avenue
+Lower Mitcham, South Australia 5062
+08 8372 0999
+e-mail: info@hkaustralia.com
+New Zealand: Human Kinetics
+P.O. Box 80, Mitcham Shopping Centre
+South Australia 5062
+0800 222 062
+e-mail: info@hknewzealand.com
+E5192
+
+I would like to thank my wife, Suzie, and children, Maddox and Callie,
+for all their patience, love, and support during the process of bringing
+this book together. You bring me energy, and this project wouldn't
+have happened without you.
+-Scott Riewald
+This book is dedicated to my wife, Christine, and children,
+Sarah, Scott Jr., Caitlyn, and Mark, in recognition of their
+unwavering love and support. They are the anchor that provides
+perspective about what is truly important in life.
+-Scott Rodeo
+
+iv
+Contents
+Preface
+...........vii
+Part I
+Swimming Mechanics and Technique
+Chapter 1
+Fluid Dynamics, Propulsion, and Drag . . . . . . . . ..3
+Timothy Wei, Russell Mark, and Sean Hutchison
+Chapter 2
+Freestyle Technique
+23
+Ross H. Sanders and Carla B. McCabe
+Chapter 3
+Backstroke Technique
+51
+Russell Mark
+Chapter 4
+Breaststroke Technique
+71
+Russell Mark
+Chapter 5
+Butterfly Technique
+87
+Ross H. Sanders and Carla B. McCabe
+Chapter 6
+Techniques for Starts and Turns .
+97
+Andrew Lyttle and Brian Blanksby
+Chapter 7
+Analyzing Strokes Using Computational Fluid
+Dynamics.
+.......123
+Matt Keys, Andrew Lyttle, Brian Blanksby, Liang Cheng,
+and Koji Honda
+Part II
+Physiological Aspects of Training
+and Competition
+Chapter 8
+Energy Systems and Physiology. .147
+J.M. Stager, Jonathon Stickford, and Kirk Grand
+Chapter 9
+Periodization and Planning
+.........173
+Scott Riewald
+Chapter 10 The Effect of Tapering on Performance
+Iñigo Mujika and Andrew M. Stewart
+Chapter 11 Competition-Day Strategies.
+Scott Riewald
+Chapter 12 Analyzing Elite Swimming Performances .......241
+Jodi Cossor
+Chapter 13 Overtraining and Recovery
+Randall L. Wilber
+Part III
+Applied Sport Sciences
+Chapter 14 Nutrition: Fueling for Performance.
+Charlene Boudreau
+Chapter 15 Performance Enhancers and Doping Control.... 305
+Jennifer L. Reed and Andrew L. Pipe
+Chapter 16 Swimming Psychology: Merging Mind and
+Body.
+James Bauman
+Chapter 17 Growth and Development.
+Anne Pankhurst
+Chapter 18 Sports Medicine: Swimming Injuries
+and Prevention.
+Courtney Dawson and Scott A. Rodeo
+Chapter 19 Sports Medicine: Illnesses and General Health
+Margo Mountjoy
+Chapter 20 Strength and Conditioning for Performance
+Enhancement.
+Scott Riewald
+Part IV
+Considerations for Special Groups
+Chapter 21 Adolescent Swimmers.
+Jordan D. Metzl and Morgan A. Busko
+Chapter 22 Masters Swimmers
+James W. Miller
+Chapter 23 Female Swimmers
+Jaci L. VanHeest
+Chapter 24 Open Water Swimmers .
+Steve Munatones
+Chapter 25 Adaptive Swimmers
+Brendan Burkett
+References.
+Index.
+About the Editors
+About the Contributors .
+...........199
+..............225
+.......261
+................285
+......327
+......353
+........371
+...381
+...401
+..............451
+............467
+...........489
+...........501
+...........525
+...........549
+...........578
+...........589
+...........591
+
+Preface
+Welcome to Science of Swimming Faster, a unique book that blends the
+theory of sport science and medicine with practical application.
+How many times have you read an article or book chapter describing some
+aspect of sport science and swimming yet walked away asking, “How am
+I supposed to apply this information with the athletes I work with?" Sci-
+ence of Swimming Faster aims to break down that barrier and bridge the gap
+between theory and practice-—providing just enough theoretical foundation
+to show that the authors know what they are talking about before diving
+in to discuss what the information means to the swimmer in the water, the
+coach on the pool deck, or the parent in the stands.
+The world of swimming has changed considerably over the past decade.
+We have seen the introduction of revolutionary new suits that have had a
+significant effect on performance. We've watched athletes take advantage
+of performance-enhancing substances, sometimes legally and sometimes
+illegally, to achieve a competitive advantage. We've seen modifications to
+the ways that athletes and coaches approach training and stroke technique,
+leading to faster and faster times. We are seeing increasing professional-
+ization of swimming at the elite level. No stone is left unturned to achieve
+peak performances, and more attention and importance are placed on such
+areas as performance nutrition and sport psychology. Greater consideration
+is given to dissecting stroke technique and analyzing race performances to
+milk every drop of speed out of an athlete. It is true that as athletes get to
+the Olympic level, everything affects performance. We are now seeing this
+increased level of interest in the sport sciences and sports medicine funnel
+down to collegiate, high school, and age-group swimmers as well as to
+masters swimmers and triathletes. All swimmers seem to want to know
+what they can do to swim faster and more efficiently, while staying healthy
+and injury free. Science of Swimming Faster will help athletes and coaches of
+all abilities gain scientific insights that will positively affect performance.
+Purpose
+If you perform a search of the research literature related to swimming, you
+would quickly find hundreds of studies on myriad topics. But what can
+you do with this information? Most coaches and athletes simply don't have
+time to read and digest every research study that is published. Couple this
+with the fact that scientific articles do not typically present information in
+a user-friendly format, and it's easy to see why staying abreast of the latest
+advances can become a frustrating endeavor.
+But those studies contain a lot of good information—if only it could be extracted
+and put in a format that is easy to understand and related directly to challenges
+faced by coaches and athletes in the real world of swimming. Enter Science of
+Swimming Faster. The information contained here is presented in an easy-to-
+understand manner, using swimming terminology and examples that will be
+familiar to coaches, athletes, and parents. Training suggestions and sample exer-
+cises make the information real and usable right out of the box (or book). As an
+added benefit to those who want to delve more deeply into a specific topic, each
+chapter provides a comprehensive reference list that will direct you to the most
+current research and publications.
+Whether you are a coach, a swimmer who swims competitively, or a swimmer
+who swims just to stay fit, you will benefit from the content in this book.
+Content
+Science of Swimming Faster is organized into four sections. Part I overviews the
+technical aspects of swimming. Chapters are dedicated to understanding the
+mechanics of swimming—that is, how swimmers generate propulsive force while
+reducing drag—and looking closely at stroke-specific aspects of technique. These
+chapters present the latest scientific information, from in-pool studies to computer
+simulations of performance. Additionally, this section looks at new and emerg-
+ing technologies and ways in which they can be used to dissect the intricacies of
+stroke technique and improve in-water performance (chapter 7).
+Part II focuses on training and competition. The question has often been asked,
+"What is the best way to prepare for competition, and do I really have to train
+three hours a day to compete in a race that lasts less than two minutes?" This
+section of Science of Swimming Faster looks at how the body responds to training
+and what can be done to prepare the body optimally for competition. Chapters
+are dedicated to topics such as the physiology of swimming, planning and peri-
+odization, and tapering. Information is presented about how elite athletes swim
+their races and what coaches and athletes can focus on to improve performances
+on race day.
+Part III addresses other areas of sport science that have an effect on perfor-
+mance—areas such as nutrition, sport psychology, and injury and illness pre-
+vention. All these areas are important to swimming performance, but they are
+sometimes swept under the rug in favor of focusing only on technique or training.
+Also included is a chapter on growth and development and ways to maximize the
+long-term development of swimmers. Growth and development is a theme that
+weaves through almost every chapter in the book because it affects how athletes
+should be viewed and trained. As has been stated many times, young athletes
+are not simply small adults. How a coach trains a 10-year-old will differ dramati-
+cally from what the same coach would do with a 20-year-old. Remember that no
+matter how talented a 12-year-old is, he is not a fully mature Michael Phelps, and
+he should not be trained in the same way.
+Finally, part IV addresses special swimming populations like the female athlete.
+We identify specific differences between males and females that coaches should
+keep in mind when working with this group of athletes. Additional chapters are
+devoted to masters swimmers, age-group swimmers, open water swimmers, and
+adaptive swimmers. No other resource on the market attempts to consolidate this
+type of information and present it in one place, let alone share ideas on how best
+to work with these athletes on the pool deck.
+All in all, this is a one-of-a-kind book, and we hope you enjoy it. We're confi-
+dent that the information contained in Science of Swimming Faster will lead you,
+whether you are a coach or an athlete, to new levels of performance.
+
+This page left intentionally blank.
+
+PART
+I
+Swimming
+Mechanics
+and Technique
+
+This page left intentionally blank.
+
+CHAPTER
+1
+Fluid Dynamics,
+Propulsion, and Drag
+
+-Timothy Wei, PhD, Russell Mark, and Sean Hutchison
+It is fair to say that at some time in their lives, swim coaches, swimmers, and
+swim parents (sweating in the bleachers of hot, humid swimming-pool
+facilities) have contemplated and discussed what exactly the water does when
+someone tries to swim through it. Over the decades, a language and a perceived
+knowledge base have evolved across the swimming community about the fluid
+dynamics of swimming. Although much of this understanding is sound, some
+key elements are either incorrect or have been misinterpreted, resulting in inef-
+ficient or counterproductive stroke technique.
+The fluid dynamics of swimming is extremely complex. Understanding the
+process is further complicated by the fact that seeing what the water is doing as
+the swimmer goes by is not possible. Even worse, every swimmer is different.
+What works well for one swimmer could be counterproductive for another.
+The primary objective of this chapter is to provide a primer on the fundamentals
+of fluid dynamics in the context of swimming. First, we cover the fundamentals,
+discussing the physics associated with drag and thrust production in a way
+that is rigorous and accurate without being daunting to the nonscientist. Next,
+in the section “Force and Flow Measurement," we provide a brief description
+of two of the state-of-the-art measurement techniques that have been brought
+to the study of swimming. The section “Application to Swimming" contains a
+discussion on the fundamental physics of the arm pull. The primary purpose
+of this culminating section is to provide the reader with a practical example of
+how the fundamentals of fluid dynamics can be applied to stroke analysis to
+provide an accurate understanding of what constitutes good stroke production.
+Ultimately, no stroke will be perfect, but we open here with the observa-
+tion that every swimmer is competing with and against the same laws of fluid
+dynamics. Understanding those laws in a practical way is crucial to developing
+rational approaches to swimming fast.
+The Fundamentals
+To gain an understanding of the fluid dynamics of swimming, we need to start
+with a discussion of some of the basic physical principles. When we discuss
+scientific concepts, everyone in the conversation needs to understand the terms
+we use. Words such as velocity, acceleration, force, and pressure have distinct mean-
+ings, so they cannot be used interchangeably. In this section, we introduce the
+key terms and concepts that we will need to know to gain a true understanding
+of the fluid dynamics of swimming.
+Newton's Second Law:
+The Critical Balance Between Thrust and Drag
+A saying in the academic engineering community is that every time you show
+an equation, you lose half the audience. Unfortunately, mathematics is the
+language of physics, so talking about the fluid dynamics of swimming is virtu-
+ally impossible without using equations. Fortunately, in the case of swimming,
+almost everything stems from a single equation: Newton's second law. In its
+simplest form, we know it as
+F = Ma
+or force is equal to mass times acceleration. That is, in order for a body of mass,
+M, to undergo an acceleration, a (i.e., to increase velocity with time), we need
+to apply a force, F.
+In real life, F is often not just a single force. Rather, it is the sum of a number
+of forces acting on the body, sometimes simultaneously, sometimes at different
+times. In swimming, for example, the swimmer pulls with her arms, kicks with
+her legs, and possibly throws in some sort of dolphin motion. The forces created by
+these body motions vary with time and do not all occur at the same time, though
+presumably an elite swimmer has figured out how to coordinate these forces in an
+optimum way to go as fast as possible. These propulsive forces are counteracted by
+the resistance of the water to the swimmer's attempts to move through it.
+We can classify the propulsive forces as thrust forces and those that oppose
+motion as drag forces. We can rewrite Newton's second law as
+thrust forces – drag forces = Ma
+or for simplicity, let's just write it as
+T-D = Ma
+Here, T represents all of the propulsive forces and D represents all of the forces
+that resist forward motion.
+Note that when we write Newton's second law in this manner, we can draw
+the following insights. If the thrust forces are larger than the drag forces (T >
+D), the swimmer will speed up. If the drag is too great, the swimmer will either
+slow down (D > T) or will have to work a lot harder (i.e., increase T) to maintain
+speed. Finally, regardless of how fast the swimmer is swimming, at a constant
+speed the thrust exactly offsets the drag (T = D).
+In the context of swimming then, Newton's second law states that a competi-
+tive swimmer needs to maximize thrust while minimizing drag. Maximizing
+thrust comes from building strength and improving technique, and minimizing
+drag is optimized primarily through adjusting body position in the water. We
+will return to this thought at the end of this section.
+Note that noncompetitive swimmers who swim primarily for fitness do not
+need to worry about minimizing drag. The greater the drag is on the swimmer,
+the more calories the swimmer will burn. Still, using those calories to go far or
+fast and at less risk of injury is more satisfying.
+The next step in this overall discussion is to explore in detail some of the fluid
+dynamic principles associated with drag and thrust. Before doing that, however,
+we need to throw another equation into the mix, Bernoulli's equation. This
+equation relates pressure with flow speed, a concept important in applications
+from airplane design to swimming.
+Bernoulli's Equation
+In 1738 Dutch-Swiss mathematician Daniel Bernoulli published the derivation
+of an important relation that now bears his name. At its core, it is a mechanical
+energy equation for fluid flows that relates the pressure and fluid speed at one
+location in the flow to the pressure and speed at another location.
+Derivation of the Bernoulli equation involves integrating the forces experi-
+enced by a fluid particle as it travels along a streamline from one location to
+another. In one respect, this is a pressure equation with units of force per unit
+area or (mass / length / time²). The units of the terms in the equation also can
+be viewed as kinetic energy per unit volume (mass × length² / time² / length³),
+which becomes (mass / length / time²). That the Bernoulli equation is a mechani-
+cal energy equation stems from the derivation and from the dimensions of the
+terms in the equation.
+In a somewhat simplified form, the Bernoulli equation is
+Po = p₁ + 1/2 pV₁² = p₂ + 1/2 pV22
+2
+1
+1
+2
+Here, p, p, and V refer to pressure, fluid density, and flow velocity, respec-
+tively. The subscripts, and, refer to two arbitrary locations in the flow where
+we might be interested in comparing pressure and velocity. The first term, po
+represents what is known as either the stagnation pressure or total pressure. It is
+the pressure that would result if it were possible to bring the flow to rest, that is,
+V = 0.
+The Bernoulli equation may be thought of as a mechanical energy equation;
+that is, total mechanical energy in the fluid = potential energy in the fluid at some
+location + kinetic energy associated with the moving fluid at that same location.
+To understand this better, consider a highly pressurized tank of fluid. Initially,
+the tank is closed. The fluid is at rest, and its pressure is as high as it will ever
+be. When the tank is opened, the pressure starts to drop as fluid flows out. The
+initial pressure in the closed tank is the total pressure, p. It is the maximum
+potential energy (per unit volume) that the fluid will ever have.
+When the tank is opened, fluid starts flowing out; a conversion of energy
+occurs from potential energy to kinetic energy. Those familiar with physics
+will recognize that the term in Bernoulli's equation, 1/2 PV₁2, indeed looks like
+kinetic energy (1/2 MV², where M is mass and V is velocity). Because density, p,
+is mass per unit volume, then 1/2 PV₁2 can be understood as kinetic energy per
+unit volume of fluid. As such, this is probably the easiest term to recognize in
+terms of physical meaning. We call this the dynamic pressure.
+The remaining term, that is, the pressure in the fluid, p₁ (or p₂) in Bernoulli's
+equation, corresponds to the potential energy of the fluid at those locations. This
+works out to be the difference of the total pressure and the dynamic pressure.
+Alternatively, this is the potential energy that remains after you convert some
+of the maximum possible potential energy (the pressure of the fluid at rest)
+into kinetic energy (hence the name, dynamic pressure). If the static pressure,
+p₁ or p₂, were ever to drop to zero, that would mean that all the original energy
+available in the flow had been converted entirely to kinetic energy; that is, this
+is as fast as the flow could possibly go.
+So, in summary, p is total energy, 1/2 pV₁2 is kinetic energy or dynamic pres-
+sure, and p is the potential energy or static pressure remaining in the fluid as it
+moves with speed, V. The Bernoulli equation provides a relationship between the
+speed of the water flowing past some part of the body and the pressure of the water
+at that point. For a competitive swimmer in a competition swimming pool, the
+total pressure is constant. Thus, if the fluid slows down, the static pressure goes
+up. If the fluid is moving quickly, then the static pressure in the high-speed fluid
+will be low. Observe that if the flow speed changes by a factor of two, then the
+static pressure will change by a factor of four because pressure varies as velocity
+squared. Additionally, keep in mind that Bernoulli's equation applies under spe-
+cific conditions (e.g., constant density fluids with no viscosity). For our purposes,
+the general physical insight provided by this equation is extremely helpful. The
+key point to remember is that if we are looking at two points in the flow, say, for
+example, on either side of the hand, if the water is flowing faster over one side than
+the other, then the pressure will be lower where the flow is faster. If the speeds
+are the same on either side of the hand, the pressure will be the same as well.
+Drag
+We now turn to the forces acting on or generated by a body in water. Let's define
+drag as any force opposing motion of a body or body part in a particular direction.
+The three types of drag are pressure drag, viscous drag, and wave drag. Pressure
+drag is also known as bluff body drag. As the alternative name implies, this is
+most dominant when the body is not streamlined, or bluff. Consider for instance,
+how you have to lean into the wind on a windy day, shown schematically in
+figure 1.1. As the moving air approaches your body, it decelerates. And we know
+from the Bernoulli equation that decreasing speed means increasing pressure.
+Remember that pressure is force divided by area, or, conversely, force caused
+by pressure is pressure multiplied by an appropriate area. It is incorrect, although
+common, to use the terms pressure and force interchangeably. This error is perhaps
+the greatest contributor to incorrect analysis and understanding of the fluid
+dynamics associated with swimming.
+Pressure Drag and Viscous Drag
+In an ideal fluid, figure 1.1a, the flow would smoothly accelerate around your
+body and then decelerate again as it passes around to your back. Note that in
+this ideal case, the flow is symmetric front to back. From the Bernoulli equa-
+tion, we would then expect that the pressure on the back of your body would
+exactly return to the pressure on the front of your body. In this scenario, because
+the pressure is the same front to back, you wouldn't feel any force pushing on
+you. Fluid dynamicists refer to this situation as complete pressure recovery. The
+concept that you could somehow move through the wind without feeling any
+resistance is what is known as d'Alembert's paradox.
+a
+b
+Figure 1.1 Schematic drawings looking down at a person standing facing into a
+steady wind. Flow is from left to right. The ideal case is shown in (a) on the top, and
+the actual case, (b), appears on the bottom.
+In real life, of course, the harder the wind is blowing, the more you have to
+lean into the wind to avoid being blown over. A great deal of turbulence (lots of
+interacting vortices) is generated behind your body. The flow doesn't return to
+being nice and smooth after it passes behind your body. Rather, what is called
+a wake region is found behind your body, shown in figure 1.1b, and the pres-
+sure immediately behind you does not return to the same level as the pressure
+in front of you. Now a pressure difference is seen between the front and back
+of your body; the higher pressure is in front, and the lower pressure is in back.
+The net force acting against you is the pressure on the front of your body minus
+the pressure on the back of your body multiplied by the projected frontal area
+of your body, represented mathematically as
+pressure drag = (Pfront - Pback) Afront
+The projected frontal area is the area of the silhouette that would be formed if
+someone were to shine a spotlight from behind you with you standing facing a
+wall. That frontal area would naturally be the same whether you were standing
+facing the wall or standing with your back to the wall. Because Pfront is larger than
+Pback, you feel the wind pushing you backward as you try to move forward into it.
+This phenomenon is called pressure drag or bluff body drag. If the body shape
+does not allow the flow to travel smoothly from front to back, then pressure
+drag will be significant. If, however, the body shape permits smooth flow all the
+way around, if the body is streamlined like a wing, then pressure drag will be
+minimal or nonexistent. That does not mean that the drag will be zero. All real
+fluids are viscous, which means there is always a frictional resistance to motion
+through or by a fluid. To visualize this, think about a brand new deck of cards.
+Imagine that you set the deck on a flat horizontal table and place the palm of
+your hand flat on top of the deck. Now imagine sliding your hand horizontally
+to the right, as shown in figure 1.2. If the cards were perfectly frictionless, they
+would not sense the motion of your hand and the entire deck would stay put. In
+figure 1.2, the deck set on the table appears as dark rectangles with light edges.
+The deck after the application of the sliding force, F, is shown as grey rectangles.
+Clearly, if no friction were present, the before and after pictures would be identi-
+cal and look like figure 1.2a.
+In reality, some amount of friction is present between your hand and the
+top card, between the table and the bottom card, and between the individual
+adjacent cards in the deck. In that case, when your hand moves parallel to the
+table top, the top card moves with your hand, the bottom card sticks to the
+table, and all the cards in between move by varying amounts depending on
+how close they are to either the table or your hand. This concept is illustrated
+in figure 1.2b. The closer the cards are to your hand, the more they will move.
+The closer they are to the table, the less they will move. The card closest to the
+table is held in place by the frictional force between the table and that card. The
+top card experiences a frictional force imparted by the movement of your hand,
+which drags it forward at the same speed as your hand. Each card in between
+the top and bottom cards experiences a force pulling it forward from the card
+above and a resisting frictional force imparted by the card below. In the end,
+the entire deck starts to lean.
+Think of viscous or frictional drag in a similar fashion. Instead of playing
+cards, think of the rectangles in figure 1.2 as imaginary layers or laminates of
+fluid. Think of the tabletop as a streamlined body, say a wing on an airplane. In
+this analogy, we would be sitting inside the airplane looking out the window.
+The wing looks as if it is stationary, and the air is flowing over the wing from left
+to right. If the flow were frictionless, as shown in figure 1.2a, the grey rectangles
+would all shift to the right by an equal amount like a giant cardboard box being
+blown along the wing. The picture for viscous, or frictional flow, figure 1.2b,
+however, would be exactly the same as it was for the deck of cards. The layer of
+air closest to the wing would stick to the wing and move with the wing. From our
+vantage point looking out the window, it would appear as if it were stationary.
+Far away from the wing, the air would simply blow on by. In the region referred
+to as the boundary layer the air speed would vary from zero at the boundary out
+to the speed at which the plane is flying. This boundary layer region is typically
+very thin. Over the wing of a large commercial airliner, it could be only a few
+inches (5 to 10 cm) thick before the air passed over the trailing edge of the wing.
+Wave Drag
+The third form of drag relevant to swimming is wave drag. Probably the simplest
+way to gain a conceptual understanding is to remember that as a body moves
+through any fluid, a bow wave forms in front of the body. For a boat or a swimmer,
+this wave is clearly visible. Below a certain speed, the bow wave sits in front of
+the swimmer and the swimmer is essentially swimming uphill, trying to get on
+top of the wave but never getting there. This phenomenon is known as wave drag.
+For every object, there is a critical speed at which it is possible for the object
+to climb up on top of the bow wave. This speed is known as the hull speed. The
+formula for calculating the speed at which a body can overcome its own wave
+drag is
+Vhull = 1.248 × √H
+where Vhull is the hull's, that is, the swimmer's, speed in meters per second and
+√H is the square root of the height of the swimmer expressed in meters.
+When Vhull is achieved or exceeded, the swimmer is in a sense surfing her own
+bow wave. When this happens, the wave drag drops dramatically and the speed
+can increase equally dramatically. To visualize this, think of a motorboat when
+you first try to get it to go as fast as it can and then when it later gets to high
+speed. When you first push the throttle forward, the hull is deep in the water.
+The bow rides very high, the back of the boat is very low, and the boat essen-
+tially plows through the water. When the boat speed exceeds its hull speed, the
+boat rises out of the water and can accelerate to high speeds by planing across
+the top of the water.
+The reason that wave drag is so interesting is that the hull speed of a human
+swimmer turns out to be right around the same speed as world-class swimming
+speeds. As a rough estimate, suppose a swimmer is about 2 meters tall; his hull
+speed would be 1.76 meters per second. This speed translates to a 56.7-second
+time in a 100-meter race. We are, of course, neglecting the start and turn, but
+you will notice that only a relatively few swimmers can swim faster than this.
+So the next time you are watching an elite-level race, watch how high or how
+low the swimmers are in the water. If you are watching the preliminary heats, you
+will probably notice that on average the faster swimmers ride higher in the water
+whereas the slower swimmers are lower in the water. Of course, other variables
+such as percentage and distribution of body fat will cause certain swimmers to
+float higher or lower. The polyurethane and neoprene body suits that were used
+in 2008 through 2009 were extremely helpful to many swimmers in terms of
+buoyancy. They automatically sat higher in the water and gained much of the
+benefit of overcoming wave drag without having to generate the speed necessary
+to overcome it.
+As a quick summary up to this point, the three forms of drag experienced by
+a swimmer are pressure or bluff body drag, viscous or friction drag, and wave
+drag. Pressure drag and wave drag are the dominant forms of drag in swimming.
+Friction drag dominates only for very streamlined bodies such as airplanes or
+animals that depend on high-speed swimming or flight for survival. In those
+cases, friction becomes dominant not because frictional drag increases but
+because the pressure drag is extremely small, by virtue of body shape. Note that
+fish and birds typically do not move at the air or water interface like competi-
+tive swimmers do. As such, their wave drag is zero. In any event, swimmers can
+do little to eliminate viscous drag. Their focus needs to be on optimizing body
+position to reduce pressure drag and optimizing stroke production to maximize
+thrust. Swimmers need to be constantly winning the battle between thrust and
+drag by both maximizing thrust and minimizing drag.
+Thrust
+With this thought in mind, let's spend some time on the fluid dynamics of
+thrust. The underlying question in this discussion is, What must a swimmer
+do to make the water move in such a way as to generate as much thrust (i.e.,
+speed) as possible?
+Two thrust generation mechanisms are dominant in competitive swimming:
+the thrust associated with the pull of the arms and vortex-induced thrust in
+which body motions create an organized system of vortices that effectively pump
+fluid along the axis of the body. A third mechanism derived from wing theory
+gave rise to the S stroke popular in the 1960s and 1970s that continues at the
+club level today. Because of the legacy surrounding the S stroke, we will examine
+the underlying aerodynamic theory to provide a framework for comparing the
+straight pull with the S stroke.
+Actually, a variety of physically accurate ways can be used to explain each of
+the thrust production mechanisms. For ease of comparison, the best approach
+is to use a single physical concept and relate each of the mechanisms to that
+concept. Consider the example of an ice skater standing on a smooth sheet of ice
+holding a ball of significant mass. At some instant in time, the skater brings the
+ball to his chest and throws it by pushing it away from his chest. You have likely
+heard of the law of equal and opposite reaction or possibly the conservation of
+linear momentum. In this example, when the skater throws the ball forward,
+he ends up being propelled backward. How much or how fast each one moves
+depends on their relative weights (or to be precise, their relative masses). If the
+ball happens to be a small balloon filled with air, the balloon will move and the
+skater's backward motion will be negligible. But if the ball were the same weight
+as the skater, each would move an equal distance in their respective directions.
+If the ball were as heavy as a train locomotive (let's not worry about how he
+manages to pick it up), it would be the skater who moves backward.
+The takeaway from this example is that to propel himself forward, the swim-
+mer must somehow take as much water as possible and throw it along the axis
+of his body past his feet. This action will propel him forward in the water. The
+trick is that water doesn't come in easily grabbed balls.
