@@ -8,10 +8,12 @@ from together import Together
 import streamlit as st
 
 # === Configuration ===
-K = 10 # Number of top chunks to retrieve
-CHUNK_TRUNCATE_TOKENS = 250 # Max tokens for chunks passed to LLM
-MAX_TOKENS = 1000 # Max tokens for LLM response
-MODEL_NAME = "deepseek-ai/DeepSeek-V3" # Together.ai LLM model
+K = 5 # Number of top chunks to retrieve
+CHUNK_TRUNCATE_TOKENS = 500 # Max tokens for chunks passed to LLM
+MAX_TOKENS = 1500 # Max tokens for LLM response
+# --- CURRENT MODEL ---
+MODEL_NAME = "deepseek-ai/DeepSeek-V3" # Or "serverless-qwen-qwen3-32b-fp8" or "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free" depending on your last choice
+# ---------------------
 VECTOR_DB_PATH = "fitgen_vector_db_topic3" # Directory where FAISS indices and chunk files are stored
 TEXT_DIR = "fitgen_vector_db_topic3" # Directory containing chunk text files
 
@@ -137,7 +139,6 @@ if st.button("Get Answer"):
                     D, I = index.search(query_vec, k=K)
                     valid_indices = [i for i in I[0] if i < len(topic_chunks)]
                     dense_chunks = [truncate(topic_chunks[i]) for i in valid_indices]
-                    # Removed: st.subheader("Semantic (FAISS) Chunks:") and loop to display
                 except Exception as e:
                     st.error(f"Error during FAISS search for topic '{topic}': {e}")
             else:
@@ -150,7 +151,6 @@ if st.button("Get Answer"):
                 top_n_indices = np.argsort(bm25_scores)[-K:][::-1]
                 valid_bm25_indices = [i for i in top_n_indices if i < len(all_chunks)]
                 bm25_chunks = [truncate(all_chunks[i]) for i in valid_bm25_indices]
-                # Removed: st.subheader("Keyword (BM25) Chunks:") and loop to display
             else:
                 st.warning("BM25 model not available for keyword search.")
 
@@ -165,25 +165,41 @@ if st.button("Get Answer"):
             if query.lower().startswith("define") or len(query.split()) < 5:
                 prompt_content = f"Answer this directly and concisely:\n{query}"
             else:
-                prompt_content = f"""You are a helpful assistant.
+                # Updated to explicitly prevent "thinking" output from the LLM with stronger instruction
+                prompt_content = f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-Use the following context to answer the user's question concisely.
+You are a helpful assistant. Provide the answer directly and concisely based *only* on the provided context. Do NOT include any preamble, internal thoughts, or conversational filler. State only the answer.<|eot_id|><|start_header_id|>user<|end_header_id|>
 
 Context:
 {context}
 
-Question: {query}
-Answer:"""
+Question: {query}<|eot_of_turn|><|start_header_id|>assistant<|end_header_id|>
+"""
 
-            st.subheader("Generated Answer:") # Keep this to label the final answer
+            st.subheader("Generated Answer:")
+            # Create an empty placeholder for the streamed text
+            message_placeholder = st.empty()
+            full_response = ""
+
             try:
-                response = client.chat.completions.create(
+                # Modify the API call to enable streaming
+                stream_response = client.chat.completions.create(
                     model=MODEL_NAME,
                     messages=[{"role": "user", "content": prompt_content}],
                     max_tokens=MAX_TOKENS,
-                    temperature=0.7
+                    temperature=0.7,
+                    stream=True # <--- Set stream to True for word-by-word display
                 )
-                st.write(response.choices[0].message.content.strip())
+
+                # Iterate over the streamed chunks
+                for chunk in stream_response:
+                    if chunk.choices and chunk.choices[0].delta.content:
+                        full_response += chunk.choices[0].delta.content
+                        message_placeholder.write(full_response + "▌") # Add a blinking cursor for better UX
+                
+                # After the loop, display the final response without the cursor
+                message_placeholder.write(full_response)
+
             except Exception as e:
                 st.error(f"Error generating answer from LLM: {e}")
                 if "quota" in str(e).lower() or "rate limit" in str(e).lower():
@@ -193,4 +209,4 @@ Answer:"""
 
 
 st.markdown("---")
-st.markdown("Powered by SentenceTransformers (BGE-base-en-v1.5), FAISS, BM25, and Together.ai (DeepSeek-V3)")
+st.markdown(f"Powered by SentenceTransformers (BGE-base-en-v1.5), FAISS, BM25, and Together.ai ({MODEL_NAME})")
