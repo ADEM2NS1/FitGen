@@ -35,3 +35,8 @@ env/
 
 # === VSCode ===
 .vscode/
+# .gitignore
+venv/
+**/venv/
+*.dll
+*.lib
