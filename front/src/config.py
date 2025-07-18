@@ -5,7 +5,7 @@ import os
 # --- General Configuration ---
 K = 5 # Number of top chunks to retrieve
 CHUNK_TRUNCATE_TOKENS = 300 # Max tokens for chunks passed to LLM
-MAX_TOKENS = 200 # Max tokens for LLM response
+MAX_TOKENS = 1200 # Max tokens for LLM response
 
 # --- Model Configuration ---
 MODEL_NAME = "deepseek-ai/DeepSeek-V3" # Or your preferred LLM model
