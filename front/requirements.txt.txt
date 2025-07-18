@@ -1,9 +1,0 @@
-streamlit
-streamlit-js-eval
-requests
-together
-faiss-cpu
-numpy
-sentence-transformers
-rank-bm25
-torch
