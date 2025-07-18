@@ -1,0 +1,37 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.egg-info/
+*.log
+
+# === Virtual Envs ===
+venv/
+.venv/
+ENV/
+env/
+
+# === Environment files ===
+.env
+*.env
+
+# === Data / Models ===
+*.faiss
+*.npy
+*.pt
+*.h5
+*.onnx
+*.pkl
+*.joblib
+*.csv
+*.db
+*.sqlite
+*.json
+*.txt
+*.pdf
+
+# === Jupyter Notebooks Cache ===
+.ipynb_checkpoints/
+
+# === VSCode ===
+.vscode/
