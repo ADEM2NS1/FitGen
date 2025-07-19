@@ -1,0 +1,668 @@
+Sebastian Fischer | Armin Kibele (Eds.)
+contemporary
+swim start research
+Conference Book: Young Experts' Workshop
+on Swim Start Research 2015
+MEYER
+& MEYER
+SPORT
+
+Sebastian Fischer & Armin Kibele (Eds.)
+Contemporary Swim Start Research
+
+To Gunnar, Johan, and Julien,
+who could not attend the conference!
+
+Sebastian Fischer & Armin Kibele (Eds.)
+CONTEMPORARY SWIM START RESEARCH
+Conference Book: Young Experts' Workshop
+on Swim Start Research 2015
+Meyer & Meyer Sport
+
+British Library Cataloguing in Publication Data
+A catalogue record for this book is available from the British Library
+Contemporary Swim Start Research
+Maidenhead: Meyer & Meyer Sport (UK) Ltd., 2017
+ISBN 978-1-78255-783-8
+All rights reserved, especially the right to copy and distribute, including the translation rights.
+No part of this work may be reproduced-including by photocopy, microfilm or any other means-
+processed, stored electronically, copied or distributed in any form whatsoever without the written
+permission of the publisher.
+©2017 by Meyer & Meyer Sport (UK) Ltd.
+1st edition 2017
+Auckland, Beirut, Dubai, Hägendorf, Hong Kong, Indianapolis, Cairo, Cape Town,
+Manila, Maidenhead, New Delhi, Singapore, Sydney, Tehran, Vienna
+Member of the World Sport Publishers' Association (WSPA)
+www.w-s-p-a.org
+ISBN: 978-1-78255-783-8
+E-Mail: info@m-m-sports.com
+www.m-m-sports.com
+
+CONTENTS
+PREFACE
+ACKNOWLEDGMENTS
+CHAPTER 1: How Important is the Underwater Phase
+to Elite Swimming Start Performance?
+CONTENTS
+9
+9
+10
+Elaine Tor, Victoria University, Australia
+Introduction
+10
+Background
+11
+Characteristics of an Elite Swimming Start
+15
+Key Parameters of the Swimming Start
+17
+Three Common Underwater Trajectories
+18
+How Does Drag Affect the Underwater Phase of
+the Swimming Start?
+20
+Chapter Summary
+23
+References
+24
+CHAPTER 2: Underwater Gliding and Undulatory Swimming
+After Start: Biomechanics and Motor Control
+Approaches
+28
+Marc Elipot, Université Paris Descartes, France
+Introduction
+28
+General Mechanisms
+28
+The Underwater Gliding Phase
+31
+Underwater Undulatory Swimming
+34
+Transition Phase
+35
+Performance Improvement and Motor Learning
+37
+Conclusions and Applied Recommendations
+40
+References
+41
+CHAPTER 3: Positioning Issues on the OSB11
+44
+Sebastian Fischer, University of Kassel, Germany
+Introduction
+44
+Methods
+45
+Results
+47
+Discussion
+48
+Conclusion
+48
+References
+49
+5
+
+6
+CONTEMPORARY SWIM START RESEARCH
+CHAPTER 4: Evaluating Relay Starts in Swimming
+50
+Sebastian Fischer, University of Kassel, Germany
+Introduction
+50
+Study 1: Is Relay Start More Effective Than
+Individual Race Start?
+50
+Study 2: When to Initiate the Relay Start Take-Off?
+52
+Study 3: Relay Start Techniques in International
+Swimming Championships
+56
+References
+57
+CHAPTER 5: Backstroke Start Technique from Feet Immersed
+until Current Handgrips Configuration:
+An Overview of Findings
+60
+Karla de Jesus, University of Porto, Portugal
+Introduction
+60
+Methods
+61
+Results and Discussion
+61
+Practical Conclusions and Recommendations for Coaches
+References
+64
+65
+CHAPTER 6: Backstroke Start Technique Performed under
+the Current FINA Rules: A Study Focusing on the
+New Backstroke Start Wedge
+68
+Kelly de Jesus, University of Porto, Portugal
+Introduction
+68
+Methods
+69
+Results and Discussion
+70
+Conclusion
+73
+Practical Applications
+73
+References
+74
+CHAPTER 7: Effect of Rear Foot and Back Plate in the
+Swimming Start Performance
+76
+Sonia Taladriz, University of Granada, Spain
+Introduction
+76
+Grab Start Vs Kick-Start: Differences and Similarities
+78
+Angular Momentum in the Kick Start
+82
+Conclusion
+85
+References
+85
+
+7
+CONTENTS
+CHAPTER 8: Postactivation Potentiation in Sprint Swimming
+90
+Francisco Cuenca-Fernández, University of Granada, Spain
+Introduction
+90
+Methods
+93
+Results and Discussion
+95
+Current Studies and Future Perspectives
+97
+Conclusion
+98
+References
+98
+CHAPTER 9: The PAS-S Swim Start, Turn and
+Relay Changeover Analysis System
+102
+Bruce R. Mason and Colin MacIntosh,
+The AppSen Company, Brogo, N.S.W., Australia
+Introduction
+102
+The PAS-S Hardware
+104
+The PAS-S Software
+108
+Initial Setup of PAS-S
+109
+The Mode of Operation
+113
+The Analysis Output
+114
+Other Valuable Features of PAS-S
+121
+References
+121
+CREDITS
+124
+
+
+PREFACE
+This book includes contemporary studies on swim starts conducted by young
+scientists from around the world. The various topics relate to individual starts from
+the block, backstroke starts, and relay starts highlighting different aspects and
+phases of the corresponding movement behavior.
+Most of the studies published in this book have been presented during the 2015
+Young Experts Workshop of Swim Start Research supported by the Federal Institute
+of Sport Science in Germany.
+
+ACKNOWLEDGMENTS
+The conference on which this book is based on was financially supported by the
+Federal Institute for Sport Science in Germany.
+9
+
+CONTEMPORARY SWIM START RESEARCH
+CHAPTER 1:
+HOW IMPORTANT IS THE UNDERWATER PHASE TO ELITE
+SWIMMING START PERFORMANCE?
+Elaine Tor, Victoria University, Australia
+10
+Introduction
+The swimming dive start is a complex movement involving the reaction to a
+stimulus; the coordination of explosive movements of the arms, trunk, and
+legs to propel the body forward with maximum velocity; and the ability to
+maintain a streamlined position to minimize the loss of horizontal velocity
+in the water (Guimaraes & Hay, 1985). The international rules of swimming
+dictate that swimmers must resurface from the underwater phase before the
+15m mark following starts in all strokes except for breaststroke (FINA, 2010).
+Total start time for elite swimmers is typically between six to eight seconds
+and is the time from the starting signal to when the center of the swimmer's
+head reaches the 15m mark (Cossor & Mason, 2001).
+The start phase is typically broken into three phases for analysis: on-block, flight, and
+underwater. A number of start techniques have been examined in the literature as a
+result of new techniques being developed and changes in the start block itself. With
+the introduction of the Omega OSB11 starting blocks to international competition,
+many swimmers are now using a new kick-start technique during competition. The
+new start block surface consists of two components: the main platform, which is
+angled at 10 degrees; and an adjustable back plate, foot rest, or kick plate, which
+is angled at 30 degrees to the main deck. The latter can be moved through five
+consecutive steps of 35 mm that start 350 mm from the front edge of the block. The
+performance differences between the 'kick-start' technique and earlier styles (such
+as the track start, grab start, and swing start) mean that previous start literature
+may not be relevant to what swimmers are currently employing during competition.
+Research concerning the on-block and flight phase of the kick start has established
+that utilizing the kick plate would allow swimmers to generate larger horizontal take-
+off velocities, which translate into faster start performances (Honda et al., 2010).
+The contribution of the underwater phase of the kick start has also been evaluated
+and found to be important to overall start performance, particularly the trajectory
+adopted by the swimmer to reduce the amount of drag acting on the swimmer (Tor
+et al., 2015c).
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+The start in swimming is crucial to performance in competition. Hence, this chapter
+will summarize start literature and distinguish characteristics of the elite swimming
+kick-start with particular emphasis on the underwater phase. The underwater
+phase-the longest phase of swimming—has been identified as the most important
+part of the start and is the point at which the swimmer is travelling the fastest through
+the water. A number of different aspects of the swimming start's underwater phase
+will also be explored. This phase contributes to guidelines for the ideal underwater
+trajectory swimmers should adopt to reduce the amount of drag acting on them.
+Background
+Importance of the Swimming Start
+Start times have been shown to be influential
+to overall performance during competition,
+contributing between 1-26% of total race time
+depending on the distance of the event (Lyttle
+& Benjanuvatra, 2005; Mason et al., 2007; Tor
+et al., 2014b). Race analysis at the 1998 World
+Swimming Championships in Perth showed
+high correlations between start time and overall
+performance, particularly in events 100 m or
+less (Mason, 1999). Further, in correlational
+analysis of nine international competitions over
+a seven-year period, Robertson et al. (2009) observed that fast starts were the
+most successful strategy in shorter events for improving performance. Additionally,
+Girold et al. (2001) found that for the women's 200 m freestyle, the first 50 meters
+of the race was the most important variable for medalists at the Sydney Olympics.
+Subsequently, any small improvements in time gained during the start phase of the
+race can be advantageous to many elite swimmers, as they may result in significant
+improvements to overall competition performance (Breed & McElroy, 2000).
+The Kick-Start Technique
+Figure 1. Omega OSB11 Starting Block.
+After the 2008 Beijing Olympics, a new start block (see: Figure 1) was introduced to
+all international competition (Honda et al., 2010). Despite research on the new start
+technique being scarce, studies that have compared start styles to the kick start
+have suggested the use of the new technique is advantageous (Barlow et al., 2014;
+Biel et al., 2010; Honda et al., 2010; Nomura et al., 2010; Takeda et al., 2013) This
+advantage is due to Omega's claiming that the kick plate enables the swimmer to
+push-off with a rear knee angle of 90°, which allows for optimal force production. As
+a result of the perceived benefits, this start is now used by most swimmers during
+competition.
+11
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+The start position configuration of the kick start has also been studied. Honda et al.
+(2012) investigated block position by testing kick-plate position and changing the
+position of the swimmers' weight prior to leaving the block. In testing the theory
+on elite swimmers, it was found that a neutral-weighted to slightly rear-weighted
+kick start on the swimmers' preferred kick plate setting was the best combination
+to produce the best dive performance (Honda et al., 2012). However, as swimmers
+were asked to perform an unpreferred technique, results may have been skewed
+in favor of the swimmers' preferred technique. Consequently, future start studies
+should take into account the swimmers' preferred technique.
+Comparisons between kick-start and track-start performance has also been
+previously examined. Murrell and Dragunas (2013) compared the kick-start technique
+to the grab start and found that the newer start was faster to 2 m on all occasions.
+This study contained low subject (n = 4) numbers, did not allow swimmers to place
+the kick plate at their desired positions and only used time to 2 m not time to 15 m
+(the normal criterion for start performance). Similarly, Honda et al. (2010) found
+that the kick start was faster than the track start to 5 and 7.5 m. This was due to a
+faster block time and greater horizontal impulse. However, this study assessed dive
+performance using a dive and glide technique to eliminate the influence of other
+underwater variables, potentially changing the results when full dive performance to
+15 m was assessed. While a number of different study designs were used to
+investigate the kick start, it is clear that the kick start is advantageous to overall start
+performance if used correctly.
+Phases of the Swimming Start
+The start phase can also be broken into three phases: on-block, flight, and underwater
+(Cossor & Mason, 2001; Elipot et al., 2009; Hay, 1986; Thow et al., 2012). The
+on-block phase is typically defined as the time between the starting signal and the
+time when the swimmer's feet leave the blocks. The flight phase begins when the
+feet leave the block and ends when the swimmer's head makes contact with the
+water. Finally, the underwater phase is defined as the interval between the head's
+contact with the water and the head resurfacing.
+On-Block Phase
+The on-block phase is the time from the starting signal to the moment when the
+swimmer's toe leaves the block (Guimaraes & Hay, 1985; Issurin & Verbitsky,
+2002; Ruschel et al., 2007). Total on-block time is a combination of reaction time
+(the interval between the starting signal and the first movement on the block) and
+movement time (Garcia-Hermoso et al., 2013). However, there has been some
+evidence that this phase changes depending on the swimmer's specialty event.
+Regardless of event, a faster block time has been shown to directly relate to
+improvements in overall start performance (Garcia-Hermoso et al., 2013; Vantorre
+12
+CONTEMPORARY SWIM START RESEARCH
+et al., 2010). Conversely, a reduction in block time may be linked to lower impulse
+and thus lower resultant peak forces. A reduction in impulse would also result in a
+lower take-off horizontal velocity and would significantly affect subsequent phases
+of the start (Lyttle & Benjanuvatra, 2005). Slawson et al. (2013) also stated that a
+shorter block time, higher take-off velocity, and greater distance of entry does not
+equate to better start performanes on all occasions. For example, a greater take-off
+horiztonal velocity may lead to a larger entry hole, resulting in increased drag. This
+result suggests that during the on-block phase, there is a trade-off between time on
+block and force produced (Breed & Young, 2003). By using the kick-start technique,
+research has shown that swimmers are able to generate slightly shorter block times
+without sacrificing take-off horizontal velocity (Honda et al., 2010; Slawson et al.,
+2013). Honda et al. (2010) suggest this benefit is because the additional kick plate
+allows the back leg to be in a more advantageous position for force production.
+Furthermore, similar to Honda et al. (2010), Garcia-Hermoso et al. (2013) assessed a
+large amount of elite competitive data to compare on-block times between the track
+and kick starts. They found that there were shorter on-block times when using the
+kick start, which was a determining factor, particularly in the women's 50 m events.
+As such, using the kick-start technique would generally allow swimmers to gain an
+added advantage for better start performances over other start techniques.
+Flight Phase
+The flight phase is typically defined as the time from when the swimmer's toe leaves
+the block to when the swimmer's head enters the water. In theory, swimmers would
+be able to travel faster through the air than through water due to less resistance.
+However, flight duration is not usually correlated with start time; it is flight distance
+that is a determining variable of performance (Ruschel et al., 2007). Hence, to
+improve start performance, swimmers should theoretically maximize the flight phase
+by increasing entry distance. On the other hand, research has shown that leaving
+the block with higher horizontal velocity results in an increased entry distance, at the
+cost of a larger entry hole size and a flatter trajectory (Costill et al., 1992; Kirner et
+al., 1989). A flatter trajectory would also result in a shallower underwater trajectory,
+leading to more drag acting to slow the swimmer down. Similar to the on-block
+phase, there is a trade-off: the length of the flight phase is a compromise between
+take-off horizontal velocity, take-off angle, and entry distance (Miller et al., 1984).
+Underwater Phase
+The underwater phase is typically defined as the time from when the swimmers'
+head enters the water to when the swimmer resurfaces again to commence free
+swimming. The underwater phase can be further subdivided into the glide phase
+and the underwater kicking phase. During the glide phase, the swimmer is travelling
+the fastest through the water and typically adopts a streamlined position with arms
+outstretched. The underwater phase is crucial to overall race performance because,
+after the dive itself, this is the next fastest section of the race (Connaboy et al.,
+13
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+2010). This phase has also been identified as the most decisive in order to achieve
+faster overall start performances (Cossor & Mason, 2001; Elipot et al., 2009; Thow
+et al., 2012). The average speed during this phase is highly dependent on horizontal
+velocity at penetration into the water and drag forces acting on the swimmer during
+the glide phase (Lyttle & Benjanuvatra, 2005).
+Correlation analysis of start performances at the Sydney 2000 Olympics by Cossor
+and Mason (2001) found that underwater distance during the start was negatively
+correlated to overall start performance for the men's 200 m butterfly, 100 m
+backstroke, and 100 m freestyle races. This result would suggest that as the
+swimmers swam longer underwater, start time to 15 m improved due to a greater
+underwater velocity being maintained by these swimmers. The analysis of the
+women's events was similar to the men's events; it showed that those swimmers
+who travelled further underwater were able to achieve faster overall start times.
+However, Cossor and Mason (2001) did not examine any extra factors such as
+maximum depth or timing of first kick in their study.
+Another study by Elipot et al. (2009) aimed to determine the swimmers' loss of
+speed during the underwater phase of the start by estimating the distance
+between the swimmer and the start wall as the swimmer's velocity decreased.
+The influencing factors were then analyzed. Eight swimmers performed three grab
+starts to the best of their ability. Nine anatomical landmarks were then identified to
+allow the calculation of velocity curves. A principal components analysis was used
+to determine the factors that most influenced glide performance. The results of
+this analysis suggest that following a start entry, swimmers should maintain their
+streamlined position until the center of mass reaches a mean distance of about 5.63
+and 6.01 m (Elipot et al., 2009). If swimmers wait too long to start leg movements,
+they would lose approximately 0.4 m/s. Conversely, if swimmers were to commence
+their leg movements prematurely, they would cause higher hydrodynamic resistance
+and lose speed. However, with the introduction of the new starting blocks, the grab
+start (which was used by Elipot et al. (2009)) has been phased out in favor of a kick
+start (Jorgic et al., 2010).
+Similarly, Houel et al. (2012) conducted a detailed three-dimensional (3D) analysis of
+the underwater phase. Focusing on the glide, this was the first study to provide such
+detailed recommendations on strategies to improve the underwater phase of the
+swimming start. The authors suggest that swimmers should apply three principles to
+improving the glide phase of the swimming start: to remain as streamlined as possible,
+to start underwater undulatory kicking after 6 m using only the feet and legs, and to
+improve the kick frequency of underwater undulatory swimming. Nevertheless, this
+study focused on the grab start, and it was unclear in the methodology how many
+trials were conducted. Thus, these findings may not apply to the kick-start technique,
+given the differences in take-off horizontal velocity and entry.
+14
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+To enhance swimming start performance at the elite level, it is essential to first
+investigate how elite swimmers start. A study by Tor et al. (2014a) employed a
+large sample of elite Australian Olympic and World Championship representatives
+to determine the characteristics of the kick-start technique. A number of different
+parameters were shown to contribute to good start performances and were split
+into above-water (parameters that occurred before the swimmer entered the water)
+and underwater (parameters that occurred after the swimmer entered the water)
+groupings. Table 1 displays a full summary of descriptive statistics of the parameters
+examined in this study.
+Table 1. Full descriptive statistic summary (adapted from: Tor et al., 2014a).
+Parameter
+Block time (s)
+Mean and SD
+0.74 ± 0.05
+Take-off horizontal velocity (m/s)
+4.62 ± 0.31
+Take-off vertical velocity (m/s)
+-1.25 ± 0.42
+Time in the air (s)
+0.29 ± 0.05
+Average acceleration (m/s²)
+6.26 ± 0.74
+CoG angle of entry (degrees)
+47.0 ± 2.2
+Dive angle (degrees)
+-15.14 ± 4.93
+Entry distance (m)
+2.82 ± 0.02
+Entry hole diameter (m)
+0.65 ± 0.02
+Entry velocity (m/s)
+6.79 ± 0.22
+Head entry time (s)
+1.04 ± 0.05
+Peak footplate force (N)
+1.55 ± 0.28
+Peak grab force (N)
+0.88 ± 0.22
+Peak horizontal force (N)
+1.24 ± 0.19
+Peak vertical force (N)
+1.29 ± 0.19
+Peak power per kilogram (w/kg)
+56.41 ± 10.36
+Time of full submersion (s)
+1.34 ± 0.05
+Time after entry of first kick (s)
+0.44 ± 0.22
+15
+CONTEMPORARY SWIM START RESEARCH
+Parameter
+Mean and SD
+Time of first kick (s)
+2.04 ± 0.24
+Horizontal distance of max depth (m)
+6.06 ± 0.97
+Max depth of head (m)
+-0.97 ± 0.23
+Time at max depth (s)
+1.94 ± 0.41
+Time underwater in accent (s)
+2.79 ± 0.73
+Time underwater in descent (s)
+0.90 ± 0.41
+Total time underwater (s)
+3.70 ± 0.97
+Underwater velocity (m/s)
+2.38 ± 0.21
+Breakout distance (m)
+11.50 ± 1.97
+Time of surfacing (s)
+4.73 ± 0.97
+Time to 5 m (s)
+1.56 ± 0.12
+Avg. velocity 0-5 m (m/s)
+3.22 ± 0.21
+Time to 7.5 m (s)
+2.58 ± 0.25
+Avg. velocity 5-7.5 m (m/s)
+2.49 ± 0.32
+Time to 10 m (s)
+3.87 ± 0.35
+Avg. velocity 7.5 -10 m (m/s)
+1.95 ± 0.17
+Time to 15 m (s)
+6.54 ± 0.53
+Avg. velocity 10-15 m (m/s)
+1.88 ± 0.14
+16
+CONTEMPORARY SWIM START RESEARCH
+Components of the Swimming Start
+The contributions of each sub-phase of the swimming start were examined in this
+study and it was found that for elite athletes, 11% (0.74 s) was spent in the on-block
+phase, 5% (0.30 s) in the flight phase, 56% (3.69 s) in the underwater phase, and
+28% (1.81 s) free swimming (Tor et al., 2014a). The on-block and flight phase
+contributions were the same as Blanksby et al. (2002) and Mason et al. (1997), who
+examined the track-start. Furthermore, previous studies have not identified the exact
+time contribution of the underwater phase to overall start performance. Hence, in
+the study by Tor et al. (2014a) the time from head entry to 15 m was divided into
+two sections: the underwater and free-swimming phases. The swimmers spent the
+longest time in the underwater phase compared to the other sections of the start,
+which highlights the underwater phase's importance to overall start performance.
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+Male vs Female
+While there are obvious performance differences between male and female
+swimmers, the research is limited in particular to using the kick-start technique (Tor
+et al., 2014a). When comparing the contributions of each sub-phase, males spent
+12% (0.72 s) in the on-block phase, 5% (0.29 s) in the flight phase, 61% (3.72 s)
+in the underwater phase and 23% (1.39 s) free swimming. For females, 11%
+(0.77 s) was spent in the on-block phase, 4.1% (0.29 s) in the flight phase, 51.9%
+(3.67 s) in the underwater phase and 33.1% (2.34 s) free swimming. There were
+also significant differences for specific parameters between male and female. Males
+produced significantly larger horizontal take-off velocity (0.52 m/s-1, p < 0.001,
+Large), peak horizontal force (0.22 Body Weight, p < 0.001, Large) and were also
+able to produce faster underwater velocities than females for all segments. Males
+also travelled significantly deeper (0.20 m, p < 0.001, Large) than females. For the
+underwater parameters, there were significant differences in all average velocities
+and split times, horizontal distance of max depth of head (0.08m, p = 0.08,
+Large), underwater velocity (0.27 m/s, p < 0.001, Large) and breakout distance
+(1.33 m, p = 0.02, Small). These differences resulted in males being on average
+0.95 seconds faster than females to 15 m. The results showed that there are clear
+variances in start performance between male and female athletes: Males are better
+able to generate greater force and velocity in the early phases of the start, which
+translates into faster overall start performances.
+Freestyle vs Butterfly
+The same study by Tor et al. (2014a) was one of the first to compare the differences
+between freestyle and butterfly for the kick-start technique. There were no
+significant differences in the above-water parameters between the two strokes. The
+differences existed in the underwater phase: Butterfly swimmers had a significantly
+deeper max depth (0.21 m, p = 0.01, Large) that was further away from the start
+blocks (0.82 m, p < 0.01, Large), spent more time underwater (1.10 s, p < 0.00,
+Large), had a higher underwater velocity (0.12 m/s, p = 0.02, Medium), and a longer
+breakout distance (2.24 m, p < 0.00, Large) than the freestyle swimmers. Even
+though butterfly swimmers spent longer and travelled faster underwater, there were
+no significant differences in overall start performances or split times. This finding
+would suggest that freestyle swimmers commence free swimming earlier and are
+able to compensate for a slower underwater velocity with higher free-swimming
+velocity than butterfly swimmers.
+Key Parameters of the Swimming Start
+It is important for sport scientists and coaches to understand the key parameters
+of start performance in order to enhance it. In a study by Tor et al. (2015c), take-
+17
+CONTEMPORARY SWIM START RESEARCH
+off horizontal velocity was identified as the most important parameter during the
+above-water phase. An increase in take-off horizontal velocity would typically result
+in the swimmer entering the water at a flatter angle. Hence, the effect of increasing
+this parameter can be negated if the swimmer does not maintain velocity during the
+underwater phase, due to an increased amount of resistance acting on him or her.
+This finding further highlights the importance of identifying the ideal underwater
+trajectory to reduce the amount of deceleration that occurs during the underwater
+phase following entry into the water. Additionally, the key criteria of the underwater
+phase for start performance were time underwater in descent, time underwater in
+ascent, and time to 10 m. Extra specific statistical analysis also revealed that time
+of maximum depth, time of first kick, and horizontal distance of maximum depth
+would significantly affect the underwater phase. These parameters, along with
+time underwater in descent, time underwater in ascent, and time to 10 m, would
+affect the trajectory adopted by the swimmer. Therefore, developing greater take-
+off horizontal velocity and focusing on the underwater phase by finding the ideal
+trajectory would lead to improved start performance.
+It has already been identified that the trajectory used by the swimmer during the
+underwater phase would have implications on the amount of drag acting on the
+swimmer and in turn the velocity achieved (Houel et al., 2012). To some extent,
+the right combination of these variables is individual; however, there is still value
+in identifying the main criteria that would contribute to start performance using
+elite swimmers. These main parameters, identified using a large population of elite
+swimmers, would provide coaches and sport scientists with a guide to improving
+start performances in the future.
+18
+Three Common Underwater Trajectories
+After having identified the importance of the underwater phase, particularly the
+underwater trajectory, Tor et al. (2015a) aimed to compare underwater trajectories
+using the kick-start technique with an elite population. In this study, swimmers were
+asked to perform a series of freestyle dives at three depths. The depths were
+categorized as Dive 1, Dive 2, and Dive 3. Dive 1 was typically characterized by
+swimmers resurfacing as fast as possible with minimal underwater kick. During
+Dive 1, the swimmers were asked to resurface and commence free swimming almost
+immediately after entry. Dive 2 was a gradual descent followed by a gradual ascent.
+For this dive, the swimmers were asked to dive deeper and aim to resurface around
+the 10 m mark. Finally, during Dive 3 the swimmers were asked to dive down deep
+and resurface to commence free swimming at the 15 m mark. Each dive trial was
+tested using the Wetplate Analysis System. The Wetplate Analysis System is a
+proprietary system developed by the AIS Aquatic Testing, Training, and Research
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+Unit (ATTRU). It consists of an instrumented starting block with the same dimensions
+as the Omega OSB11 starting block (that is used at all major international
+competitions), and a series of high-speed cameras (Mason et al., 2012; Tor et al.,
+2015d).
+It was found that the fastest trajectory is a trade-off between the time spent
+underwater and the maintenance of velocity generated during the first two phases
+of the start. There were no significant differences between dive conditions for
+average velocity during the 7.5–10m segment; however, there were differences in
+the segment before (5–7.5 m) and after (10–15 m). Dive 1 would have been fully
+surfaced and free swimming during this segment, while Dive 2 and Dive 3 would
+have been in the underwater phase, but presumably at different depths. It is likely
+that Dive 2 and Dive 3 would experience a larger deceleration during this segment
+than Dive 1 due to the increase in resistance just below the surface of the water
+and greater propulsion created through free swimming. Consequently, the higher
+velocities achieved in the 5–7.5 m segment by Dives 2 and 3 are nullified during the
+7.5-10 m segment due to Dive 1 free swimming while Dive 2 and Dive 3 were still
+underwater. Consequently, the velocity achieved by the swimmer during the start
+phase is not purely a result of the underwater phase; there are other parameters such
+as free swimming velocity that would affect start performance. Overall, the trajectory
+used in Dive 2 had the fastest time to 15 m, although this result was not significantly
+different from the trajectory used in Dive 3. While the differences between each
+dive condition were small, these changes are significant when working with an
+elite population and can practically contribute to improving start performance. For
+19
+CHAPTER 1: THE IMPORTANCE OF THE UNDERWATER PHASE
+example, the top three finishers in the Men's 100m Freestyle at the 2007 FINA World
+Swimming Championships were separated by only 0.04s (Hardt et al., 2009). Since
+these margins can be so small, any advantage in reducing race time is important to
+athletes, coaches, and sport scientists.
+One key practical application from this study involves the selection of underwater
+trajectories: coaches and swimmers must select a trajectory that is deep enough
+to reduce the effect of drag while still not so deep as to require excessive amounts
+of vertical travel and hence greater resultant distance. By adopting the correct
+underwater trajectory, the swimmer is able to maintain a higher velocity for longer
+during the underwater phase. Thus, swimmers should hold their glides for longer
+and commence their first kicks later in the underwater phase. Specifically, it is
+recommended that swimmers should commence the undulatory kick at approximately
+6.6 m and achieve a maximum depth of approximately -0.92 m to minimize the
+velocity lost during the underwater phase. This distance was the average used
+during Dive 2 and therefore may be used as an early estimate. Commencing free-
+swimming before this point would result in increased hydrodynamic resistance and
+reduced velocity. These results are in evidence during Dive 1, where swimmers
+commenced their first kick earlier.
+20
+How Does Drag Affect the Underwater Phase of the
+Swimming Start?
+During the underwater phase of the swimming start, drag is the largest resistance
+acting in the opposite direction to slow the swimmer down. Hence, swimmers need
+to adopt strategies to reduce this resistance. In short, there are three main types of
+drag that will act on the swimmer during the underwater phase of the swimming
+start: friction (or skin), form, and wave drag (Lyttle et al., 1998; Naemi et al., 2010;
+Naemi & Sanders, 2008; Sheehan & Laughrin, 1992; Vennell et al., 2006). Frictional
+drag represents the resistance produced from friction between the water and the
+surface of the swimmer (Lyttle et al., 1998). Form drag is the result of the differences
+between pressure at the leading and trailing edges of the body; boundary layer
+separation from the swimmer is the principal contributor (Naemi et al., 201

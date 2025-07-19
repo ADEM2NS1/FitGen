@@ -1,0 +1,888 @@
+Handbook of
+Sports Medicine
+and Science
+Swimming
+Second edition
+CITIUS ALTIUS FORTIUS
+An IOC
+Medical Commission
+Publication
+Fina
+FEDERATION INTERNATIONALE
+DE NATATION
+Blackwell
+Publishing
+EDITED BY
+Joel M. Stager
+David A. Tanner
+00
+4
+4
+Handbook of Sports Medicine and Science
+Swimming
+http://avaxho.me/blogs/ChrisRedfield
+IOC Medical Commission
+Sub-Commission on Publications
+in the Sport Sciences
+Howard G. Knuttgen PhD (Co-ordinator)
+Boston, Massachusetts, USA
+Harm Kuipers MD, PhD
+Maastricht, The Netherlands
+Per A.F.H. Renström MD, PhD
+Stockholm, Sweden
+Handbook of Sports Medicine
+and Science
+Swimming
+EDITED BY
+Joel M. Stager PhD
+and
+David A. Tanner PhD
+Department of Kinesiology
+Indiana University
+Bloomington, IN
+USA
+Second Edition
+Blackwell
+Science
+1991 Blackwell Scientific Publications Ltd
+2005 by Blackwell Science Ltd
+a Blackwell Publishing Company
+Blackwell Science, Inc., 350 Main Street, Malden, Massachusetts 02148-5020, USA
+Blackwell Publishing Ltd, 9600 Garsington Road, Oxford OX4 2DQ, UK
+Blackwell Science Asia Pty Ltd, 550 Swanston Street, Carlton, Victoria 3053, Australia
+The right of the Authors to be identified as the Authors of this Work has been asserted in accordance with
+the Copyright, Designs and Patents Act 1988.
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise,
+except as permitted by the UK Copyright, Designs and Patents Act 1988, without the prior
+permission of the publisher.
+First published 1991
+Second edition 2005
+Library of Congress Cataloging-in-Publication Data
+Swimming/ edited by Joel M. Stager and David A. Tanner.-2nd ed.
+p. cm. (Handbook of sports medicine and science)
+Includes bibliographical references and index.
+ISBN 0-632-05914-1
+1. Swimming-Handbooks, manuals, etc. I. Stager, Joel McCormick. II. Tanner, David A. III. Series.
+RC1220.S8S937 2004
+613.7′16-dc22
+ISBN 0-632-05914-1
+A catalogue record for this title is available from the British Library
+Set in 8.75/12pt Stone Serif by TechBooks, New Delhi, India
+Printed and bound in India by Replika Press Pvt. Ltd
+Commissioning Editor: Andrew Robinson
+Production Editor: Nick Morgan
+Production Controller: Kate Charman
+For further information on Blackwell Publishing, visit our website:
+http://www.blackwellpublishing.com
+2004008705
+The publisher's policy is to use permanent paper from mills that operate a sustainable forestry policy, and which has been
+manufactured from pulp processed using acid-free and elementary chlorine-free practices. Furthermore, the publisher ensures
+that the text paper and cover board used have met acceptable environmental accreditation standards.
+Contents
+List of contributors, vi
+Foreword by the IOC, vii
+Foreword by FINA, viii
+Preface, ix
+1 Energy systems, 1
+Joel M. Stager and Michael A. Coyle
+2 Central adaptations: heart, blood,
+and lung, 20
+Joel M. Stager
+3 Peripheral adaptations: the skeletal
+muscles, 35
+Joel M. Stager
+4 The mechanics of swimming, 51
+Barry S. Bixler
+5 Resistance and propulsion, 59
+Barry S. Bixler
+6 Psychology, 102
+John S. Raglin and Brendon S. Hale
+7 Medical issues related to swimming, 115
+David F. Gerrard
+8 Training and testing of competitive
+swimmers, 128
+David B. Pyne and Wayne M. Goldsmith
+Index, 145
+V
+List of Contributors
+Barry S. Bixler
+Principal Engineer, Honeywell Engines and Systems,
+3145 W. Tyson Place, Chandler, AZ 85226, USA
+Michael A. Coyle PhD
+Vice President, Clinical Development, Pharmaceutical
+Division, VivoMetrics, 100 Overlook Center, Princeton,
+NJ 08540, USA
+David F. Gerrard MD
+Associate Professor, Academic Convenor-Sports
+Medicine, and Associate Dean-Student Affairs,
+University of Otago, Dunedin School of Medicine,
+PO Box 913, Dunedin, New Zealand
+Wayne M. Goldsmith
+Moregold Sports Pty. Ltd, PO Box 112, Charnwood,
+ACT 2615, Australia
+Brendon S. Hale MS
+Department of Kinesiology, Indiana University, 1025 E.
+7th Street, Bloomington, IN 47405-7109, USA
+David B. Pyne PhD
+Physiologist, Department of Physiology, Australian
+Institute of Sport, PO Box 176, Belconnen, ACT 2616,
+Australia
+John S. Raglin PhD
+Department of Kinesiology, Indiana University, 1025 E.
+7th Street, Bloomington, IN 47405-7109, USA
+Joel M. Stager PhD
+Department of Kinesiology, Indiana University, 1025 E.
+7th Street, Bloomington, IN 47405-7109, USA
+David A. Tanner PhD
+Department of Kinesiology, Indiana University, 1025 E.
+7th Street, Bloomington, IN 47405-7109, USA
+vi
+Foreword by the IOC
+The athlete's health has always been a priority for the
+International Olympic Committee. I therefore wel-
+come the initiative by the IOC Medical Commission,
+with Blackwell Publishing, to republish, after 12 years,
+the Swimming handbook.
+An Olympic sport since the first Games of the
+modern era in 1896, swimming has always aroused
+great interest among both the public and the medical-
+scientific community.
+Through the diversity of its disciplines, and espe-
+cially because it is practised in an unnatural environ-
+ment for man, swimming has always been the subject
+of a great deal of sports-medicine research. This re-
+search, both biomechanical and biophysiological, has
+brought about an improvement in athletes' condi-
+tions and training equipment and, consequently, their
+performances.
+I am convinced that this book will be a useful refer-
+ence tool for sports doctors as well as the medical and
+paramedical entourage of any athlete. Let us thank the
+authors for this!
+Jacques Rogge
+IOC President
+vii
+Foreword by FINA
+On behalf of the Fédération Internationale de Nata-
+tion (FINA), it is my pleasure to introduce you to
+the second edition of Swimming, an IOC Handbook
+of Sports Medicine and Science, which is mainly de-
+voted to the physical, biomechanical, psychological;
+medical and training problems in competitive swim-
+ming. As world governing body for the disciplines of
+swimming, diving, water polo, synchronised swim-
+ming and open water swimming, FINA is obviously in-
+terested in the widest possible transmission of knowl-
+edge to our athletes, coaches, physicians and officials
+involved in our sport.
+As one of FINA's goals is to disseminate and accel-
+erate the participation of young competitors in our
+disciplines, it is of relevant importance to detect, cor-
+rect and prevent the health or injury problems that are
+inevitably associated with the practice of any physical
+activity. The engagement in this area led to the cre-
+ation of a FINA World Sports Medicine Congress, held ev-
+ery two years, and to which are invited scientific and
+clinical experts with an interest in the field of medicine
+applied to aquatic sports.
+We are also proud of counting with the FINA Sports
+Medicine Committee that has the duty of providing
+medical and sport science expertise and gives recom-
+mendations regarding health conditions in the prac-
+tice of our sports. The professors, doctors and other
+specialists of this Committee are continuously search-
+ing for new ideas and suggestions on how to improve
+and develop the medical aspects of our aquatic disci-
+plines.
+This Handbook, edited by the IOC, is a precious tool
+to help our members in the prosecution of their activ-
+ities, as our main goal is to be useful to the aquatic
+community formed by our 187 Member National Fed-
+erations. That is why I especially salute the editors and
+contributors who devoted their time and effort to the
+elaboration of this publication.
+Mustapha Larfaoui
+FINA President
+viil
+Preface
+At a recent coaching convention, one of the keynote
+speakers concluded that nothing particularly inno-
+vative has happened within competitive swimming
+in the last 25 years. The speaker presented evidence
+that illustrated his point and cited swim goggles, lane
+lines, interval training, touch pads, pace clocks, and
+age group swimming as important innovations that
+acted to transform competitive swimming in the 1950s
+through the 1970s. It is our hope that while this argu-
+ment might be seen by some to be valid, the topics
+presented within this handbook will be cause for this
+conclusion to be challenged.
+The truth is that the world of competitive sports is
+far from static and is constantly changing. It should be
+obvious that significant change has resulted from re-
+cent advances in science and technology. The history
+of our sport over the course of the past 100 years of or-
+ganized competitive swimming is essentially a descrip-
+tion of the athletes, their coaches, and their collective
+accomplishments. In the next decade, however, the
+history of swimming will be defined by advances in
+technology, spearheaded by scientific innovators.
+In the past year, the world lost two men devoted
+to innovation and science in swimming. Allen B.
+Richardson, MD, coauthor of the first edition of this
+handbook, passed away in September 2003. Then in
+January 2004 we lost our mentor and friend, James E.
+(Doc) Counsilman. Both men were committed to im-
+proving performance and prolonging the "competi-
+tive lives" of swimmers by adapting knowledge from
+far-ranging fields into the daily routines of swim-
+mers. We, therefore, respectfully dedicate this book to
+them.
+Our association with Doc Counsilman goes back
+over 35 years and we both admit to have been greatly
+influenced by his lifelong passion for swimming. Doc
+often lectured about the "Three C's of Learning: Cu-
+riosity, Confusion, and Comprehension." Learning
+begins with curiosity as to why we do something or
+how this or that works. Confusion follows when things
+don't make sense or the rationale behind a practice is
+found faulty. Comprehension results from repeated
+observations and the testing of hypotheses. Over the
+course of time, by asking questions and challenging
+the status quo, advances in knowledge are attained. To
+paraphrase from Robert Persig, "Scientific truth is not
+dogma, good for eternity, but a temporal quantitative
+entity... the time spans of scientific truths are an in-
+verse function of the intensity of scientific effort. The
+more you look, the more you see." Doc Counsilman
+was most proud of his ability to question, see, and then
+implement new things that would directly affect how
+fast swimmers swim.
+This is an "up-front" acknowledgment that the
+Handbook of Swimming is not intended for the begin-
+ner swimmer. Rather, it is for the serious student of
+the sport, one with the curiosity and the motivation to
+delve into the fine details. Some of this material is very
+complicated, especially the two chapters pertaining to
+the biomechanics of swimming. Ones first impression
+might be that the average swim coach does not need to
+know about symmorphosis or the hydrodynamics of
+swimming, but the controversy surroundingadvances
+in medicine and the new technologies require that we
+learn more about fundamental physics and physiol-
+ogy in order to play an active role. It is likely that these
+ix
+x Preface
+chapters will lead to confusion for many of us, but
+with further study, as Doc suggested, comprehension
+can be achieved.
+We would like to recognize the coauthors of the first
+edition of this handbook for their fine work: David
+L. Costill, Ernest W. Maglischo, and the late Allen
+B. Richardson. We thank the contributing authors
+of this edition: Barry Bixler, Michael Coyle, Wayne
+Goldsmith, Brendon Hale, David Gerrard, David Pyne,
+and Jack Raglin. We commend Nick Morgan of Black-
+well Publishing for his patience with us and espe-
+cially thank Howard G. Knuttgen for coordinating the
+Handbook of Sports Medicine and Science series.
+Joel M. Stager, PhD
+David A. Tanner, PhD
+Chapter 1
+Energy systems
+Joel M. Stager and Michael A. Coyle
+Introduction
+Human performance begins at the cellular level, thus
+the discussion pertaining to the physiology of swim
+performance must begin there as well. Ultimately, as
+a swimmer's cells go, so goes the rest of the body. An
+architect knows that when the bricks of a wall begin to
+crumble, the building will eventually fall! So too, when
+the metabolic processes of the cells fail, the swimmer
+can no longer perform.
+The concepts that govern cells and their viability are
+the same as those that govern the body, its tissues, and
+organ systems. Tissues are collections of different cell
+types while organs consist of different tissue types. Or-
+gans make up systems and systems make up the body,
+ultimately constituting a competitive swimmer. How
+a swimmer adapts to a training regime and the causes
+of a swimmer's fatigue are determined at the level of
+the cell; therefore, swim performance is conferred up-
+wards to the complexity level of the entire athlete. The
+muscle cells are the star performers and the cardiopul-
+monary, gastrointestinal, renal, and CNS represent the
+supporting cast.
+Regardless of the nature of the response or specific
+task performed, all physiological work done by a mus-
+cle cell requires energy. Although the various cells and
+cell types of the body are specialized to perform dif-
+ferent physiological functions, regardless of the type
+of work performed, cell metabolism must increase to
+meet energy needs or work cannot continue. The first
+point of discussion concerning swim performance
+and fatigue then is how cells (in particular the muscle
+cells) supply the energy to do physiological and physi-
+cal work. Once a basis for understanding is developed,
+this information can provide a better platform upon
+which a rational training plan can be built.
+Energy for exercise
+The ability to increase the mechanical work done by
+the swimmer is ultimately determined by the ability
+of the muscle cells to provide the energy to do the work.
+Whole body metabolic rate can increase more than 40-
+fold in well-conditioned athletes, with the increased
+rate of metabolism of the various active tissues (skele-
+tal muscles) being nearly 100 times their metabolic
+rate at rest. The increase in energy demand is supplied
+by accelerating the output of several metabolic path-
+ways. The metabolic pathways that provide energy
+can be separated into those that do not require oxy-
+gen, the immediately available phosphogens and gly-
+colysis, and the single metabolic pathway that does,
+the Krebs or tricarboxylic acid (TCA) cycle (Fig. 1.1).
+The maximum energy outputs of these three pathways
+will determine the ultimate performance in swim-
+ming events ranging from 50 to 1500 m and beyond.
+At rest, a swimmer's oxygen consumption is appro-
+ximately one third of a liter per minute. The oxygen
+consumption of mature, elite, well-trained swimmers
+can exceed 6 1-min-¹ during near maximal swim-
+ming. Estimates of the increase in nonoxidative en-
+ergy production during swimming are more difficult
+to make and impossible to measure. Estimates suggest,
+1
+2 Chapter 1
+Carbohydrates
+Muscle cell
+2 ATP
+Glycolysis
+CP
+ADP + Pi
+1
+ATP
+2
+2 ATP
+Lactic acid ←←
+Mitochondrion
+CO2
+-2 ATP
+Pyruvate
+CO2
+Acetyl CoA
+TCA
+cycle
+3
+CO2
+Fatty acids
+Amino acids
+deamination
+Beta
+oxidation
+NADH + H+
+FADH2
+02
+ETC
+ATP + H₂O
+however, that a power output that is equal to twice
+that of the aerobic capacity may be attained by swim-
+mers during "all-out" sprints.
+From the perspective of a typical swimming event,
+two issues are evident. First, although nonoxygen con-
+suming pathways are considered less efficient, they
+must provide the energy at the beginning of exercise
+because oxidative (aerobic) metabolism requires sev-
+eral minutes to fully accelerate. There is no way for the
+cells to anticipate the metabolic power output prior
+to a muscular contraction. For a short period of time
+then, at the beginning of a swim bout, there is a deficit
+between the energy required to do work and the ox-
+idative means to supply it (Fig. 1.2).
+Second, energy requirements beyond those which
+can be provided by aerobic metabolism must come
+from more than one metabolic pathway. The instan-
+taneous power output that many muscles are capa-
+ble of performing is greater than that which can be
+supported by aerobic metabolism. Therefore, at high
+exercise intensities multiple pathways are engaged to
+provide the necessary energy to do work. As is ex-
+plained later, the greater the nonoxidative energy con-
+tribution, the shorter the time this high power output
+can be sustained.
+Source of energy for exercise
+Ultimately, the energy to do cellular work is derived
+from chemical bonds and is contained within the
+compound adenosine triphosphate (ATP). ATP is pro-
+duced within each cell from intracellular as well as
+extracellular substrates. The maximal ATP production
+of the cell is related to the concentration of reactants,
+cofactors, and the concentration and characteristics
+of the various enzymatic pathways.
+Under certain circumstances the ability of the cells
+to produce ATP may be limited by the availability of the
+Fig. 1.1 Overview of the three
+energy systems: (1) Immediate,
+(2) glycolysis, and (3) aerobic. The
+immediate ATP-CP system takes
+place in the cytosol of the cell and
+produces one ATP for each creatine
+phosphate (CP). Glycolysis
+metabolizes glucose in the cytosol,
+producing a net of 2 ATP and either
+pyruvate or lactic acid. Pyruvate
+enters the mitochondria and goes
+through the TCA cycle. Oxygen (O2)
+accepts the hydrogen ions produced
+by glycolysis and the TCA cycle to
+result in ATP and water. Fatty acids
+go through beta oxidation before
+entering the TCA cycle. Amino acids
+are deaminated before entering the
+TCA cycle. The aerobic system
+produces a net of 36-38 ATP from
+glucose and 129 from the fatty acid
+palmitate. ETC: electron transport
+chain.
+necessary fuel substrates and reactants. At high work
+intensities, however, most of the fuel for metabolism is
+from intracellular sources. Delivery of metabolic sub-
+strates to the cell is a potential limiting factor only at
+less intense, more prolonged efforts. It appears, how-
+ever, that during heavy exercise, the ability of the car-
+diovascular system to act in this delivery capacity may
+be the limiting factor in aerobic metabolism. Specif-
+ically, oxygen transport, (rather than metabolic sub-
+strate transport) appears to limit aerobic metabolism.
+Rather than the ability of the peripheral tissues to
+utilize oxygen, the evidence suggests that for most
+athletes it is the ability of the transport system to
+provide O2 that may limit aerobic metabolism.
+The substrates for energy metabolism include car-
+bohydrates, fats, and proteins. Fats and carbohydrates
+may be stored locally within the muscle cells or else-
+where in specific storage tissues, such as adipose tissues
+and the liver. Proteins are generally not considered to
+be "stored" anywhere to any significant extent. They
+exist as components of the tissues, as circulating enti-
+ties in the blood, and as compounds absorbed during
+digestion from the gut, following a meal (Fig. 1.3).
+Necessary reactants with all of these substrates dur-
+ing metabolism include oxygen and certain vitamins
+Energy systems 3
+Oxygen uptake
+Energy requirement
+Glucose
+▲ Free fatty acid
+* Amino acid
+Adipose
+cell
+GI
+tract
+1
+2
+3
+Time (min)
+Δ
+Fig. 1.2 Oxygen uptake as a function of time during
+intense exercise. During the initial seconds of intense
+exercise, the difference between the energy required to
+swim and the energy supplied aerobically is the oxygen
+deficit.
+Liver
+*
+*
+Δ
+Π
+Vein
+*
+A
+Lung
+02
+CO₂
+O2
+CO₂
+Π
+Heart
+Capillaries
+CO₂
+Artery
+*
+Glucose
+Glycogen
+Amino
+acid
+Box
+TCA
+ETC
+Mitochondrion
+Muscle cell
+Fat
+ATP
+H₂O
+Fig. 1.3 Model of the respiratory system, including the
+pathways for oxygen (O2), carbon dioxide (CO2), and
+substrates. Carbohydrates, proteins, and fats enter the
+blood from the gastrointestinal (GI) tract. Glucose and free
+fatty acids are transported in and out of the liver. The
+heart pumps blood throughout the body. Oxygen enters
+the blood and CO2 leaves the lung. The substrates enter
+the muscle cell to be metabolized, producing CO2, water,
+and ATP. ETC: electron transport chain.
+and minerals that act as coreactants. The important
+point, however, is that while certain substrates that
+the body processes into usable energy forms may
+be stored, ATP itself isn't stored to any great extent.
+Cells utilize an "on demand" energy system cued by
+4 Chapter 1
+the ratio of substrates to products within the various
+metabolic pathways. In other words, the ATP neces-
+sary for cellular work is generated when, and only when,
+there is a demand for it. The demand is signaled by the
+presence of the ATP breakdown products adenosine
+diphosphate (ADP) and adenosine monophosphate
+(AMP) and by the ratio of ATP to ADP.
+Metabolic feed-forward "turbocharger" mechanism
+In some ways this "on demand system" is analogous to a tur-
+bocharger unit popular on the engines of high-performance au-
+tomobiles. A "turbo" unit supplies extra air to the engine when
+demanded by the driver by putting his or her foot to the floor. The
+compressed air provided by the turbo unit delivers more oxygen
+to the engine and therefore allows greater fuel combustion for
+increased power. However, because the turbocharger is spun by
+the engine's exhaust gases, there must be an increased engine
+output (more exhaust) before there can be an increased input
+(more oxygen) from the turbo unit. Some work must be done be-
+fore increased input can be achieved. Figure 1.4 represents the
+feed-forward "turbocharger" mechanism of the muscle cell. Aero-
+bic metabolism and glycolysis are fueled by metabolic exhaust in
+the form of ADP. In order to get the metabolic machinery revved
+up, some ADP must be created, and the faster ADP is produced,
+the faster metabolism will attempt to meet the energy needs of
+the cell.
+Metabolic substrates:
+the phosphogens
+Within the cell, prior to the energetic need, there is
+no way to anticipate the ATP required for subsequent
+physiological work. There must be a rapidly respond-
+ing energy production system that reacts quickly to
+the demand placed upon the cell as a result of work
+done. The increased energy usage sets into motion in-
+creased energy production. Increased cellular exhaust,
+if you will, signals an increased flux of substrates into
+the various pathways and energy generation is acceler-
+ated to meet the increased need. This initial burst of en-
+ergy is provided by immediate energy sources within
+the cells: ATP and creatine phosphate (CP).
+Muscle cell
+ATP
+CP
+ADP
+Pi
+Cr
+ATP
+CP
+CP
+ATP
+ADP
+ATP
+"METABOLIC
+EXHAUST"
+ADP
+Cr
+Pi
+....
+CP
+ATP
+Glycolysis
+ADPATP
+Aerobic
+ADP
+ATP
+ATP
+CP
+Fig. 1.4 The "turbocharger" model
+of metabolism. The production of
+ADP, inorganic phosphate (P₁), and
+creatine in the muscle cell "primes"
+the left side of the turbocharger unit,
+driving the regeneration of ATP and
+CP via glycolysis and aerobic
+metabolism.
+ATP
+So, unlike in a factory where vast stockpiles of raw re-
+sources and spare parts are compiled for later use, there
+is not much room within most cells for maintaining
+an "energy inventory." This is particularly true for the
+skeletal muscle cells. Maximal sustained rates of work
+are not a function of immediately available "stored
+energy." The limiting factor to extended submaximal
+performance is the rate at which the raw substrates can
+be delivered and or converted to usable energy sources.
+Thus it is that ATP exists in the body in limited quan-
+tities, i.e., there are no vast stockpiles of ATP within
+the cell or within the body as there is no place to store
+it. Biochemists estimate that only about 100 g of ATP
+can be purified from the human body. Roughly half
+this ATP exists within the skeletal muscles. In contrast,
+the amount of ATP required to do all of the necessary
+physiological work done on a daily basis for an average
+human being is estimated to be approximately equal to
+body weight (about 70 kg)! Interestingly, this is also ap-
+proximately the amount of additional ATP required to
+run a marathon or complete a typical two-a-day swim
+workout.
+The breakdown of ATP to ADP and inorganic phos-
+phate (Pi) is enough to provide the initial impulse
+that signals the acceleration of energy consumption
+and therefore energy production. But, the immedi-
+ately available energy sources are barely enough "fuel"
+to produce a few seconds of intensive effort, although
+the power output is very high compared to glycolysis
+and the aerobic pathways. Immediate energy sources
+can generate power at a rate more than three times that
+of the TCA cycle and more that twice that of glycolysis.
+Creatine phosphate
+Creatine phosphate is the other readily available phos-
+phogen and also exists in limited concentrations. Es-
+timates suggest that only about 120 g of CP exist in
+the body, with most of this found within the muscles
+(4 g·kg-1). However, it is important to reiterate that
+sustained exercise is rarely limited by the immediate
+availability of ATP or CP, rather, it is the ability to re-
+generate ATP rapidly which usually sets a limit to pro-
+longed muscular work.
+To return to our internal combustion engine model
+for a moment, everyone can understand that the max-
+imum speed of a car is not a function of how large the
+Energy systems 5
+gas tank is. It is also true that automotive speed is only
+partially related to how large the engine displacement
+is. Semitrucks, for instance, have very large engines but
+are not necessarily the fastest vehicles on the road. The
+really high-performance engines depend upon how
+fast the crankshaft spins (how many revolutions per
+minute, rpm) and on the engine displacement (piston
+travel and cylinder volume) to make the car go really
+fast. Cells that do lots of physiological work have the
+metabolic machinery that allows recycling of ADP to
+ATP very rapidly. For a swimmer to swim fast then, it
+is only partially a function of having a lot of ATP in
+a large fuel tank. Sprinters, more so than endurance
+swimmers, rely on the large fuel tank (immediately
+available phosphogens) to be successful. Endurance
+swimmers have the ability to convert substrates into
+energy very quickly. It is this turnover rate, the rate at
+which ATP can be recycled from ADP or CP, that largely
+influences mid- to long-distance swim performances.
+One important conclusion from this knowledge is
+that it is virtually worthless to ingest ATP as a means
+to improve performance. Various supplement prod-
+ucts that include ATP in their composition are com-
+mercially available. It is unlikely that these supple-
+ments are effective given that the ingested ATP would
+have to be (1) absorbed by the gut, (2) left undigested
+by stomach acids and enzymes, (3) transported to
+the metabolically active site via the vascular system,
+(4) diffused into the metabolically active site, and
+(5) of enormous quantity. A few slurps of ATP from a
+small plastic vial represent a very unlikely supplement
+to a swimmer's premeet diet.
+Metabolic substrates: carbohydrates,
+fats, and proteins
+It cannot be said that significant stockpiles of fuel
+substrates from which energy can be metabolized to
+form ATP do not exist. Adipose cells, which comprise
+the fat pads of the body, serve as reservoirs of lipids.
+Muscle cells have local extracellular fat deposits as
+well as intracellular lipid reservoirs. Lipids, or rather
+fatty acids, are available to the cells as particularly effi-
+cient fuel substrates. Fat contains roughly twice the
+energy density per gram of carbohydrates and pro-
+teins. It is estimated that average sedentary female
+may have stored lipids which when processed into
+energy equivalents might be in excess of 200 000 cal,
+6 Chapter 1
+while the average man may carry the equivalent of
+about 200 000 cal. Given that the average person requires
+about 2000 cal a day to do the minimum cellular bio-
+logical work, this stored fat can provide the energy for
+nearly 100 days. But once again, having lots of fat does
+not necessarily mean that the capacity to generate en-
+ergy quickly is particularly great.
+In contrast to fats, however, carbohydrates are not
+stored in peripheral deposits within the body. There
+are no sugar cubes or subcutaneous sugar crystals that
+can be felt through the skin. Because carbohydrates
+represent an important substrate during exercise, they
+are perceived as limiting to prolonged performances
+and extended swim practices. Studies suggest that the
+carbohydrate stores within the active muscle can be
+easily depleted within a typical swim workout and that
+the ability to replenish these carbohydrate stores be-
+tween workouts may be a critical factor in training well.
+One of the effects of intensive physical swim train-
+ing is to adapt the muscle cells to use more fat as a fuel
+source. This occurs presumably as a means to spare the
+cell's limited carbohydrate supplies. Because of their
+importance in fueling exercise, carbohydrate intake
+is an important parameter to monitor in swimmers
+participating in multiple workout days and multiple
+practice days per week. The importance of carbohy-
+drate metabolism should be evident from the exten-
+sive interest in the role of lactic acid formation during
+and following swimming bouts. Lactic acid produc-
+tion comes as a direct result of using carbohydrates as
+a fuel source to generate energy during an intensive
+swim effort.
+The flip side of elite performance and its understand-
+ing is an analysis of the factors that cause fatigue dur-
+ing practice as well as during a competitive swim event.
+While fatigue is multifactorial, one well-accepted, fun-
+damental cause of fatigue is the inability to maintain
+the energy requirements of the muscle. A detailed ex-
+planation of carbohydrate metabolism via glycolysis
+is appropriate, as is a closer look at what Brooks et al.
+(1996) refer to as "the mythology of lactic acid."
+Three metabolic pathways
+There are three pathways for generating energy: the
+ATP-CP system, glycolysis, and aerobic metabolism.
+We also know that there are three substrates from
+which cellular energy can be derived: carbohydrates,
+fats, and proteins. Finally, we know that each path-
+way has defined upper limits, or capacities, that are
+"trainable" to different extents.
+ATP-CP: the (nearly) immediately
+available energy
+At the onset of exercise, the first metabolic pathway
+engaged provides energy derived from the available
+intracellular ATP and CP within the muscle cell. This
+pathway involves the phosphogens ATP and CP and a
+single enzyme, creatine kinase, that catalyzes the re-
+action between the two. A second pathway, referred to
+as the myokinase system, generates ATP (and an AMP)
+from two ADP molecules. It acts to buffer the fall in ATP
+when energy needs are extreme. Beyond a description
+of the intermediates and the energetic capacity of the
+pathway, there isn't much more to be said about the
+contribution of the immediately available phospho-
+gens. Phosphogen levels increase little with training,
+essentially in proportion to increases in muscle vol-
+ume. Estimates of recovery time required for this path-
+way, given a complete exhaustion of the high-energy
+intermediates, range from nearly instantaneous to 30 s
+or so.
+Current debate surrounds the effectiveness of using
+creatine and/or phosphate as a means to increase intra-
+cellular concentrations prior to exercise. Recent data
+are inconsistent concerning the ability to increase cre-
+atine levels through dietary manipulation. Some re-
+ports suggest that increased intake of creatine can en-
+hance power output during short sprint performance
+through perhaps the 200-m events. The data specifi-
+cally concerning improvements in swim performance
+due to creatine supplementation are difficult to inter-
+pret as the research designs used in these studies are
+easy to criticize.
+Glycolysis
+Glycolysis, the second pathway, metabolizes carbohy-
+drates and involves a series of 12 enzymes and multi-
+ple metabolic intermediates (Fig. 1.5). The pathway
+breaks down glucose as the fuel substrate, requires
+no oxygen, and ends with the production of ATP
+and either pyruvate or lactic acid. During prolonged
+exercise, glycolysis is limited by the availability of car-
+bohydrates as a source of energy. The carbohydrate
+Energy systems 7
+Glucose
+1
+ATP
+A
+ADP
+2
+B
+3
+ATP
+C
+ADP
+4
+D
+Intermediates
+1 Glucose
+2 Glucose 6-phosphate
+3 Fructose 6-phosphate
+4 Fructose 1, 6-bisphosphate
+5 Glyceraldehyde 3-phosphate
+6 Dihydroxyacetone phosphate
+7 1, 3-bisphosphoglycerate
+8 3-phosphoglycerate
+9 2-phosphoglycerate
+10 Phosphoenolpyruvate
+6
+5
+E
+NAD+
+F
+11 Pyruvate
+NADH + H+
+Enzymes
+(7
+ADP
+A Hexokinase
+G
+B Phosphoglucose isomerase
+ATP
+C Phosphofructokinase
+8
+D Aldolase
+H
+E Triose phosphate isomerase
+9
+F Glyceraldehyde 3-phosphate
+dehydrogenase
+1
+NADH + H+
+G Phosphoglycerate kinase
+10
+NAD+
+H Phosphoglycerate mutase
+ADP
+I Enolase
+J
+ATP
+K
+J Pyruvate kinase
+11
+(12)
+K Lactate dehydrogenase
+2x Pyruvate 2x Lactic acid
+Fig. 1.5 The 12 steps of glycolysis, with associated enzymes.
+substrate is either stored within the muscle cell or
+is transported to the cell through the blood supply.
+Glucose can be considered a nonoxidative fuel source
+if the end products are considered to be pyruvate or
+lactate. Alternatively, glucose can be considered an
+oxidative fuel source if pyruvate is further funneled
+through the TCA cycle ending with the products CO2,
+H2O, ATP, and heat.
+During intensive exercise and immediately follow-
+ing a meal high in carbohydrate, carbohydrates be-
+come the cell's preferred fuel source. In the past,
+glucose metabolism, or glycolysis, was commonly re-
+ferred to as anaerobic metabolism because oxygen is
+not directly involved in the process. Today, while still
+widely used, the term anaerobic is considered by some
+to be a misnomer, or at best, to be misleading. It has led
+to the belief that glycolysis takes place in the muscles
+only when there is a lack of oxygen. It is clear, however,
+that when great amounts of energy are needed quickly,
+glycolysis plays an important role in providing this en-
+ergy. Oxygen availability has been determined to have
+little to do with the metabolism of glucose or which
+of the two partial end products, lactate or pyruvate, is
+produced in greater abundance. It is even known, for
+instance, that lactic acid is produced at rest, as well as
+during light exercise, and that the extent to which it
+accumulates in blood is complex.
+Physiological systems tend to be conservative, thus
+at rest, and several hours

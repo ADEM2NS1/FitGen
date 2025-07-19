@@ -15,21 +15,6 @@ env/
 .env
 *.env
 
-# === Data / Models ===
-*.faiss
-*.npy
-*.pt
-*.h5
-*.onnx
-*.pkl
-*.joblib
-*.csv
-*.db
-*.sqlite
-*.json
-*.txt
-*.pdf
-
 # === Jupyter Notebooks Cache ===
 .ipynb_checkpoints/
 
