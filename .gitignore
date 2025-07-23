@@ -21,4 +21,6 @@ env/
 # === VSCode ===
 .vscode/
 
-temp
+*.db
+
+temp/
