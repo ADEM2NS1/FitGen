@@ -23,6 +23,7 @@ env/
 
 *.db
 .db
+*.db/
+.db/
 
-sql_app.db
 temp/
