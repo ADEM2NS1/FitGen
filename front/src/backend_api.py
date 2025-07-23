@@ -18,10 +18,13 @@ def login_user_api(username, password):
 def get_conversations_api(token):
     url = f"{BACKEND_URL}/conversations"
     headers = {"Authorization": f"Bearer {token}"}
+    print(f"DEBUG: Calling get_conversations_api at {url}") # ADDED for debugging conversation deletion
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
-        return response.json(), response.status_code
+        data = response.json()
+        print(f"DEBUG: get_conversations_api returned: {data}") # ADDED for debugging conversation deletion
+        return data, response.status_code
     except requests.exceptions.RequestException as e:
         st.error(f"API Error fetching conversations: {e}")
         return {"detail": str(e)}, 500

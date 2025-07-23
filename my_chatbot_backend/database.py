@@ -4,20 +4,22 @@ from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
-# SQLite database URL
-SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db"
-# For PostgreSQL/MySQL, you would use:
-# SQLALCHEMY_DATABASE_URL = "postgresql://user:password@host/dbname"
+# --- CHANGE THIS LINE ---
+# This will create a file named 'sql_app.db' in the same directory as your main.py
+SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db" 
+# For PostgreSQL or MySQL, it would look like:
+# SQLALCHEMY_DATABASE_URL = "postgresql://user:password@host:port/dbname"
+# SQLALCHEMY_DATABASE_URL = "mysql://user:password@host:port/dbname"
+# ------------------------
 
-# Create the SQLAlchemy engine
-# connect_args={"check_same_thread": False} is needed for SQLite when using multiple threads
-# (e.g., FastAPI's default background tasks), but not for other databases.
 engine = create_engine(
-    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
+    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False} # check_same_thread is needed for SQLite
 )
 
-# Create a SessionLocal class that will be a database session
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-# Base class for your SQLAlchemy models
 Base = declarative_base()
+
+# This function might be in main.py, but ensure it's called to create tables
+def create_db_tables():
+    Base.metadata.create_all(bind=engine)

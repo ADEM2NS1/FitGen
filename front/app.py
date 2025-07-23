@@ -15,11 +15,17 @@ from src.backend_api import (
 )
 from src.rag_system import (
     load_embedding_model, load_all_chunks_and_bm25, 
-    load_faiss_index, retrieve_context # retrieve_context now handles topic routing and truncation
+    load_faiss_index, retrieve_context 
 )
 from src.persistent_state import (
     set_persistent_login_data, get_persistent_login_data, clear_persistent_login_data
 )
+
+# === Streamlit UI Configuration ===
+st.set_page_config(page_title="FitGen AI Assistant", layout="wide")
+
+st.title("🏊‍♂️ FitGen AI Assistant: Your Swimming Knowledge Hub")
+st.markdown("Ask questions about swimming training, technique, and more!")
 
 # === Initialize Together.ai Client ===
 try:
@@ -32,18 +38,10 @@ except Exception as e:
     st.stop()
 
 # === Load RAG Resources ===
-# These are cached by Streamlit via decorators in rag_system.py
 embedding_model = load_embedding_model()
 all_chunks, bm25_model, all_sources = load_all_chunks_and_bm25(TEXT_DIR)
 
-# === Streamlit UI Setup ===
-st.set_page_config(page_title="FitGen AI Assistant", layout="wide")
-
-st.title("🏊‍♂️ FitGen AI Assistant: Your Swimming Knowledge Hub")
-st.markdown("Ask questions about swimming training, technique, and more!")
-
 # === Session State Initialization ===
-# Initialize session state variables for authentication and chat
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 if "auth_token" not in st.session_state:
@@ -55,20 +53,39 @@ if "conversations" not in st.session_state:
 if "current_conversation_id" not in st.session_state:
     st.session_state.current_conversation_id = None
 if "messages" not in st.session_state:
-    st.session_state.messages = [] # Current displayed messages for selected convo
-if "confirm_delete_triggered" not in st.session_state: # State for delete confirmation dialog
+    st.session_state.messages = []
+if "confirm_delete_triggered" not in st.session_state:
     st.session_state.confirm_delete_triggered = False
 
+# Add a flag to ensure we only try to restore session once per full app load
+if "restored_session_attempted" not in st.session_state:
+    st.session_state.restored_session_attempted = False
+
 # === Persistent Login Check at App Start ===
-# This block runs on every rerun (including full page refreshes)
-if not st.session_state.logged_in:
+if not st.session_state.logged_in and not st.session_state.restored_session_attempted:
+    st.session_state.restored_session_attempted = True # Mark that we've tried
+
+    # st.write("Attempting to restore session...") # Visual cue (can be removed once confirmed working)
     persisted_username, persisted_token = get_persistent_login_data()
+
+    # --- DEBUG PRINTS (check your terminal for these) ---
+    print("-" * 50)
+    print(f"DEBUG: App Load/Refresh - Current logged_in state: {st.session_state.logged_in}")
+    print(f"DEBUG: Retrieved username from Local Storage: '{persisted_username}'")
+    print(f"DEBUG: Retrieved token from Local Storage: '{persisted_token}'")
+    print("-" * 50)
+    # --- END DEBUG PRINTS ---
+
     if persisted_username and persisted_token:
         st.session_state.auth_token = persisted_token
         st.session_state.current_username = persisted_username
         st.session_state.logged_in = True
         st.info(f"Welcome back, {persisted_username}!")
-        st.rerun() # Rerun to switch to the logged-in UI immediately
+        print("DEBUG: Session restored successfully. Forcing rerun...")
+        st.rerun() 
+    else:
+        print("DEBUG: No persistent login data found or retrieved data was empty. User will remain logged out.")
+
 
 # --- Login/Registration Sidebar ---
 st.sidebar.title("Account")
@@ -118,6 +135,7 @@ else:
         st.session_state.current_conversation_id = None
         st.session_state.messages = []
         clear_persistent_login_data() # Clear token from local storage
+        st.session_state.restored_session_attempted = False # Reset flag on logout
         st.rerun()
 
     st.sidebar.markdown("---")
@@ -203,7 +221,8 @@ else:
                         st.success("Discussion deleted successfully!")
                         st.session_state.current_conversation_id = None
                         st.session_state.messages = []
-                        st.session_state.conversations = []
+                        st.session_state.conversations = [] # Clears the conversations list to force a refetch
+                        st.sidebar.write(f"Conversations state AFTER deletion: {st.session_state.conversations}") # ADDED for debugging conversation deletion
                     else:
                         st.error(f"Failed to delete discussion: {data.get('detail', 'Unknown error')}")
                 st.session_state.confirm_delete_triggered = False
@@ -222,52 +241,89 @@ else:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    if query := st.chat_input("Ask your question here...", disabled=not st.session_state.logged_in):
+    # === Logic to handle the initial query for new conversations ===
+    # Check if there's a pending query from a newly created conversation
+    query_from_chat_input = st.chat_input("Ask your question here...", disabled=not st.session_state.logged_in)
+    
+    # Prioritize a pending query from a new conversation setup
+    query_to_process = None
+    if "pending_query_after_new_conv" in st.session_state and st.session_state.pending_query_after_new_conv:
+        query_to_process = st.session_state.pending_query_after_new_conv
+        # Clear it immediately after retrieving to prevent reprocessing on subsequent runs
+        del st.session_state.pending_query_after_new_conv
+    elif query_from_chat_input:
+        query_to_process = query_from_chat_input
+
+
+    if query_to_process: # Process only if there's an actual query
+        # If starting a new conversation, create it first
         if st.session_state.current_conversation_id is None:
+            # Save the query before creating the conversation and rerunning
+            st.session_state.pending_query_after_new_conv = query_to_process 
+            
             with st.spinner("Starting a new discussion..."):
-                initial_title = query[:50] + ("..." if len(query) > 50 else "")
+                # Use first 50 chars of the query as the initial title
+                initial_title = query_to_process[:50] + ("..." if len(query_to_process) > 50 else "")
                 new_conv_data, status_code = create_conversation_api(st.session_state.auth_token, title=initial_title)
+                
                 if status_code == 200:
                     st.session_state.current_conversation_id = new_conv_data['id']
-                    st.session_state.conversations = []
-                    st.rerun()
+                    # Clear conversations list to force a full reload of the sidebar radio button options on next rerun
+                    st.session_state.conversations = [] 
+                    st.rerun() # Rerun to update the sidebar with the new conversation selected
                 else:
                     st.error(f"Failed to start new discussion: {new_conv_data.get('detail', 'Unknown error')}")
-                    st.stop()
+                    # If conversation creation fails, clear pending query to avoid infinite loop
+                    if "pending_query_after_new_conv" in st.session_state:
+                        del st.session_state.pending_query_after_new_conv
+                    st.stop() # Stop further execution if conversation isn't created
 
-        st.session_state.messages.append({"role": "user", "content": query})
-        with st.chat_message("user"):
-            st.markdown(query)
+        # This part runs for both existing conversations and for the *second* run of new conversations
+        # (after the st.rerun) where pending_query_after_new_conv has been populated and
+        # current_conversation_id is now set.
         
-        save_message_api(st.session_state.current_conversation_id, "user", query, st.session_state.auth_token)
+        # Add user message to chat history (local session state and backend)
+        st.session_state.messages.append({"role": "user", "content": query_to_process})
+        with st.chat_message("user"):
+            st.markdown(query_to_process)
+        
+        # Save user message to backend
+        save_message_api(st.session_state.current_conversation_id, "user", query_to_process, st.session_state.auth_token)
 
+        # Prepare messages for LLM, including system prompt and context
         llm_messages = []
+
+        # Add the system instruction for the LLM
         system_instruction = """You are a helpful assistant. Provide the answer directly and concisely based *only* on the provided context. Do NOT include any preamble, internal thoughts, or conversational filler. State only the answer."""
         llm_messages.append({"role": "system", "content": system_instruction})
 
-        for msg in st.session_state.messages[:-1]:
+        # Add conversation history for context (up to current user query)
+        for msg in st.session_state.messages[:-1]: # Exclude the current user query for now
             if msg["role"] in ["user", "assistant"]:
                 llm_messages.append(msg)
 
-        # Retrieve context using the new function from rag_system
+        # --- RAG logic: Retrieve context for the current query ---
         with st.spinner("Processing your request..."):
-            context = retrieve_context(query, embedding_model, all_chunks, bm25_model)
+            context = retrieve_context(query_to_process, embedding_model, all_chunks, bm25_model)
             
+            # Append the current user query with context to the LLM messages
             user_message_with_context = f"""Context:
 {context}
 
-Question: {query}"""
+Question: {query_to_process}"""
 
+        # --- Generate response from LLM ---
         with st.chat_message("assistant"):
             message_placeholder = st.empty()
             full_response = ""
             
+            # The 'messages' list now contains system instruction + history + current user query with context
             llm_messages.append({"role": "user", "content": user_message_with_context})
 
             try:
                 stream_response = client.chat.completions.create( 
                     model=MODEL_NAME,
-                    messages=llm_messages,
+                    messages=llm_messages, # Pass the full conversation history
                     max_tokens=MAX_TOKENS,
                     temperature=0.7,
                     stream=True
@@ -280,6 +336,7 @@ Question: {query}"""
                 
                 message_placeholder.write(full_response)
                 
+                # Add assistant response to chat history (local session state and backend)
                 st.session_state.messages.append({"role": "assistant", "content": full_response})
                 save_message_api(st.session_state.current_conversation_id, "assistant", full_response, st.session_state.auth_token)
 

@@ -20,3 +20,5 @@ env/
 
 # === VSCode ===
 .vscode/
+
+temp
